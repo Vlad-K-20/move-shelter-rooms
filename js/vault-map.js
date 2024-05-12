@@ -72,6 +72,8 @@ function showVaultMap() {
                 } else {
                     if (coordinatesHaveRock(r, c)) {
                         tableCol.classList.add("rock");
+                        tableCol.colSpan = 2;
+                        c += 1;
                     } else {
                         tableCol.classList.add("empty");
                     }
@@ -179,3 +181,8 @@ function getRoomOnMapLabel(room) {
     return `${roomMapLabel} (LVL ${roomLevel})`;
 }
 
+// TODO: Temporary. Remove when done
+window.onload = function() {
+    loadMapFromJson(exampleSaveJson);
+    showVaultMap();
+};

@@ -1,5 +1,5 @@
 table, td {
-    border: 1px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
 }
 
@@ -28,4 +28,9 @@ td.rock {
 
 td.room {
     background-color: cadetblue;
+}
+
+td.elevator:hover,
+td.room:hover {
+    background-color: green;
 }
