@@ -1,0 +1,31 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    height: 69px;
+    min-width: 30px;
+    max-width: 30px;
+    text-align: center;
+}
+
+td.disabled {
+    background-color: black;
+}
+
+td.elevator {
+    background-color: chocolate;
+}
+
+td.empty {
+    background-color: #3e2517;
+}
+
+td.rock {
+    background-color: gray;
+}
+
+td.room {
+    background-color: cadetblue;
+}
