@@ -35,56 +35,61 @@ function loadMapFromJson(json) {
 }
 
 function showVaultMap() {
-    const oldMapTable = document.getElementById("vault-map-table");
-    if (oldMapTable !== null) {
+    const oldMapContainer = document.getElementById("vault-map-container");
+    if (oldMapContainer !== null) {
         clearShelterMapContainer();
     }
-    const mapTable = document.createElement('table');
-    mapTable.setAttribute('id', 'vault-map-table');
+    const mapContainer = document.createElement('div');
+    mapContainer.id = 'vault-map-container';
+    mapContainer.classList.add('vault-map-container');
 
     for (let r = 0; r <= VAULT_MAX_ROW; r++) {
-        const tableRow = document.createElement('tr');
-        tableRow.setAttribute('r', `${r}`);
+        const mapRow = document.createElement('div');
+        mapRow.classList.add('vault-map-row');
+        mapRow.setAttribute('r', `${r}`);
         for (let c = 0; c <= VAULT_MAX_COL; c++) {
-            const tableCol = document.createElement('td');
-            tableCol.setAttribute('r', `${r}`);
-            tableCol.setAttribute('c', `${c}`);
+            const mapCol = document.createElement('div');
+            mapCol.classList.add('vault-map-col');
 
-            if (r in [0, 1] && c in [0, 1, 2]) {
-                tableCol.classList.add("disabled");
+            mapCol.setAttribute('r', `${r}`);
+            mapCol.setAttribute('c', `${c}`);
+
+            if (r === 0 && c in [0, 1, 2]) {
+                mapCol.classList.add("disabled", "col-1");
             } else {
                 const room = getInitialRoomByCoordinates(r, c);
                 if (room !== null) {
                     const roomLength = getRoomLength(room);
                     if (roomLength > 1) {
-                        tableCol.colSpan = roomLength
+                        mapCol.classList.add(`col-${roomLength}`);
                         c += roomLength - 1;
+                    } else {
+                        mapCol.classList.add("col-1");
                     }
-                    tableCol.textContent = getRoomOnMapLabel(room);
+                    mapCol.textContent = getRoomOnMapLabel(room);
                     const roomType = getRoomType(room);
                     if (roomType === vaultRoomsTypes.ELEVATOR) {
-                        tableCol.classList.add("elevator");
+                        mapCol.classList.add("elevator");
                     } else if (roomType === vaultRoomsTypes.FAKE_WASTELAND) {
-                        tableCol.classList.add("disabled");
+                        mapCol.classList.add("disabled");
                     } else {
-                        tableCol.classList.add("room");
+                        mapCol.classList.add("room");
                     }
                 } else {
                     if (coordinatesHaveRock(r, c)) {
-                        tableCol.classList.add("rock");
-                        tableCol.colSpan = 2;
+                        mapCol.classList.add("rock", "col-2");
                         c += 1;
                     } else {
-                        tableCol.classList.add("empty");
+                        mapCol.classList.add("empty", "col-1");
                     }
                 }
             }
-            tableRow.appendChild(tableCol);
+            mapRow.appendChild(mapCol);
         }
-        mapTable.appendChild(tableRow);
+        mapContainer.appendChild(mapRow);
     }
 
-    document.getElementById("shelter-maps-container").appendChild(mapTable);
+    document.getElementById("shelter-maps-container").appendChild(mapContainer);
 }
 
 function getInitialRoomByCoordinates(row, col) {
