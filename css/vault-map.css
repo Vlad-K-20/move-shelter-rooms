@@ -1,6 +1,8 @@
 :root {
-    --vault-map-col-height: 69px;
-    --vault-map-col-width: 30px;
+    --vault-map-col-width: 40px;
+    --vault-map-col-height: calc(var(--vault-map-col-width) * 2.3);
+    --vault-map-border: calc(var(--vault-map-col-width) / 20);
+    --vault-map-border-selected: calc(var(--vault-map-col-width) / 13.33333);
     --fallout-shelter-border-green: #065407;
     --fallout-shelter-background-green: #12fd15;
 }
@@ -9,7 +11,7 @@
     display: flex;
     flex-flow: column nowrap;
     width: max-content;
-    border: 2px solid black;
+    border: var(--vault-map-border) solid black;
 }
 
 .vault-map-row {
@@ -24,7 +26,7 @@
     text-align: center;
     align-content: center;
     box-sizing: border-box;
-    border: 1px solid black;
+    border: var(--vault-map-border) solid black;
 }
 
 .col-1 {
@@ -84,10 +86,11 @@
     background-color: cadetblue;
 }
 
-.vault-map-col.elevator:hover,
-.vault-map-col.elevator.selected,
-.vault-map-col.room:hover,
-.vault-map-col.room.selected {
+.vault-map-col:is(.room, .elevator) {
+    cursor: pointer;
+}
+
+.vault-map-col:is(.elevator, .room):is(.selected, :hover) {
     background-color: var(--fallout-shelter-background-green);
-    border: 3px solid var(--fallout-shelter-border-green);
+    border: var(--vault-map-border-selected) solid var(--fallout-shelter-border-green);
 }
