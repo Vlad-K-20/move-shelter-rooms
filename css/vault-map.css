@@ -12,6 +12,7 @@
     flex-flow: column nowrap;
     width: max-content;
     border: var(--vault-map-border) solid black;
+    background-image: url("../assets/background/map_empty_background.png");
 }
 
 .vault-map-row {
@@ -69,17 +70,29 @@
 }
 
 .vault-map-col.empty {
-    background-color: #3e2517;
+    border-color: rgba(0, 0, 0, 0);
 }
 
 .vault-map-col.rock {
-    background:
-            gray
-            url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' preserveAspectRatio='none' viewBox='0 0 100 100'><path d='M100 0 L0 100 ' stroke='black' stroke-width='4'/><path d='M0 0 L100 100 ' stroke='black' stroke-width='4'/></svg>")
-            no-repeat
-            center
-            center;
     background-size: 100% 100%, auto;
+    background-repeat: no-repeat;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.vault-map-col.rock.rock-1 {
+    background-image: url("../assets/objects/rock_1.png");
+}
+.vault-map-col.rock.rock-2 {
+    background-image: url("../assets/objects/rock_2.png");
+}
+.vault-map-col.rock.rock-3 {
+    background-image: url("../assets/objects/rock_3.png");
+}
+.vault-map-col.rock.rock-4 {
+    background-image: url("../assets/objects/rock_4.png");
+}
+.vault-map-col.rock.rock-5 {
+    background-image: url("../assets/objects/rock_5.png");
 }
 
 .vault-map-col.room {

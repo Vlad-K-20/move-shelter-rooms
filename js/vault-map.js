@@ -77,7 +77,7 @@ function showVaultMap() {
                     }
                 } else {
                     if (coordinatesHaveRock(r, c)) {
-                        mapCol.classList.add("rock", "col-2");
+                        mapCol.classList.add("rock", getRandomRock(), "col-2");
                         c += 1;
                     } else {
                         mapCol.classList.add("empty", "col-1");
@@ -108,6 +108,10 @@ function coordinatesHaveRock(row, col) {
         }
     }
     return false;
+}
+
+function getRandomRock() {
+    return `rock-${randomNumberInRange(1, 5)}`;
 }
 
 function clearMapState() {
