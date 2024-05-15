@@ -37,6 +37,7 @@ const vaultRoomsTypes = Object.freeze({
     ARMORY: "Armory",
     OUTFIT_FACTORY: "OutfitFactory",
     SUPER_ROOM_2: "SuperRoom2",
+    CLASSROOM: "Classroom",
 });
 
 const VAULT_MAX_ROW = 24;
@@ -125,5 +126,10 @@ const VAULT_ROOMS_TYPE_TO_ON_MAP_LABEL = {
         1: "Fitness Room",
         2: "Fitness Studio",
         3: "Fitness Center"
+    },
+    [vaultRoomsTypes.CLASSROOM]: {
+        1: "Classroom",
+        2: "School",
+        3: "Academy"
     },
 };
