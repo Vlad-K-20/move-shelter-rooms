@@ -103,7 +103,7 @@
     cursor: pointer;
 }
 
-.vault-map-col:is(.elevator, .room):is(.selected, :hover) {
+.vault-map-col:is(.elevator, .room):is(.selected, :hover):not(.no-hover) {
     background-color: var(--fallout-shelter-background-green);
     border: var(--vault-map-border-selected) solid var(--fallout-shelter-border-green);
 }

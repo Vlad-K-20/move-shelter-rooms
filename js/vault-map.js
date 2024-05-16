@@ -4,6 +4,8 @@ let modifiedRooms = new Map();
 let onHoldRooms = new Map();
 let rocks = [];
 
+let selectedRoomOnMap = null;
+
 function loadMapFromJson(json) {
     clearMapState();
     const jsonVault = json[JSONConstants.VAULT];
@@ -73,6 +75,7 @@ function showVaultMap() {
                     } else if (roomType === vaultRoomsTypes.ENTRANCE) {
                         mapCol.classList.add("entrance");
                     } else {
+                        mapCol.onclick = function () {toggleRoomSelectOnMap(this)};
                         if (roomType === vaultRoomsTypes.ELEVATOR) {
                             mapCol.classList.add("elevator");
                         } else {
@@ -94,6 +97,54 @@ function showVaultMap() {
     }
 
     document.getElementById("shelter-maps-container").appendChild(mapContainer);
+}
+
+function toggleRoomSelectOnMap(roomElement) {
+    const previousSelectedRoomOnMap = selectedRoomOnMap;
+    if (selectedRoomOnMap !== null) {
+        unselectCurrentRoomOnMap(roomElement === selectedRoomOnMap); // set no-hover if current room and roomElement are the same room
+    }
+
+    if (previousSelectedRoomOnMap === roomElement) return;
+
+    selectNewRoomOnMap(roomElement);
+}
+
+function unselectCurrentRoomOnMap(setNoHover) {
+    if (selectedRoomOnMap === null) return;
+
+    selectedRoomOnMap.classList.remove('selected');
+    if (setNoHover) {
+        selectedRoomOnMap.classList.add('no-hover');
+        selectedRoomOnMap.onmousemove = function () {
+            this.classList.remove('no-hover');
+            this.onmousemove = null;
+        }
+    }
+    selectedRoomOnMap = null;
+    hidePossiblePlacesToMoveSelectedRoomOnMap()
+}
+
+function selectNewRoomOnMap(roomElement) {
+    if (roomElement === null) return;
+
+    if (roomElement.onmousemove !== null) {
+        roomElement.onmousemove = null;
+    }
+    roomElement.classList.remove('no-hover'); // just in case
+    roomElement.classList.add('selected');
+
+    selectedRoomOnMap = roomElement;
+    showPossiblePlacesToMoveSelectedRoomOnMap();
+}
+
+function showPossiblePlacesToMoveSelectedRoomOnMap() {
+    if (selectedRoomOnMap === null) return;
+    // TODO
+}
+
+function hidePossiblePlacesToMoveSelectedRoomOnMap() {
+    // TODO
 }
 
 function getInitialRoomByCoordinates(row, col) {
