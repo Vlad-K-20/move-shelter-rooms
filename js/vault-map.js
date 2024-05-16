@@ -68,12 +68,16 @@ function showVaultMap() {
                     }
                     mapCol.textContent = getRoomOnMapLabel(room);
                     const roomType = getRoomType(room);
-                    if (roomType === vaultRoomsTypes.ELEVATOR) {
-                        mapCol.classList.add("elevator");
-                    } else if (roomType === vaultRoomsTypes.FAKE_WASTELAND) {
+                    if (roomType === vaultRoomsTypes.FAKE_WASTELAND) {
                         mapCol.classList.add("disabled");
+                    } else if (roomType === vaultRoomsTypes.ENTRANCE) {
+                        mapCol.classList.add("entrance");
                     } else {
-                        mapCol.classList.add("room");
+                        if (roomType === vaultRoomsTypes.ELEVATOR) {
+                            mapCol.classList.add("elevator");
+                        } else {
+                            mapCol.classList.add("room");
+                        }
                     }
                 } else {
                     if (coordinatesHaveRock(r, c)) {

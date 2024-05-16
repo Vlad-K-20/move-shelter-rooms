@@ -95,7 +95,7 @@
     background-image: url("../assets/objects/rock_5.png");
 }
 
-.vault-map-col.room {
+.vault-map-col:is(.room, .entrance) {
     background-color: cadetblue;
 }
 
