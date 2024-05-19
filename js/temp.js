@@ -1,9 +1,9 @@
 const exampleSaveJson = {
   "timeMgr": {
-    "gameTime": 67438.63,
-    "questTime": 3016,
-    "time": 730168.58,
-    "timeSaveDate": 638514046711293200,
+    "gameTime": 83642.25,
+    "questTime": 4627,
+    "time": 1049444.01,
+    "timeSaveDate": 638517239484713300,
     "timeGameBegin": 638506744973106700
   },
   "localNotificationMgr": {
@@ -56,490 +56,479 @@ const exampleSaveJson = {
       96135,
       253597,
       865406,
-      39222,
       606804,
-      441043,
-      30837
+      310038,
+      263497,
+      467833,
+      467914,
+      315151,
+      690389,
+      704590,
+      252939,
+      424701,
+      440375,
+      476094,
+      615047,
+      507823,
+      891073
     ],
     "AndroidNotifications": [
       {
-        "ID": 606804,
-        "Text": -2096106034,
-        "Date": "2024-05-15T23:46:55.2683060+03:00"
-      },
-      {
-        "ID": 39222,
-        "Text": 500210742,
-        "Date": "2024-05-16T03:06:23.5974170+03:00"
-      },
-      {
-        "ID": 30837,
-        "Text": -2140548430,
-        "Date": "2024-05-15T23:17:51.1079440+03:00"
-      },
-      {
-        "ID": 441043,
-        "Text": 496285052,
-        "Date": "2024-05-17T21:17:51.1159420+03:00"
+        "ID": 507823,
+        "Text": -1822152262,
+        "Date": "2024-05-19T21:49:00.1604580+03:00"
       }
     ]
   },
   "taskMgr": {
-    "id": 39152,
-    "time": 730168.56,
+    "id": 61474,
+    "time": 1049444,
     "tasks": [
       {
-        "startTime": 692265.4,
-        "endTime": 778665.4,
+        "startTime": 1037865.4,
+        "endTime": 1124265.4,
         "id": 85,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 691200,
-        "endTime": 777600,
+        "startTime": 1036800,
+        "endTime": 1123200,
         "id": 7,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 691200,
-        "endTime": 777600,
+        "startTime": 1036800,
+        "endTime": 1123200,
         "id": 8,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 729968,
-        "endTime": 740768,
-        "id": 39116,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 729788,
-        "endTime": 740588,
-        "id": 39082,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 729563,
-        "endTime": 740363,
-        "id": 39042,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 729228.25,
-        "endTime": 740028.25,
-        "id": 38992,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 728823.86,
-        "endTime": 739623.86,
-        "id": 38929,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 728312.95,
-        "endTime": 739112.95,
-        "id": 38854,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 720133.03,
-        "endTime": 731946.57,
+        "startTime": 1049055.67,
+        "endTime": 1058233.28,
         "id": 67,
         "paused": false,
         "rescheduleToOldest": false
       },
       {
-        "startTime": 729889.88,
-        "endTime": 731689.88,
-        "id": 61,
-        "paused": false,
-        "rescheduleToOldest": false
-      },
-      {
-        "startTime": 728446.3,
-        "endTime": 731502.69,
+        "startTime": 1047581.84,
+        "endTime": 1051255.66,
         "id": 65,
         "paused": false,
         "rescheduleToOldest": false
       },
       {
-        "startTime": 729803.48,
-        "endTime": 731095.88,
-        "id": 68,
-        "paused": false,
-        "rescheduleToOldest": false
-      },
-      {
-        "startTime": 729803.48,
-        "endTime": 731095.88,
-        "id": 69,
-        "paused": false,
-        "rescheduleToOldest": false
-      },
-      {
-        "startTime": 727200,
-        "endTime": 730800,
+        "startTime": 1047600,
+        "endTime": 1051200,
         "id": 6,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 729889.88,
-        "endTime": 730789.88,
+        "startTime": 1049026.28,
+        "endTime": 1050318.68,
+        "id": 69,
+        "paused": false,
+        "rescheduleToOldest": false
+      },
+      {
+        "startTime": 1049026.28,
+        "endTime": 1050318.68,
+        "id": 68,
+        "paused": false,
+        "rescheduleToOldest": false
+      },
+      {
+        "startTime": 1049389.88,
+        "endTime": 1050289.88,
         "id": 63,
         "paused": false,
         "rescheduleToOldest": false
       },
       {
-        "startTime": 730129.88,
-        "endTime": 730189.88,
-        "id": 64,
+        "startTime": 1048489.88,
+        "endTime": 1050289.88,
+        "id": 61,
         "paused": false,
         "rescheduleToOldest": false
       },
       {
-        "startTime": 730129.88,
-        "endTime": 730189.88,
-        "id": 62,
-        "paused": false,
-        "rescheduleToOldest": false
-      },
-      {
-        "startTime": 730127.48,
-        "endTime": 730187.08,
-        "id": 1,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 730168,
-        "endTime": 730183,
-        "id": 38957,
-        "paused": false,
-        "rescheduleToOldest": true
-      },
-      {
-        "startTime": 730165.88,
-        "endTime": 730177.88,
-        "id": 66,
-        "paused": false,
-        "rescheduleToOldest": false
-      },
-      {
-        "startTime": 730163.86,
-        "endTime": 730173.86,
+        "startTime": 1049441.49,
+        "endTime": 1049451.49,
         "id": 4,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730163.86,
-        "endTime": 730173.86,
+        "startTime": 1049441.49,
+        "endTime": 1049451.49,
         "id": 5,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730165.76,
-        "endTime": 730170.76,
-        "id": 38913,
+        "startTime": 1049392.27,
+        "endTime": 1049450.73,
+        "id": 1,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730160,
-        "endTime": 730170,
+        "startTime": 1049440,
+        "endTime": 1049450,
         "id": 3,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730161.73,
-        "endTime": 730169.73,
+        "startTime": 1049437.88,
+        "endTime": 1049449.88,
+        "id": 66,
+        "paused": false,
+        "rescheduleToOldest": false
+      },
+      {
+        "startTime": 1049389.88,
+        "endTime": 1049449.88,
+        "id": 64,
+        "paused": false,
+        "rescheduleToOldest": false
+      },
+      {
+        "startTime": 1049389.88,
+        "endTime": 1049449.88,
+        "id": 62,
+        "paused": false,
+        "rescheduleToOldest": false
+      },
+      {
+        "startTime": 1049442.97,
+        "endTime": 1049447.97,
+        "id": 61239,
+        "paused": false,
+        "rescheduleToOldest": true
+      },
+      {
+        "startTime": 1049439.49,
+        "endTime": 1049447.49,
         "id": 2,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.46,
-        "endTime": 730169.46,
-        "id": 39006,
+        "startTime": 1049444,
+        "endTime": 1049445,
+        "id": 41586,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.46,
-        "endTime": 730169.46,
-        "id": 36230,
+        "startTime": 1049443.98,
+        "endTime": 1049444.98,
+        "id": 60936,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.46,
-        "endTime": 730169.46,
-        "id": 34511,
+        "startTime": 1049443.84,
+        "endTime": 1049444.84,
+        "id": 60924,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.31,
-        "endTime": 730169.31,
-        "id": 38931,
+        "startTime": 1049443.84,
+        "endTime": 1049444.84,
+        "id": 60960,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.26,
-        "endTime": 730169.26,
-        "id": 39046,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 60957,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.16,
-        "endTime": 730169.16,
-        "id": 39018,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 60961,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.13,
-        "endTime": 730169.13,
-        "id": 39015,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 60949,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.01,
-        "endTime": 730169.01,
-        "id": 39085,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 60935,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.01,
-        "endTime": 730169.01,
-        "id": 38997,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 60959,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.99,
-        "endTime": 730168.99,
-        "id": 29753,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 45326,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.99,
-        "endTime": 730168.99,
-        "id": 30417,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 45175,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.94,
-        "endTime": 730168.94,
-        "id": 37517,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 60926,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.93,
-        "endTime": 730168.93,
-        "id": 38870,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 46996,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.9,
-        "endTime": 730168.9,
-        "id": 34509,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 45361,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.9,
-        "endTime": 730168.9,
-        "id": 30703,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 45360,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.9,
-        "endTime": 730168.9,
-        "id": 34944,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 45164,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.84,
-        "endTime": 730168.84,
-        "id": 39009,
+        "startTime": 1049443.49,
+        "endTime": 1049444.49,
+        "id": 45157,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.84,
-        "endTime": 730168.84,
-        "id": 36252,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 57166,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.84,
-        "endTime": 730168.84,
-        "id": 36256,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 55442,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.84,
-        "endTime": 730168.84,
-        "id": 36244,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 55374,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.84,
-        "endTime": 730168.84,
-        "id": 36241,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 55370,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.74,
-        "endTime": 730168.74,
-        "id": 38864,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 55360,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.73,
-        "endTime": 730168.73,
-        "id": 36215,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 55322,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.68,
-        "endTime": 730168.68,
-        "id": 33527,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 51771,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.68,
-        "endTime": 730168.68,
-        "id": 33524,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 48601,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.68,
-        "endTime": 730168.68,
-        "id": 32574,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 58936,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.56,
-        "endTime": 730168.66,
-        "id": 39150,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 58930,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.56,
-        "endTime": 730168.66,
-        "id": 39147,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 58952,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.54,
-        "endTime": 730168.64,
-        "id": 39146,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 58944,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.63,
-        "endTime": 730168.63,
-        "id": 39117,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 58929,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.53,
-        "endTime": 730168.63,
-        "id": 39113,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 57148,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.51,
-        "endTime": 730168.61,
-        "id": 39124,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 55577,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.61,
-        "endTime": 730168.61,
-        "id": 33532,
+        "startTime": 1049443.33,
+        "endTime": 1049444.33,
+        "id": 55558,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730167.61,
-        "endTime": 730168.61,
-        "id": 34408,
+        "startTime": 1049443.3,
+        "endTime": 1049444.3,
+        "id": 60956,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.5,
-        "endTime": 730168.6,
-        "id": 39152,
+        "startTime": 1049444,
+        "endTime": 1049444.1,
+        "id": 61471,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.5,
-        "endTime": 730168.6,
-        "id": 38896,
+        "startTime": 1049444,
+        "endTime": 1049444.1,
+        "id": 61469,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.49,
-        "endTime": 730168.59,
-        "id": 39151,
+        "startTime": 1049444,
+        "endTime": 1049444.1,
+        "id": 61468,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.49,
-        "endTime": 730168.59,
-        "id": 39123,
+        "startTime": 1049443.1,
+        "endTime": 1049444.1,
+        "id": 61448,
         "paused": false,
         "rescheduleToOldest": true
       },
       {
-        "startTime": 730168.49,
-        "endTime": 730168.59,
-        "id": 39106,
+        "startTime": 1049443.99,
+        "endTime": 1049444.09,
+        "id": 61467,
+        "paused": false,
+        "rescheduleToOldest": true
+      },
+      {
+        "startTime": 1049443.08,
+        "endTime": 1049444.08,
+        "id": 45297,
+        "paused": false,
+        "rescheduleToOldest": true
+      },
+      {
+        "startTime": 1049443.08,
+        "endTime": 1049444.08,
+        "id": 45189,
+        "paused": false,
+        "rescheduleToOldest": true
+      },
+      {
+        "startTime": 1049443.08,
+        "endTime": 1049444.08,
+        "id": 45177,
+        "paused": false,
+        "rescheduleToOldest": true
+      },
+      {
+        "startTime": 1049443.93,
+        "endTime": 1049444.03,
+        "id": 61473,
+        "paused": false,
+        "rescheduleToOldest": true
+      },
+      {
+        "startTime": 1049443.93,
+        "endTime": 1049444.03,
+        "id": 61472,
+        "paused": false,
+        "rescheduleToOldest": true
+      },
+      {
+        "startTime": 1049443.93,
+        "endTime": 1049444.03,
+        "id": 61470,
         "paused": false,
         "rescheduleToOldest": true
       }
@@ -550,22 +539,33 @@ const exampleSaveJson = {
     "sampleId": 6,
     "dayRatingId": 7,
     "currentSamples": [
-      85,
-      85,
-      85,
-      86,
-      86,
-      86,
-      86,
-      85,
-      85,
-      85,
-      85
+      83,
+      83
     ],
     "ratings": [
       {
         "rating": 87,
         "time": 691200,
+        "collected": true
+      },
+      {
+        "rating": 86,
+        "time": 777600,
+        "collected": true
+      },
+      {
+        "rating": 86,
+        "time": 864000,
+        "collected": true
+      },
+      {
+        "rating": 82,
+        "time": 950400,
+        "collected": true
+      },
+      {
+        "rating": 83,
+        "time": 1036800,
         "collected": true
       }
     ],
@@ -704,22 +704,132 @@ const exampleSaveJson = {
   "dwellers": {
     "dwellers": [
       {
-        "serializeId": 18,
+        "serializeId": 10,
         "name": "Old",
         "lastName": "",
         "happiness": {
-          "happinessValue": 98.87
+          "happinessValue": 100
         },
         "health": {
-          "healthValue": 166,
+          "healthValue": 188,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 21,
-          "maxHealth": 166
+          "lastLevelUpdated": 25,
+          "maxHealth": 188
         },
         "experience": {
-          "experienceValue": 399460,
-          "currentLevel": 21,
+          "experienceValue": 513327,
+          "currentLevel": 25,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594084.3
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4294373571,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "09",
+        "faceMask": "f_hair_05",
+        "equipedOutfit": {
+          "id": "HandymanJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 44,
+        "lastChildBorn": 318031.02,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 16,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 130.29,
+          "radiationValue": 45.01,
+          "permaDeath": false,
+          "lastLevelUpdated": 26,
+          "maxHealth": 180
+        },
+        "experience": {
+          "experienceValue": 565913,
+          "currentLevel": 26,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -731,7 +841,225 @@ const exampleSaveJson = {
           "lastPartner": -1,
           "ascendants": [
             7,
-            13,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594022.4
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961622,
+        "hairColor": 4288567131,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "18",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SniperRifle_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4187,
+        "lastChildBorn": 820235.53,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 8,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 95
+        },
+        "health": {
+          "healthValue": 196,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 27,
+          "maxHealth": 196
+        },
+        "experience": {
+          "experienceValue": 600001,
+          "currentLevel": 27,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594080
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 2,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4287521104,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "faceMask": "f_hair_05",
+        "equipedOutfit": {
+          "id": "Vault33Suit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 916,
+        "lastChildBorn": -1,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 20,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 333.37,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 46,
+          "maxHealth": 358
+        },
+        "experience": {
+          "experienceValue": 2482280,
+          "currentLevel": 46,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
             -1,
             -1,
             -1,
@@ -749,132 +1077,17 @@ const exampleSaveJson = {
             {
               "value": 10,
               "mod": 3,
-              "exp": 594142.7
+              "exp": 594121.2
             },
             {
-              "value": 2,
+              "value": 5,
               "mod": 0,
-              "exp": 3600
+              "exp": 72854.69
             },
             {
-              "value": 1,
+              "value": 5,
               "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4290152550,
-        "hairColor": 4289023020,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "21",
-        "faceMask": "f_hair_13",
-        "equipedOutfit": {
-          "id": "MilitaryJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "AssaultronHead_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 2259,
-        "lastChildBorn": 318006.69,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 7,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 100
-        },
-        "health": {
-          "healthValue": 177,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 25,
-          "maxHealth": 177
-        },
-        "experience": {
-          "experienceValue": 523471,
-          "currentLevel": 25,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 8,
-              "mod": 3,
-              "exp": 324260.6
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
+              "exp": 72000
             },
             {
               "value": 3,
@@ -882,9 +1095,14 @@ const exampleSaveJson = {
               "exp": 14400
             },
             {
-              "value": 2,
+              "value": 3,
               "mod": 0,
-              "exp": 3600
+              "exp": 14400
+            },
+            {
+              "value": 4,
+              "mod": 0,
+              "exp": 36000
             },
             {
               "value": 2,
@@ -900,11 +1118,12 @@ const exampleSaveJson = {
         "WillGoToWasteland": false,
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294961622,
-        "hairColor": 4293297969,
+        "skinColor": 4287524180,
+        "hairColor": 4284959268,
         "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
-        "faceMask": "f_hair_11",
+        "uniqueData": "NinjaMale",
+        "hair": "23",
         "equipedOutfit": {
           "id": "MilitaryJumpsuit",
           "type": "Outfit",
@@ -912,123 +1131,14 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 375,
-        "lastChildBorn": 650565.38,
-        "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 2,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 100
-        },
-        "health": {
-          "healthValue": 49.82,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 25,
-          "maxHealth": 177
-        },
-        "experience": {
-          "experienceValue": 493257,
-          "currentLevel": 25,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 6,
-              "mod": 3,
-              "exp": 146906.9
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 2,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285552709,
-        "hairColor": 4288567131,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "13",
-        "equipedOutfit": {
-          "id": "WastelandSurgeon_Doctor",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
+          "id": "Flamer_Enhanced",
           "type": "Weapon",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 916,
-        "lastChildBorn": 650525.11,
-        "rarity": "Normal",
+        "savedRoom": 31,
+        "lastChildBorn": 820421.27,
+        "rarity": "Rare",
         "deathTime": -1
       },
       {
@@ -1036,18 +1146,18 @@ const exampleSaveJson = {
         "name": "Old",
         "lastName": "",
         "happiness": {
-          "happinessValue": 90
+          "happinessValue": 85
         },
         "health": {
-          "healthValue": 154.43,
+          "healthValue": 186,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 25,
-          "maxHealth": 177
+          "lastLevelUpdated": 28,
+          "maxHealth": 186
         },
         "experience": {
-          "experienceValue": 499946,
-          "currentLevel": 25,
+          "experienceValue": 658366,
+          "currentLevel": 28,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -1130,491 +1240,33 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "GaussRifle",
+          "id": "AssaultronHead_Rusty",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "equippedPet": {
-          "id": "militarymacaw_r",
-          "type": "Pet",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false,
-          "extraData": {
-            "uniqueName": "Pepper",
-            "bonus": "DamageBoost",
-            "bonusValue": 2
-          }
-        },
-        "savedRoom": 31,
-        "lastChildBorn": 76800.28,
+        "savedRoom": 4187,
+        "lastChildBorn": 820244.53,
         "rarity": "Normal",
         "deathTime": -1
       },
       {
-        "serializeId": 19,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 178.5,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 25,
-          "maxHealth": 178.5
-        },
-        "experience": {
-          "experienceValue": 529617,
-          "currentLevel": 25,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            7,
-            11,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 6,
-              "mod": 3,
-              "exp": 128810.4
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294963666,
-        "hairColor": 4283651418,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "equipedOutfit": {
-          "id": "UtilityJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equippedPet": {
-          "id": "greyhound_c",
-          "type": "Pet",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false,
-          "extraData": {
-            "uniqueName": "Грейхаунд",
-            "bonus": "FasterCrafting",
-            "bonusValue": 14
-          }
-        },
-        "savedRoom": 314,
-        "lastChildBorn": -1,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 27,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 157.5,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 16,
-          "maxHealth": 157.5
-        },
-        "experience": {
-          "experienceValue": 282235,
-          "currentLevel": 16,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 3,
-              "exp": 594038.7
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4293440519,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "16",
-        "faceMask": "f_hair_07",
-        "equipedOutfit": {
-          "id": "MilitaryJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "Shotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 1474,
-        "lastChildBorn": -1,
-        "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 12,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 98.87
-        },
-        "health": {
-          "healthValue": 185.5,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 24,
-          "maxHealth": 185.5
-        },
-        "experience": {
-          "experienceValue": 482853,
-          "currentLevel": 24,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 8,
-              "mod": 2,
-              "exp": 410689.2
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 1,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4287521104,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "04",
-        "equipedOutfit": {
-          "id": "BattleArmor",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "Fist",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 375,
-        "lastChildBorn": 212939.25,
-        "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 1,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 93.87
-        },
-        "health": {
-          "healthValue": 178,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 25,
-          "maxHealth": 178
-        },
-        "experience": {
-          "experienceValue": 531532,
-          "currentLevel": 25,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 9,
-              "mod": 2,
-              "exp": 562337.3
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 1,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4290152550,
-        "hairColor": 4291735864,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "21",
-        "equipedOutfit": {
-          "id": "CombatArmor",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SniperRifle_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 375,
-        "lastChildBorn": 203190.17,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 4,
+        "serializeId": 2,
         "name": "Old",
         "lastName": "",
         "happiness": {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 111.72,
+          "healthValue": 186,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 27,
-          "maxHealth": 183
+          "lastLevelUpdated": 28,
+          "maxHealth": 186
         },
         "experience": {
-          "experienceValue": 616517,
-          "currentLevel": 27,
+          "experienceValue": 636501,
+          "currentLevel": 28,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -1647,9 +1299,9 @@ const exampleSaveJson = {
               "exp": 3600
             },
             {
-              "value": 5,
+              "value": 6,
               "mod": 3,
-              "exp": 72000
+              "exp": 146906.9
             },
             {
               "value": 1,
@@ -1657,24 +1309,24 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 1,
+              "value": 3,
               "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
+              "exp": 14400
             },
             {
               "value": 2,
-              "mod": 2,
+              "mod": 0,
               "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
             }
           ]
         },
@@ -1686,12 +1338,12 @@ const exampleSaveJson = {
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
         "skinColor": 4285552709,
-        "hairColor": 4284959268,
+        "hairColor": 4288567131,
         "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
-        "hair": "02",
+        "hair": "13",
         "equipedOutfit": {
-          "id": "Vault33Suit",
+          "id": "UtilityJumpsuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -1702,119 +1354,9 @@ const exampleSaveJson = {
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": -1,
-        "lastChildBorn": 650512.67,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 21,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 100
-        },
-        "health": {
-          "healthValue": 163.28,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 18,
-          "maxHealth": 164.5
-        },
-        "experience": {
-          "experienceValue": 332785,
-          "currentLevel": 18,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": 24,
-          "ascendants": [
-            3,
-            4,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 3,
-              "exp": 594485.8
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285552709,
-        "hairColor": 4284959268,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "13",
-        "faceMask": "f_hair_04",
-        "equipedOutfit": {
-          "id": "MilitaryJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "CombatShotgun_Hardened",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 31,
-        "lastChildBorn": 265403.42,
-        "rarity": "Common",
+        "savedRoom": 916,
+        "lastChildBorn": 968932.63,
+        "rarity": "Normal",
         "deathTime": -1
       },
       {
@@ -1825,15 +1367,15 @@ const exampleSaveJson = {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 178.5,
+          "healthValue": 192.5,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 22,
-          "maxHealth": 178.5
+          "lastLevelUpdated": 26,
+          "maxHealth": 192.5
         },
         "experience": {
-          "experienceValue": 425110,
-          "currentLevel": 22,
+          "experienceValue": 546076,
+          "currentLevel": 26,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -1928,788 +1470,22 @@ const exampleSaveJson = {
         "deathTime": -1
       },
       {
-        "serializeId": 17,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 98.87
-        },
-        "health": {
-          "healthValue": 139.56,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 18,
-          "maxHealth": 156
-        },
-        "experience": {
-          "experienceValue": 329734,
-          "currentLevel": 18,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            7,
-            5,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 3,
-              "exp": 594502.8
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294963175,
-        "hairColor": 4285093179,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "09",
-        "equipedOutfit": {
-          "id": "MilitaryJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "Railgun_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 245,
-        "lastChildBorn": 353808.83,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 6,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 92
-        },
-        "health": {
-          "healthValue": 132.62,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 28,
-          "maxHealth": 199.5
-        },
-        "experience": {
-          "experienceValue": 645139,
-          "currentLevel": 28,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 5,
-              "mod": 3,
-              "exp": 72266.8
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 2,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294964980,
-        "hairColor": 4283651418,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "01",
-        "faceMask": "f_hair_02",
-        "equipedOutfit": {
-          "id": "Vault33Suit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "Shotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": -1,
-        "lastChildBorn": 306098.07,
-        "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 16,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 89.87
-        },
-        "health": {
-          "healthValue": 165,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 21,
-          "maxHealth": 165
-        },
-        "experience": {
-          "experienceValue": 409723,
-          "currentLevel": 21,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            7,
-            2,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 3,
-              "exp": 594022.4
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294961622,
-        "hairColor": 4288567131,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "18",
-        "equipedOutfit": {
-          "id": "MilitaryJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "T60Pistol_Hardened",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 245,
-        "lastChildBorn": 203193.16,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 10,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 90
-        },
-        "health": {
-          "healthValue": 176,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 21,
-          "maxHealth": 176
-        },
-        "experience": {
-          "experienceValue": 398285,
-          "currentLevel": 21,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 9,
-              "mod": 3,
-              "exp": 535836.4
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4294373571,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "09",
-        "faceMask": "f_hair_05",
-        "equipedOutfit": {
-          "id": "HandymanJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 413,
-        "lastChildBorn": 318031.02,
-        "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 11,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 98.87
-        },
-        "health": {
-          "healthValue": 191,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 25,
-          "maxHealth": 191
-        },
-        "experience": {
-          "experienceValue": 530980,
-          "currentLevel": 25,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 5,
-              "exp": 594232.9
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294965710,
-        "hairColor": 4283848802,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "12",
-        "equipedOutfit": {
-          "id": "MilitaryJumpsuit_Officer",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "LaserRifle",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 382,
-        "lastChildBorn": 318031.02,
-        "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 20,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 353,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 45,
-          "maxHealth": 353
-        },
-        "experience": {
-          "experienceValue": 2343231,
-          "currentLevel": 45,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 4,
-              "exp": 594121.2
-            },
-            {
-              "value": 5,
-              "mod": 0,
-              "exp": 72854.69
-            },
-            {
-              "value": 5,
-              "mod": 0,
-              "exp": 72000
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 4,
-              "mod": 0,
-              "exp": 36000
-            },
-            {
-              "value": 2,
-              "mod": 1,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4287524180,
-        "hairColor": 4284959268,
-        "outfitColor": 4294922063,
-        "pendingExperienceReward": 0,
-        "uniqueData": "NinjaMale",
-        "hair": "23",
-        "equipedOutfit": {
-          "id": "SportsfanSpecial",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "T60Pistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 874,
-        "lastChildBorn": -1,
-        "rarity": "Rare",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 8,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 185.5,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 24,
-          "maxHealth": 185.5
-        },
-        "experience": {
-          "experienceValue": 461950,
-          "currentLevel": 24,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 9,
-              "mod": 3,
-              "exp": 536566
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 2,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294896868,
-        "hairColor": 4287521104,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "faceMask": "f_hair_05",
-        "equipedOutfit": {
-          "id": "Vault33Suit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 535,
-        "lastChildBorn": -1,
-        "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
         "serializeId": 25,
         "name": "Old",
         "lastName": "",
         "happiness": {
-          "happinessValue": 98.87
+          "happinessValue": 100
         },
         "health": {
-          "healthValue": 154,
-          "radiationValue": 0,
+          "healthValue": 124.19,
+          "radiationValue": 42.92,
           "permaDeath": false,
-          "lastLevelUpdated": 15,
-          "maxHealth": 154
+          "lastLevelUpdated": 20,
+          "maxHealth": 171.5
         },
         "experience": {
-          "experienceValue": 264865,
-          "currentLevel": 15,
+          "experienceValue": 378289,
+          "currentLevel": 20,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -2762,9 +1538,9 @@ const exampleSaveJson = {
               "exp": 3600
             },
             {
-              "value": 9,
+              "value": 10,
               "mod": 4,
-              "exp": 535847.2
+              "exp": 594117.8
             },
             {
               "value": 2,
@@ -2797,138 +1573,28 @@ const exampleSaveJson = {
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 413,
-        "lastChildBorn": 353808.83,
+        "savedRoom": 4373,
+        "lastChildBorn": 968942.41,
         "rarity": "Common",
         "deathTime": -1
       },
       {
-        "serializeId": 15,
+        "serializeId": 4,
         "name": "Old",
         "lastName": "",
         "happiness": {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 123.41,
+          "healthValue": 192,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 16,
-          "maxHealth": 157.5
+          "lastLevelUpdated": 30,
+          "maxHealth": 192
         },
         "experience": {
-          "experienceValue": 286663,
-          "currentLevel": 16,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            3,
-            2,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 3,
-              "exp": 594140.4
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4289566333,
-        "hairColor": 4284959268,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "18",
-        "faceMask": "f_hair_11",
-        "equipedOutfit": {
-          "id": "HandymanJumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": -1,
-        "lastChildBorn": 162051.33,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 5,
-        "name": "Old",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 100
-        },
-        "health": {
-          "healthValue": 194.5,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 26,
-          "maxHealth": 194.5
-        },
-        "experience": {
-          "experienceValue": 575791,
-          "currentLevel": 26,
+          "experienceValue": 759758,
+          "currentLevel": 30,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -2956,19 +1622,118 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 7,
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 5,
               "mod": 3,
-              "exp": 207152.2
+              "exp": 72000
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
             },
             {
               "value": 2,
-              "mod": 0,
+              "mod": 2,
               "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "02",
+        "equipedOutfit": {
+          "id": "Vault33Suit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 77,
+        "lastChildBorn": 968922.53,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 27,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 95
+        },
+        "health": {
+          "healthValue": 177.11,
+          "radiationValue": 1.14,
+          "permaDeath": false,
+          "lastLevelUpdated": 22,
+          "maxHealth": 178.5
+        },
+        "experience": {
+          "experienceValue": 430064,
+          "currentLevel": 22,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
             },
             {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
+              "value": 10,
+              "mod": 3,
+              "exp": 594038.7
             },
             {
               "value": 2,
@@ -2989,6 +1754,16 @@ const exampleSaveJson = {
               "value": 1,
               "mod": 0,
               "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
             }
           ]
         },
@@ -2999,11 +1774,122 @@ const exampleSaveJson = {
         "WillGoToWasteland": false,
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294963175,
-        "hairColor": 4294945874,
+        "skinColor": 4285486660,
+        "hairColor": 4293440519,
         "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
-        "hair": "24",
+        "hair": "16",
+        "faceMask": "f_hair_07",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Shotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4187,
+        "lastChildBorn": -1,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 64,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 217.91,
+          "radiationValue": 13.81,
+          "permaDeath": false,
+          "lastLevelUpdated": 28,
+          "maxHealth": 293
+        },
+        "experience": {
+          "experienceValue": 633555,
+          "currentLevel": 28,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 6,
+              "mod": 3,
+              "exp": 126000
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 72000
+            },
+            {
+              "value": 7,
+              "mod": 0,
+              "exp": 282970.7
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 432000
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 7,
+              "mod": 0,
+              "exp": 201600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4288514187,
+        "hairColor": 4293584017,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "uniqueData": "L_Ed",
+        "faceMask": "ghoul_face",
         "equipedOutfit": {
           "id": "MilitaryJumpsuit",
           "type": "Outfit",
@@ -3013,12 +1899,23 @@ const exampleSaveJson = {
         "equipedWeapon": {
           "id": "LaserPistol_Rusty",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 375,
-        "lastChildBorn": 650493.06,
-        "rarity": "Normal",
+        "equippedPet": {
+          "id": "greyhound_c",
+          "type": "Pet",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false,
+          "extraData": {
+            "uniqueName": "Грейхаунд",
+            "bonus": "FasterCrafting",
+            "bonusValue": 14
+          }
+        },
+        "savedRoom": 5988,
+        "lastChildBorn": -1,
+        "rarity": "Legendary",
         "deathTime": -1
       },
       {
@@ -3029,15 +1926,15 @@ const exampleSaveJson = {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 115.06,
+          "healthValue": 179,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 21,
-          "maxHealth": 167
+          "lastLevelUpdated": 25,
+          "maxHealth": 179
         },
         "experience": {
-          "experienceValue": 389291,
-          "currentLevel": 21,
+          "experienceValue": 510488,
+          "currentLevel": 25,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -3126,8 +2023,1210 @@ const exampleSaveJson = {
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": -1,
+        "savedRoom": 44,
         "lastChildBorn": 76785.17,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 6,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 120.26,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 30,
+          "maxHealth": 206.5
+        },
+        "experience": {
+          "experienceValue": 791442,
+          "currentLevel": 30,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 5,
+              "mod": 3,
+              "exp": 72266.8
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 2,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294964980,
+        "hairColor": 4283651418,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "01",
+        "faceMask": "f_hair_02",
+        "equipedOutfit": {
+          "id": "Vault33Suit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Shotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": -1,
+        "lastChildBorn": 306098.07,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 19,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 85
+        },
+        "health": {
+          "healthValue": 85.32,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 28,
+          "maxHealth": 187.5
+        },
+        "experience": {
+          "experienceValue": 671236,
+          "currentLevel": 28,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            7,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 6,
+              "mod": 3,
+              "exp": 128810.4
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963666,
+        "hairColor": 4283651418,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "equipedOutfit": {
+          "id": "UtilityJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": -1,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 21,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 95
+        },
+        "health": {
+          "healthValue": 141.03,
+          "radiationValue": 44.22,
+          "permaDeath": false,
+          "lastLevelUpdated": 24,
+          "maxHealth": 185.5
+        },
+        "experience": {
+          "experienceValue": 474997,
+          "currentLevel": 24,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            3,
+            4,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594485.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "13",
+        "faceMask": "f_hair_04",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "PlasmaRifle_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 31,
+        "lastChildBorn": 740805.69,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 11,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 140.08,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 29,
+          "maxHealth": 205
+        },
+        "experience": {
+          "experienceValue": 685252,
+          "currentLevel": 29,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594232.9
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294965710,
+        "hairColor": 4283848802,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "12",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Shotgun_DoubleBarrelled",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 5988,
+        "lastChildBorn": 820224.9,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 7,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 166.56,
+          "radiationValue": 19.19,
+          "permaDeath": false,
+          "lastLevelUpdated": 28,
+          "maxHealth": 186
+        },
+        "experience": {
+          "experienceValue": 657985,
+          "currentLevel": 28,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 9,
+              "mod": 3,
+              "exp": 432029.6
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961622,
+        "hairColor": 4293297969,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "faceMask": "f_hair_11",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_DoubleBarrelled",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4187,
+        "lastChildBorn": 650565.38,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 17,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 92
+        },
+        "health": {
+          "healthValue": 129.35,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 24,
+          "maxHealth": 174
+        },
+        "experience": {
+          "experienceValue": 464875,
+          "currentLevel": 24,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            7,
+            5,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 4,
+              "exp": 594502.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 1,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963175,
+        "hairColor": 4285093179,
+        "outfitColor": 4294922063,
+        "pendingExperienceReward": 0,
+        "hair": "09",
+        "equipedOutfit": {
+          "id": "SportsfanSpecial",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Railgun_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 31,
+        "lastChildBorn": 820266.15,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 5,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 186.54,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 28,
+          "maxHealth": 201.5
+        },
+        "experience": {
+          "experienceValue": 665539,
+          "currentLevel": 28,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594046.6
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963175,
+        "hairColor": 4294945874,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "24",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "T60Pistol_Hardened",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 31,
+        "lastChildBorn": 820293.86,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 12,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 95
+        },
+        "health": {
+          "healthValue": 108.93,
+          "radiationValue": 40.91,
+          "permaDeath": false,
+          "lastLevelUpdated": 27,
+          "maxHealth": 196.5
+        },
+        "experience": {
+          "experienceValue": 595492,
+          "currentLevel": 27,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 5,
+              "exp": 594042.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4287521104,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "04",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit_Officer",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "GaussRifle",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 31,
+        "lastChildBorn": 820411.88,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 15,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 128.35,
+          "radiationValue": 42.51,
+          "permaDeath": false,
+          "lastLevelUpdated": 21,
+          "maxHealth": 175
+        },
+        "experience": {
+          "experienceValue": 409413,
+          "currentLevel": 21,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            3,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594140.4
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4289566333,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "18",
+        "faceMask": "f_hair_11",
+        "equipedOutfit": {
+          "id": "HandymanJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4373,
+        "lastChildBorn": 162051.33,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 1,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 93.87
+        },
+        "health": {
+          "healthValue": 171.01,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 29,
+          "maxHealth": 190
+        },
+        "experience": {
+          "experienceValue": 681577,
+          "currentLevel": 29,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594070.6
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290152550,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "21",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "CombatShotgun_Hardened",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 31,
+        "lastChildBorn": 203190.17,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 18,
+        "name": "Old",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 118.61,
+          "radiationValue": 62.14,
+          "permaDeath": false,
+          "lastLevelUpdated": 26,
+          "maxHealth": 181
+        },
+        "experience": {
+          "experienceValue": 550786,
+          "currentLevel": 26,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            7,
+            13,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594142.7
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290152550,
+        "hairColor": 4289023020,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "21",
+        "faceMask": "f_hair_13",
+        "equipedOutfit": {
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4187,
+        "lastChildBorn": 318006.69,
         "rarity": "Common",
         "deathTime": -1
       },
@@ -3139,8 +3238,8 @@ const exampleSaveJson = {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 282.35,
-          "radiationValue": 34.91,
+          "healthValue": 269.25,
+          "radiationValue": 49.15,
           "permaDeath": false,
           "lastLevelUpdated": 50,
           "maxHealth": 394
@@ -3252,7 +3351,7 @@ const exampleSaveJson = {
         "rarity": "Rare",
         "deathTime": -1,
         "daysOnWasteland": 0,
-        "hoursOnWasteland": 3
+        "hoursOnWasteland": 0
       },
       {
         "serializeId": 9,
@@ -3262,8 +3361,8 @@ const exampleSaveJson = {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 349,
-          "radiationValue": 0,
+          "healthValue": 215.51,
+          "radiationValue": 41.03,
           "permaDeath": false,
           "lastLevelUpdated": 50,
           "maxHealth": 349
@@ -3318,14 +3417,14 @@ const exampleSaveJson = {
               "exp": 3600
             },
             {
-              "value": 7,
+              "value": 10,
               "mod": 0,
-              "exp": 206200.5
+              "exp": 594071.9
             },
             {
-              "value": 2,
+              "value": 7,
               "mod": 0,
-              "exp": 3600
+              "exp": 220670.7
             },
             {
               "value": 1,
@@ -3334,7 +3433,7 @@ const exampleSaveJson = {
             }
           ]
         },
-        "pregnant": true,
+        "pregnant": false,
         "babyReady": false,
         "assigned": false,
         "sawIncident": false,
@@ -3353,123 +3452,14 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
+          "id": "CombatShotgun_Enhanced",
           "type": "Weapon",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 2657,
-        "lastChildBorn": 650565.38,
+        "savedRoom": -1,
+        "lastChildBorn": 740209.72,
         "rarity": "Normal",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 39,
-        "name": "Trainee",
-        "lastName": "",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 105,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 100,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            23,
-            38,
-            14,
-            13,
-            17,
-            25
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 6,
-              "mod": 0,
-              "exp": 193814.3
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4284959268,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "18",
-        "equipedOutfit": {
-          "id": "jumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun_Enhanced",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 1469,
-        "lastChildBorn": -1,
-        "rarity": "Common",
         "deathTime": -1
       },
       {
@@ -3480,15 +3470,15 @@ const exampleSaveJson = {
           "happinessValue": 75
         },
         "health": {
-          "healthValue": 105,
+          "healthValue": 80.11,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
+          "lastLevelUpdated": 2,
+          "maxHealth": 114
         },
         "experience": {
-          "experienceValue": 100,
-          "currentLevel": 1,
+          "experienceValue": 8429,
+          "currentLevel": 2,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -3516,9 +3506,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 1,
+              "value": 6,
               "mod": 0,
-              "exp": 0
+              "exp": 143911.3
             },
             {
               "value": 1,
@@ -3526,9 +3516,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 5,
-              "mod": 0,
-              "exp": 121933.7
+              "value": 10,
+              "mod": 3,
+              "exp": 594676.2
             },
             {
               "value": 2,
@@ -3565,7 +3555,7 @@ const exampleSaveJson = {
         "pendingExperienceReward": 0,
         "hair": "02",
         "equipedOutfit": {
-          "id": "jumpsuit",
+          "id": "HazmatSuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -3573,20 +3563,20 @@ const exampleSaveJson = {
         "equipedWeapon": {
           "id": "SawedOffShotgun",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 1469,
+        "savedRoom": 5988,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
       },
       {
-        "serializeId": 43,
+        "serializeId": 41,
         "name": "Trainee",
         "lastName": "",
         "happiness": {
-          "happinessValue": 75
+          "happinessValue": 100
         },
         "health": {
           "healthValue": 105,
@@ -3596,7 +3586,7 @@ const exampleSaveJson = {
           "maxHealth": 105
         },
         "experience": {
-          "experienceValue": 100,
+          "experienceValue": 26,
           "currentLevel": 1,
           "storage": 0,
           "accum": 0,
@@ -3609,14 +3599,14 @@ const exampleSaveJson = {
           "lastPartner": -1,
           "ascendants": [
             7,
-            29,
+            4,
             -1,
             -1,
-            15,
-            25
+            -1,
+            -1
           ]
         },
-        "gender": 2,
+        "gender": 1,
         "stats": {
           "stats": [
             {
@@ -3635,9 +3625,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 5,
+              "value": 10,
               "mod": 0,
-              "exp": 110718.1
+              "exp": 595173.9
             },
             {
               "value": 1,
@@ -3650,9 +3640,9 @@ const exampleSaveJson = {
               "exp": 3600
             },
             {
-              "value": 2,
+              "value": 6,
               "mod": 0,
-              "exp": 3600
+              "exp": 145039.2
             },
             {
               "value": 2,
@@ -3668,11 +3658,11 @@ const exampleSaveJson = {
         "WillGoToWasteland": false,
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4287526496,
-        "hairColor": 4293440519,
+        "skinColor": 4290289806,
+        "hairColor": 4281280544,
         "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
-        "hair": "13",
+        "hair": "09",
         "equipedOutfit": {
           "id": "jumpsuit",
           "type": "Outfit",
@@ -3680,12 +3670,341 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "HuntingRifle_Rusty",
+          "id": "SawedOffShotgun",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 1469,
+        "savedRoom": 5259,
+        "lastChildBorn": 968971.27,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 54,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 846,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            20,
+            16,
+            -1,
+            -1,
+            7,
+            2
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 434502.8
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961622,
+        "hairColor": 4283848802,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "20",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4377,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 35,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 95
+        },
+        "health": {
+          "healthValue": 163.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 8,
+          "maxHealth": 163.5
+        },
+        "experience": {
+          "experienceValue": 86845,
+          "currentLevel": 8,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            9,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 595927.6
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594450
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4289023020,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "22",
+        "faceMask": "f_hair_09",
+        "equipedOutfit": {
+          "id": "HazmatSuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 916,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 42,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 25,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            7,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 595270.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 6,
+              "mod": 0,
+              "exp": 145024.3
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961622,
+        "hairColor": 4294373571,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "24",
+        "faceMask": "f_hair_06",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 5259,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
@@ -3695,7 +4014,7 @@ const exampleSaveJson = {
         "name": "Trainee",
         "lastName": "",
         "happiness": {
-          "happinessValue": 50
+          "happinessValue": 100
         },
         "health": {
           "healthValue": 105,
@@ -3744,9 +4063,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 5,
+              "value": 10,
               "mod": 0,
-              "exp": 110741.6
+              "exp": 594370.6
             },
             {
               "value": 2,
@@ -3759,9 +4078,9 @@ const exampleSaveJson = {
               "exp": 3600
             },
             {
-              "value": 1,
+              "value": 6,
               "mod": 0,
-              "exp": 0
+              "exp": 145015.3
             },
             {
               "value": 2,
@@ -3794,13 +4113,667 @@ const exampleSaveJson = {
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 1154,
+        "savedRoom": 5259,
+        "lastChildBorn": 968982.86,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 61,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            20,
+            22,
+            -1,
+            -1,
+            14,
+            5
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 434726.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "09",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "HuntingRifle",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 2657,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
       },
       {
-        "serializeId": 42,
+        "serializeId": 47,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 205,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            21,
+            22,
+            3,
+            4,
+            14,
+            5
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 17676.19
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594829.4
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4293297969,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "21",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 1469,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 43,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 150,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            7,
+            29,
+            -1,
+            -1,
+            15,
+            25
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 595077.6
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 6,
+              "mod": 0,
+              "exp": 145000.6
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4287526496,
+        "hairColor": 4293440519,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "13",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "HuntingRifle_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 5259,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 38,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 48
+        },
+        "health": {
+          "healthValue": 77.32,
+          "radiationValue": 43.76,
+          "permaDeath": false,
+          "lastLevelUpdated": 4,
+          "maxHealth": 127.5
+        },
+        "experience": {
+          "experienceValue": 38121,
+          "currentLevel": 4,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            17,
+            25,
+            7,
+            5,
+            14,
+            16
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594361.8
+            },
+            {
+              "value": 7,
+              "mod": 0,
+              "exp": 220267.3
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 595590.3
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 385.86
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "11",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4643,
+        "lastChildBorn": 740382.15,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 65,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 136.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 8,
+          "maxHealth": 136.5
+        },
+        "experience": {
+          "experienceValue": 84240,
+          "currentLevel": 8,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 6,
+              "mod": 0,
+              "exp": 126000
+            },
+            {
+              "value": 7,
+              "mod": 0,
+              "exp": 201600
+            },
+            {
+              "value": 7,
+              "mod": 0,
+              "exp": 221623
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 72000
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4293440519,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "12",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Shotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 1154,
+        "lastChildBorn": 968982.86,
+        "rarity": "Rare",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 68,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 10
+        },
+        "health": {
+          "healthValue": 72.16,
+          "radiationValue": 32.59,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            65,
+            25,
+            -1,
+            -1,
+            14,
+            16
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 91243.99
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290158996,
+        "hairColor": 4289023020,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 2200,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 66,
         "name": "Trainee",
         "lastName": "",
         "happiness": {
@@ -3826,8 +4799,8 @@ const exampleSaveJson = {
           "partner": -1,
           "lastPartner": -1,
           "ascendants": [
-            7,
-            2,
+            65,
+            4,
             -1,
             -1,
             -1,
@@ -3843,19 +4816,237 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
               "value": 3,
               "mod": 0,
               "exp": 14400
             },
             {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
               "value": 5,
               "mod": 0,
-              "exp": 110729.3
+              "exp": 92001.82
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 1469,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 32,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 74
+        },
+        "health": {
+          "healthValue": 86.56,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 325,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            12,
+            4,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594639.1
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594182.9
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594049.3
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 16504.84
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552452,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 5835,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 33,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 555,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            12,
+            5,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 4,
+              "mod": 0,
+              "exp": 36178.43
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594057.6
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594076.3
             },
             {
               "value": 1,
@@ -3868,9 +5059,9 @@ const exampleSaveJson = {
               "exp": 3600
             },
             {
-              "value": 1,
+              "value": 10,
               "mod": 0,
-              "exp": 0
+              "exp": 594902.2
             },
             {
               "value": 1,
@@ -3886,12 +5077,11 @@ const exampleSaveJson = {
         "WillGoToWasteland": false,
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294961622,
-        "hairColor": 4294373571,
+        "skinColor": 4285486660,
+        "hairColor": 4281280544,
         "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
-        "hair": "24",
-        "faceMask": "f_hair_06",
+        "hair": "16",
         "equipedOutfit": {
           "id": "jumpsuit",
           "type": "Outfit",
@@ -3901,16 +5091,16 @@ const exampleSaveJson = {
         "equipedWeapon": {
           "id": "SawedOffShotgun",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 1154,
-        "lastChildBorn": -1,
+        "savedRoom": 375,
+        "lastChildBorn": 820305.7,
         "rarity": "Common",
         "deathTime": -1
       },
       {
-        "serializeId": 41,
+        "serializeId": 56,
         "name": "Trainee",
         "lastName": "",
         "happiness": {
@@ -3924,7 +5114,7 @@ const exampleSaveJson = {
           "maxHealth": 105
         },
         "experience": {
-          "experienceValue": 26,
+          "experienceValue": 0,
           "currentLevel": 1,
           "storage": 0,
           "accum": 0,
@@ -3936,7 +5126,7 @@ const exampleSaveJson = {
           "partner": -1,
           "lastPartner": -1,
           "ascendants": [
-            7,
+            20,
             4,
             -1,
             -1,
@@ -3963,9 +5153,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 5,
+              "value": 2,
               "mod": 0,
-              "exp": 110514.3
+              "exp": 3600
             },
             {
               "value": 1,
@@ -3973,9 +5163,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 2,
+              "value": 9,
               "mod": 0,
-              "exp": 3600
+              "exp": 434715
             },
             {
               "value": 1,
@@ -3996,8 +5186,8 @@ const exampleSaveJson = {
         "WillGoToWasteland": false,
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4290289806,
-        "hairColor": 4281280544,
+        "skinColor": 4285552709,
+        "hairColor": 4284959268,
         "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
         "hair": "09",
@@ -4008,12 +5198,12 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "SawedOffShotgun",
+          "id": "HuntingRifle",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 1154,
+        "savedRoom": 2657,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
@@ -4023,17 +5213,17 @@ const exampleSaveJson = {
         "name": "Trainee",
         "lastName": "",
         "happiness": {
-          "happinessValue": 50
+          "happinessValue": 75
         },
         "health": {
-          "healthValue": 105,
+          "healthValue": 52.03,
           "radiationValue": 0,
           "permaDeath": false,
           "lastLevelUpdated": 1,
           "maxHealth": 105
         },
         "experience": {
-          "experienceValue": 0,
+          "experienceValue": 180,
           "currentLevel": 1,
           "storage": 0,
           "accum": 0,
@@ -4072,14 +5262,14 @@ const exampleSaveJson = {
               "exp": 3600
             },
             {
-              "value": 5,
+              "value": 10,
               "mod": 0,
-              "exp": 110741.4
+              "exp": 594627.6
             },
             {
-              "value": 2,
+              "value": 6,
               "mod": 0,
-              "exp": 3600
+              "exp": 145081.9
             },
             {
               "value": 2,
@@ -4119,20 +5309,20 @@ const exampleSaveJson = {
         "equipedWeapon": {
           "id": "SawedOffShotgun_Rusty",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 1154,
+        "savedRoom": 4643,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
       },
       {
-        "serializeId": 24,
+        "serializeId": 59,
         "name": "Trainee",
-        "lastName": "Explorer",
+        "lastName": "",
         "happiness": {
-          "happinessValue": 100
+          "happinessValue": 74
         },
         "health": {
           "healthValue": 105,
@@ -4142,7 +5332,7 @@ const exampleSaveJson = {
           "maxHealth": 105
         },
         "experience": {
-          "experienceValue": 476,
+          "experienceValue": 0,
           "currentLevel": 1,
           "storage": 0,
           "accum": 0,
@@ -4152,238 +5342,9 @@ const exampleSaveJson = {
         "relations": {
           "relations": [],
           "partner": -1,
-          "lastPartner": 21,
+          "lastPartner": -1,
           "ascendants": [
-            6,
-            11,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594861.8
-            },
-            {
-              "value": 1,
-              "mod": 3,
-              "exp": 0
-            },
-            {
-              "value": 7,
-              "mod": 0,
-              "exp": 249776.8
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594399.9
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": true,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4294964980,
-        "hairColor": 4291735864,
-        "outfitColor": 4287807992,
-        "pendingExperienceReward": 0,
-        "hair": "20",
-        "equipedOutfit": {
-          "id": "AllNightware",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 2657,
-        "lastChildBorn": 650550,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 37,
-        "name": "Trainee",
-        "lastName": "Explorer",
-        "happiness": {
-          "happinessValue": 85
-        },
-        "health": {
-          "healthValue": 105,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 150,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": 21,
-          "ascendants": [
-            10,
-            11,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 8,
-              "mod": 0,
-              "exp": 323218.5
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594407.8
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": true,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4283848802,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "16",
-        "equipedOutfit": {
-          "id": "jumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equippedPet": {
-          "id": "persian_c",
-          "type": "Pet",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false,
-          "extraData": {
-            "uniqueName": "Перс",
-            "bonus": "HappinessBoost",
-            "bonusValue": 28
-          }
-        },
-        "savedRoom": 375,
-        "lastChildBorn": -1,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 22,
-        "name": "Trainee",
-        "lastName": "Explorer",
-        "happiness": {
-          "happinessValue": 100
-        },
-        "health": {
-          "healthValue": 105,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 2312,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": 21,
-          "ascendants": [
-            14,
+            12,
             5,
             -1,
             -1,
@@ -4400,23 +5361,23 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 10,
-              "mod": 0,
-              "exp": 594439.8
-            },
-            {
               "value": 3,
               "mod": 0,
               "exp": 14400
             },
             {
-              "value": 10,
+              "value": 1,
               "mod": 0,
-              "exp": 594811.3
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
             },
             {
               "value": 2,
-              "mod": 3,
+              "mod": 0,
               "exp": 3600
             },
             {
@@ -4425,52 +5386,52 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 7,
-              "mod": 0,
-              "exp": 249857.5
-            },
-            {
               "value": 2,
               "mod": 0,
               "exp": 3600
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 434484.1
             }
           ]
         },
-        "pregnant": true,
+        "pregnant": false,
         "babyReady": false,
         "assigned": false,
         "sawIncident": false,
         "WillGoToWasteland": false,
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4281280544,
-        "outfitColor": 4294888184,
+        "skinColor": 4290224790,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
-        "hair": "08",
+        "hair": "12",
         "equipedOutfit": {
-          "id": "AllNightware",
+          "id": "jumpsuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "SawedOffShotgun_Rusty",
+          "id": "SawedOffShotgun_Enhanced",
           "type": "Weapon",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 413,
+        "savedRoom": 4377,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
       },
       {
-        "serializeId": 28,
+        "serializeId": 69,
         "name": "Trainee",
-        "lastName": "Explorer",
+        "lastName": "",
         "happiness": {
-          "happinessValue": 75
+          "happinessValue": 50
         },
         "health": {
           "healthValue": 105,
@@ -4480,8 +5441,662 @@ const exampleSaveJson = {
           "maxHealth": 105
         },
         "experience": {
-          "experienceValue": 425,
+          "experienceValue": 0,
           "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            65,
+            41,
+            -1,
+            -1,
+            7,
+            4
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 91946.67
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4293440519,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "11",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 1469,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 39,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 76.79,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 305,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            23,
+            38,
+            14,
+            13,
+            17,
+            25
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594504.9
+            },
+            {
+              "value": 7,
+              "mod": 0,
+              "exp": 220693.9
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "18",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4643,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 51,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 55
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 25,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            21,
+            46,
+            3,
+            4,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 17696.85
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 595039.5
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963954,
+        "hairColor": 4283848802,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "13",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 535,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 48,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 74
+        },
+        "health": {
+          "healthValue": 92.49,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            21,
+            37,
+            3,
+            4,
+            10,
+            11
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594993.4
+            },
+            {
+              "value": 4,
+              "mod": 0,
+              "exp": 36094.5
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4283848802,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "11",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 2200,
+        "lastChildBorn": 820411.88,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 58,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 69
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            12,
+            25,
+            -1,
+            -1,
+            14,
+            16
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 449274.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4288567131,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "03",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 375,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 67,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 55
+        },
+        "health": {
+          "healthValue": 91.69,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            65,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 91236.84
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4293440519,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "02",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 2200,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 28,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 109.88,
+          "radiationValue": 44.25,
+          "permaDeath": false,
+          "lastLevelUpdated": 7,
+          "maxHealth": 159
+        },
+        "experience": {
+          "experienceValue": 74064,
+          "currentLevel": 7,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -4509,18 +6124,18 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 5,
+              "value": 8,
               "mod": 0,
-              "exp": 111888.3
+              "exp": 391852.3
             },
             {
               "value": 3,
-              "mod": 1,
+              "mod": 0,
               "exp": 14400
             },
             {
               "value": 10,
-              "mod": 2,
+              "mod": 3,
               "exp": 594030.9
             },
             {
@@ -4558,7 +6173,7 @@ const exampleSaveJson = {
         "pendingExperienceReward": 0,
         "hair": "23",
         "equipedOutfit": {
-          "id": "RadiationSuit",
+          "id": "HazmatSuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -4569,7 +6184,1767 @@ const exampleSaveJson = {
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
+        "savedRoom": 4373,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 49,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 44.07,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 100,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            21,
+            9,
+            3,
+            4,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594951.4
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 17636.08
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "11",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 413,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 53,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 55
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            20,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 435302.5
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4291277713,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "04",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 535,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 55,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            17,
+            13,
+            7,
+            5,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 449279.4
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963175,
+        "hairColor": 4289023020,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "13",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
         "savedRoom": 375,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 50,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            21,
+            38,
+            3,
+            4,
+            17,
+            25
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594735.5
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 4,
+              "mod": 0,
+              "exp": 36072.21
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "23",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 1469,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 60,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            20,
+            33,
+            -1,
+            -1,
+            12,
+            5
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 6,
+              "mod": 0,
+              "exp": 144406.9
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 6,
+              "mod": 0,
+              "exp": 146026.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4286472780,
+        "hairColor": 4293440519,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "12",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 1154,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 52,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 25,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            21,
+            24,
+            3,
+            4,
+            6,
+            11
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 17698.52
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 595006.8
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290291612,
+        "hairColor": 4285940014,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "07",
+        "faceMask": "f_hair_10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "HuntingRifle_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 535,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 63,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 55
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            20,
+            41,
+            -1,
+            -1,
+            7,
+            4
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 435267.3
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4287524180,
+        "hairColor": 4287521104,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 535,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 37,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 85
+        },
+        "health": {
+          "healthValue": 363,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 36,
+          "maxHealth": 420
+        },
+        "experience": {
+          "experienceValue": 1282646,
+          "currentLevel": 36,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            10,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 595573.5
+            },
+            {
+              "value": 2,
+              "mod": 2,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594407.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4283848802,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "16",
+        "equipedOutfit": {
+          "id": "RadiationSuit_Advanced",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserRifle",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 375,
+        "lastChildBorn": 740158.65,
+        "rarity": "Common",
+        "deathTime": -1,
+        "daysOnWasteland": 0,
+        "hoursOnWasteland": 0
+      },
+      {
+        "serializeId": 57,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            17,
+            2,
+            7,
+            5,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 449280.8
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4288567131,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "06",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 375,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 70,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            65,
+            44,
+            -1,
+            -1,
+            7,
+            24
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 92006.41
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294964980,
+        "hairColor": 4293440519,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "08",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 1154,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 62,
+        "name": "Trainee",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 74
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            12,
+            48,
+            -1,
+            -1,
+            21,
+            37
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 434494.3
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4283848802,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "19",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4377,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 24,
+        "name": "Trainee",
+        "lastName": "Explorer",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 386,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 38,
+          "maxHealth": 438
+        },
+        "experience": {
+          "experienceValue": 1453685,
+          "currentLevel": 38,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 2,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594861.8
+            },
+            {
+              "value": 6,
+              "mod": 0,
+              "exp": 126129.4
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594619.6
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594399.9
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294964980,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "20",
+        "equipedOutfit": {
+          "id": "WandererArmor_Sturdy",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "PowerFistEd",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equippedPet": {
+          "id": "militarymacaw_r",
+          "type": "Pet",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false,
+          "extraData": {
+            "uniqueName": "Pepper",
+            "bonus": "DamageBoost",
+            "bonusValue": 2
+          }
+        },
+        "savedRoom": -1,
+        "lastChildBorn": 740805.69,
+        "rarity": "Common",
+        "deathTime": -1,
+        "daysOnWasteland": 1,
+        "hoursOnWasteland": 36
+      },
+      {
+        "serializeId": 22,
+        "name": "Trainee",
+        "lastName": "Explorer",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 52.75,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 2,
+          "maxHealth": 112.5
+        },
+        "experience": {
+          "experienceValue": 15057,
+          "currentLevel": 2,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            14,
+            5,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594439.8
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 10,
+              "mod": 3,
+              "exp": 594811.3
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 8,
+              "mod": 0,
+              "exp": 318463
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594488
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285486660,
+        "hairColor": 4281280544,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "08",
+        "equipedOutfit": {
+          "id": "HazmatSuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 5988,
+        "lastChildBorn": 820401.24,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 36,
+        "name": "Trainee",
+        "lastName": "Protector",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 414.65,
+          "radiationValue": 32.1,
+          "permaDeath": false,
+          "lastLevelUpdated": 39,
+          "maxHealth": 447
+        },
+        "experience": {
+          "experienceValue": 1466082,
+          "currentLevel": 39,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            18,
+            4,
+            7,
+            13,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 4034.75
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594431.7
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 434521.9
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4294373571,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "21",
+        "faceMask": "f_hair_13",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 4377,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 31,
+        "name": "Trainee",
+        "lastName": "Worker",
+        "happiness": {
+          "happinessValue": 74
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 343,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            12,
+            16,
+            -1,
+            -1,
+            7,
+            2
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594210
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594056.5
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594430.9
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 89997.52
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3893.27
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290224269,
+        "hairColor": 4288567131,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "20",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 5543,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 34,
+        "name": "Trainee",
+        "lastName": "Worker",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 54.19,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 605,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            21,
+            26,
+            3,
+            4,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594074.9
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594068.4
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 9,
+              "mod": 0,
+              "exp": 550876.6
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4284959268,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "faceMask": "f_hair_02",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 413,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
@@ -4577,20 +7952,20 @@ const exampleSaveJson = {
       {
         "serializeId": 23,
         "name": "Trainee",
-        "lastName": "Protector",
+        "lastName": "Worker",
         "happiness": {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 108,
-          "radiationValue": 0,
+          "healthValue": 262.51,
+          "radiationValue": 34.41,
           "permaDeath": false,
-          "lastLevelUpdated": 2,
-          "maxHealth": 108
+          "lastLevelUpdated": 30,
+          "maxHealth": 352.5
         },
         "experience": {
-          "experienceValue": 10251,
-          "currentLevel": 2,
+          "experienceValue": 792057,
+          "currentLevel": 30,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -4623,13 +7998,13 @@ const exampleSaveJson = {
               "exp": 594389
             },
             {
-              "value": 8,
+              "value": 10,
               "mod": 0,
-              "exp": 323493.9
+              "exp": 595859
             },
             {
               "value": 10,
-              "mod": 0,
+              "mod": 3,
               "exp": 594018.4
             },
             {
@@ -4639,7 +8014,7 @@ const exampleSaveJson = {
             },
             {
               "value": 1,
-              "mod": 3,
+              "mod": 0,
               "exp": 0
             },
             {
@@ -4668,271 +8043,49 @@ const exampleSaveJson = {
         "hair": "04",
         "faceMask": "f_hair_04",
         "equipedOutfit": {
-          "id": "LabCoat",
+          "id": "HazmatSuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "SawedOffShotgun_Enhanced",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 535,
-        "lastChildBorn": 635594.83,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 35,
-        "name": "Trainee",
-        "lastName": "Protector",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 105,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 25,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            6,
-            9,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 8,
-              "mod": 1,
-              "exp": 323472.6
-            },
-            {
-              "value": 10,
-              "mod": 2,
-              "exp": 594450
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285552709,
-        "hairColor": 4289023020,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "22",
-        "faceMask": "f_hair_09",
-        "equipedOutfit": {
-          "id": "RadiationSuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 535,
-        "lastChildBorn": -1,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 36,
-        "name": "Trainee",
-        "lastName": "Protector",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 315,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 36,
-          "maxHealth": 420
-        },
-        "experience": {
-          "experienceValue": 1249687,
-          "currentLevel": 36,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            18,
-            4,
-            7,
-            13,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 3,
-              "mod": 2,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 4034.75
-            },
-            {
-              "value": 10,
-              "mod": 3,
-              "exp": 594431.7
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285552709,
-        "hairColor": 4294373571,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "21",
-        "faceMask": "f_hair_13",
-        "equipedOutfit": {
-          "id": "WandererArmor_Sturdy",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "Flamer_Enhanced",
+          "id": "T60Pistol_Rusty",
           "type": "Weapon",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         "equippedPet": {
-          "id": "cattledog_c",
+          "id": "brittany_c",
           "type": "Pet",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false,
           "extraData": {
-            "uniqueName": "Пастушья собака",
-            "bonus": "WastelandCapsBoost",
-            "bonusValue": 15
+            "uniqueName": "Бриттани",
+            "bonus": "FasterAndCheaperCrafting",
+            "bonusValue": 6
           }
         },
-        "savedRoom": 1154,
-        "lastChildBorn": -1,
+        "savedRoom": 5988,
+        "lastChildBorn": 635594.83,
         "rarity": "Common",
-        "deathTime": -1,
-        "daysOnWasteland": 1,
-        "hoursOnWasteland": 43
+        "deathTime": -1
       },
       {
         "serializeId": 29,
         "name": "Trainee",
         "lastName": "Worker",
         "happiness": {
-          "happinessValue": 100
+          "happinessValue": 98
         },
         "health": {
-          "healthValue": 105,
+          "healthValue": 99.52,
           "radiationValue": 0,
           "permaDeath": false,
           "lastLevelUpdated": 1,
           "maxHealth": 105
         },
         "experience": {
-          "experienceValue": 385,
+          "experienceValue": 590,
           "currentLevel": 1,
           "storage": 0,
           "accum": 0,
@@ -4971,14 +8124,14 @@ const exampleSaveJson = {
               "exp": 398251.9
             },
             {
-              "value": 7,
+              "value": 10,
               "mod": 0,
-              "exp": 251586.2
+              "exp": 594562.1
             },
             {
-              "value": 3,
+              "value": 8,
               "mod": 0,
-              "exp": 14400
+              "exp": 321432
             },
             {
               "value": 2,
@@ -5021,335 +8174,8 @@ const exampleSaveJson = {
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 1469,
+        "savedRoom": 4643,
         "lastChildBorn": 650537.96,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 31,
-        "name": "Trainee",
-        "lastName": "Worker",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 105,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 318,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            12,
-            16,
-            -1,
-            -1,
-            7,
-            2
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594210
-            },
-            {
-              "value": 9,
-              "mod": 0,
-              "exp": 557859.4
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4290224269,
-        "hairColor": 4288567131,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "20",
-        "equipedOutfit": {
-          "id": "jumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 535,
-        "lastChildBorn": -1,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 32,
-        "name": "Trainee",
-        "lastName": "Worker",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 80.4,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 300,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            12,
-            4,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594182.9
-            },
-            {
-              "value": 9,
-              "mod": 0,
-              "exp": 556669.3
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285552452,
-        "hairColor": 4284959268,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "10",
-        "equipedOutfit": {
-          "id": "jumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 2200,
-        "lastChildBorn": -1,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 33,
-        "name": "Trainee",
-        "lastName": "Worker",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 67.23,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 350,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            12,
-            5,
-            -1,
-            -1,
-            -1,
-            -1
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594057.6
-            },
-            {
-              "value": 9,
-              "mod": 0,
-              "exp": 499384.6
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4281280544,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "16",
-        "equipedOutfit": {
-          "id": "jumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 2200,
-        "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
       },
@@ -5358,18 +8184,18 @@ const exampleSaveJson = {
         "name": "Trainee",
         "lastName": "Worker",
         "happiness": {
-          "happinessValue": 75
+          "happinessValue": 74
         },
         "health": {
-          "healthValue": 66.09,
+          "healthValue": 114,
           "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
+          "lastLevelUpdated": 2,
+          "maxHealth": 114
         },
         "experience": {
-          "experienceValue": 398,
-          "currentLevel": 1,
+          "experienceValue": 6138,
+          "currentLevel": 2,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -5407,9 +8233,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 4,
-              "mod": 0,
-              "exp": 52555.57
+              "value": 10,
+              "mod": 3,
+              "exp": 594059.3
             },
             {
               "value": 1,
@@ -5417,9 +8243,9 @@ const exampleSaveJson = {
               "exp": 0
             },
             {
-              "value": 2,
+              "value": 5,
               "mod": 0,
-              "exp": 3600
+              "exp": 89807.7
             },
             {
               "value": 10,
@@ -5446,7 +8272,7 @@ const exampleSaveJson = {
         "pendingExperienceReward": 0,
         "hair": "14",
         "equipedOutfit": {
-          "id": "jumpsuit",
+          "id": "HazmatSuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -5457,225 +8283,18 @@ const exampleSaveJson = {
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 2200,
-        "lastChildBorn": -1,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 38,
-        "name": "Trainee",
-        "lastName": "Worker",
-        "happiness": {
-          "happinessValue": 100
-        },
-        "health": {
-          "healthValue": 105,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 125,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": 21,
-          "ascendants": [
-            17,
-            25,
-            7,
-            5,
-            14,
-            16
-          ]
-        },
-        "gender": 1,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 3,
-              "mod": 0,
-              "exp": 14400
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594361.8
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 8,
-              "mod": 0,
-              "exp": 304302.4
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": true,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285486660,
-        "hairColor": 4284959268,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "hair": "11",
-        "equipedOutfit": {
-          "id": "jumpsuit",
-          "type": "Outfit",
+        "equippedPet": {
+          "id": "persian_c",
+          "type": "Pet",
           "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
+          "hasRandonWeaponBeenAssigned": false,
+          "extraData": {
+            "uniqueName": "Перс",
+            "bonus": "HappinessBoost",
+            "bonusValue": 28
+          }
         },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 2657,
-        "lastChildBorn": 635594.83,
-        "rarity": "Common",
-        "deathTime": -1
-      },
-      {
-        "serializeId": 34,
-        "name": "Trainee",
-        "lastName": "Worker",
-        "happiness": {
-          "happinessValue": 75
-        },
-        "health": {
-          "healthValue": 66.35,
-          "radiationValue": 0,
-          "permaDeath": false,
-          "lastLevelUpdated": 1,
-          "maxHealth": 105
-        },
-        "experience": {
-          "experienceValue": 300,
-          "currentLevel": 1,
-          "storage": 0,
-          "accum": 0,
-          "needLvUp": false,
-          "wastelandExperience": 0
-        },
-        "relations": {
-          "relations": [],
-          "partner": -1,
-          "lastPartner": -1,
-          "ascendants": [
-            21,
-            26,
-            3,
-            4,
-            -1,
-            -1
-          ]
-        },
-        "gender": 2,
-        "stats": {
-          "stats": [
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 10,
-              "mod": 0,
-              "exp": 594074.9
-            },
-            {
-              "value": 9,
-              "mod": 0,
-              "exp": 499381.6
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 2,
-              "mod": 0,
-              "exp": 3600
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            },
-            {
-              "value": 1,
-              "mod": 0,
-              "exp": 0
-            }
-          ]
-        },
-        "pregnant": false,
-        "babyReady": false,
-        "assigned": false,
-        "sawIncident": false,
-        "WillGoToWasteland": false,
-        "WillBeEvicted": false,
-        "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4285552709,
-        "hairColor": 4284959268,
-        "outfitColor": 4294967295,
-        "pendingExperienceReward": 0,
-        "faceMask": "f_hair_02",
-        "equipedOutfit": {
-          "id": "jumpsuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "equipedWeapon": {
-          "id": "SawedOffShotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        "savedRoom": 2200,
+        "savedRoom": 4187,
         "lastChildBorn": -1,
         "rarity": "Common",
         "deathTime": -1
@@ -5695,7 +8314,7 @@ const exampleSaveJson = {
           "maxHealth": 133
         },
         "experience": {
-          "experienceValue": 98820,
+          "experienceValue": 99000,
           "currentLevel": 9,
           "storage": 0,
           "accum": 0,
@@ -5705,7 +8324,7 @@ const exampleSaveJson = {
         "relations": {
           "relations": [],
           "partner": -1,
-          "lastPartner": 21,
+          "lastPartner": -1,
           "ascendants": [
             -1,
             -1,
@@ -5734,9 +8353,9 @@ const exampleSaveJson = {
               "exp": 14400
             },
             {
-              "value": 2,
+              "value": 5,
               "mod": 0,
-              "exp": 3600
+              "exp": 92004.59
             },
             {
               "value": 6,
@@ -5744,9 +8363,9 @@ const exampleSaveJson = {
               "exp": 126000
             },
             {
-              "value": 4,
+              "value": 10,
               "mod": 0,
-              "exp": 51507.77
+              "exp": 594035.6
             },
             {
               "value": 4,
@@ -5760,7 +8379,7 @@ const exampleSaveJson = {
             }
           ]
         },
-        "pregnant": true,
+        "pregnant": false,
         "babyReady": false,
         "assigned": false,
         "sawIncident": false,
@@ -5782,11 +8401,11 @@ const exampleSaveJson = {
         "equipedWeapon": {
           "id": "LaserPistol_Rusty",
           "type": "Weapon",
-          "hasBeenAssigned": true,
+          "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
-        "savedRoom": 2657,
-        "lastChildBorn": -1,
+        "savedRoom": 1154,
+        "lastChildBorn": 740590.38,
         "rarity": "Rare",
         "deathTime": -1
       }
@@ -5802,7 +8421,7 @@ const exampleSaveJson = {
         "equipment": {
           "storage": {
             "resources": {
-              "Nuka": 119,
+              "Nuka": 471,
               "Food": 0,
               "Energy": 0,
               "Water": 0,
@@ -5850,7 +8469,7 @@ const exampleSaveJson = {
       {
         "characterType": 3,
         "actorDataId": "persian_c",
-        "serializeId": 11,
+        "serializeId": 21,
         "name": "Persian",
         "canCollect": false,
         "willGoToWasteland": false,
@@ -5899,178 +8518,13 @@ const exampleSaveJson = {
         },
         "health": 5000,
         "death": false,
-        "savedRoom": 375,
-        "FollowedID": 37
-      },
-      {
-        "characterType": 3,
-        "actorDataId": "militarymacaw_r",
-        "serializeId": 15,
-        "name": "Military Macaw",
-        "canCollect": false,
-        "willGoToWasteland": false,
-        "equipment": {
-          "storage": {
-            "resources": {
-              "Nuka": 0,
-              "Food": 0,
-              "Energy": 0,
-              "Water": 0,
-              "StimPack": 0,
-              "RadAway": 0,
-              "Lunchbox": 0,
-              "MrHandy": 0,
-              "PetCarrier": 0,
-              "CraftedOutfit": 0,
-              "CraftedWeapon": 0,
-              "NukaColaQuantum": 0,
-              "CraftedTheme": 0
-            },
-            "bonus": {
-              "Nuka": 0,
-              "Food": 0,
-              "Energy": 0,
-              "Water": 0,
-              "StimPack": 0,
-              "RadAway": 0,
-              "Lunchbox": 0,
-              "MrHandy": 0,
-              "PetCarrier": 0,
-              "CraftedOutfit": 0,
-              "CraftedWeapon": 0,
-              "NukaColaQuantum": 0,
-              "CraftedTheme": 0
-            }
-          },
-          "inventory": {
-            "items": []
-          },
-          "dwellers": [],
-          "mrHandyList": [],
-          "questClues": [],
-          "collectedThemes": {
-            "themeList": []
-          }
-        },
-        "health": 5000,
-        "death": false,
-        "savedRoom": 31,
-        "FollowedID": 13
-      },
-      {
-        "characterType": 3,
-        "actorDataId": "cattledog_c",
-        "serializeId": 16,
-        "name": "Cattle Dog",
-        "canCollect": false,
-        "willGoToWasteland": false,
-        "equipment": {
-          "storage": {
-            "resources": {
-              "Nuka": 0,
-              "Food": 0,
-              "Energy": 0,
-              "Water": 0,
-              "StimPack": 0,
-              "RadAway": 0,
-              "Lunchbox": 0,
-              "MrHandy": 0,
-              "PetCarrier": 0,
-              "CraftedOutfit": 0,
-              "CraftedWeapon": 0,
-              "NukaColaQuantum": 0,
-              "CraftedTheme": 0
-            },
-            "bonus": {
-              "Nuka": 0,
-              "Food": 0,
-              "Energy": 0,
-              "Water": 0,
-              "StimPack": 0,
-              "RadAway": 0,
-              "Lunchbox": 0,
-              "MrHandy": 0,
-              "PetCarrier": 0,
-              "CraftedOutfit": 0,
-              "CraftedWeapon": 0,
-              "NukaColaQuantum": 0,
-              "CraftedTheme": 0
-            }
-          },
-          "inventory": {
-            "items": []
-          },
-          "dwellers": [],
-          "mrHandyList": [],
-          "questClues": [],
-          "collectedThemes": {
-            "themeList": []
-          }
-        },
-        "health": 5000,
-        "death": false,
-        "savedRoom": 2,
-        "FollowedID": 36
-      },
-      {
-        "characterType": 3,
-        "actorDataId": "greyhound_c",
-        "serializeId": 18,
-        "name": "Greyhound",
-        "canCollect": false,
-        "willGoToWasteland": false,
-        "equipment": {
-          "storage": {
-            "resources": {
-              "Nuka": 0,
-              "Food": 0,
-              "Energy": 0,
-              "Water": 0,
-              "StimPack": 0,
-              "RadAway": 0,
-              "Lunchbox": 0,
-              "MrHandy": 0,
-              "PetCarrier": 0,
-              "CraftedOutfit": 0,
-              "CraftedWeapon": 0,
-              "NukaColaQuantum": 0,
-              "CraftedTheme": 0
-            },
-            "bonus": {
-              "Nuka": 0,
-              "Food": 0,
-              "Energy": 0,
-              "Water": 0,
-              "StimPack": 0,
-              "RadAway": 0,
-              "Lunchbox": 0,
-              "MrHandy": 0,
-              "PetCarrier": 0,
-              "CraftedOutfit": 0,
-              "CraftedWeapon": 0,
-              "NukaColaQuantum": 0,
-              "CraftedTheme": 0
-            }
-          },
-          "inventory": {
-            "items": []
-          },
-          "dwellers": [],
-          "mrHandyList": [],
-          "questClues": [],
-          "collectedThemes": {
-            "themeList": []
-          }
-        },
-        "health": 5000,
-        "death": false,
-        "savedRoom": -1,
-        "FollowedID": 19
+        "savedRoom": 4187,
+        "FollowedID": 30
       },
       {
         "characterType": 3,
         "actorDataId": "pitbullterrier_l2",
-        "serializeId": 19,
+        "serializeId": 22,
         "name": "Ranger",
         "canCollect": false,
         "willGoToWasteland": false,
@@ -6121,21 +8575,182 @@ const exampleSaveJson = {
         "death": false,
         "savedRoom": 2,
         "FollowedID": 26
+      },
+      {
+        "characterType": 3,
+        "actorDataId": "greyhound_c",
+        "serializeId": 23,
+        "name": "Greyhound",
+        "canCollect": false,
+        "willGoToWasteland": false,
+        "equipment": {
+          "storage": {
+            "resources": {
+              "Nuka": 0,
+              "Food": 0,
+              "Energy": 0,
+              "Water": 0,
+              "StimPack": 0,
+              "RadAway": 0,
+              "Lunchbox": 0,
+              "MrHandy": 0,
+              "PetCarrier": 0,
+              "CraftedOutfit": 0,
+              "CraftedWeapon": 0,
+              "NukaColaQuantum": 0,
+              "CraftedTheme": 0
+            },
+            "bonus": {
+              "Nuka": 0,
+              "Food": 0,
+              "Energy": 0,
+              "Water": 0,
+              "StimPack": 0,
+              "RadAway": 0,
+              "Lunchbox": 0,
+              "MrHandy": 0,
+              "PetCarrier": 0,
+              "CraftedOutfit": 0,
+              "CraftedWeapon": 0,
+              "NukaColaQuantum": 0,
+              "CraftedTheme": 0
+            }
+          },
+          "inventory": {
+            "items": []
+          },
+          "dwellers": [],
+          "mrHandyList": [],
+          "questClues": [],
+          "collectedThemes": {
+            "themeList": []
+          }
+        },
+        "health": 5000,
+        "death": false,
+        "savedRoom": 5988,
+        "FollowedID": 64
+      },
+      {
+        "characterType": 3,
+        "actorDataId": "brittany_c",
+        "serializeId": 25,
+        "name": "Brittany",
+        "canCollect": false,
+        "willGoToWasteland": false,
+        "equipment": {
+          "storage": {
+            "resources": {
+              "Nuka": 0,
+              "Food": 0,
+              "Energy": 0,
+              "Water": 0,
+              "StimPack": 0,
+              "RadAway": 0,
+              "Lunchbox": 0,
+              "MrHandy": 0,
+              "PetCarrier": 0,
+              "CraftedOutfit": 0,
+              "CraftedWeapon": 0,
+              "NukaColaQuantum": 0,
+              "CraftedTheme": 0
+            },
+            "bonus": {
+              "Nuka": 0,
+              "Food": 0,
+              "Energy": 0,
+              "Water": 0,
+              "StimPack": 0,
+              "RadAway": 0,
+              "Lunchbox": 0,
+              "MrHandy": 0,
+              "PetCarrier": 0,
+              "CraftedOutfit": 0,
+              "CraftedWeapon": 0,
+              "NukaColaQuantum": 0,
+              "CraftedTheme": 0
+            }
+          },
+          "inventory": {
+            "items": []
+          },
+          "dwellers": [],
+          "mrHandyList": [],
+          "questClues": [],
+          "collectedThemes": {
+            "themeList": []
+          }
+        },
+        "health": 5000,
+        "death": false,
+        "savedRoom": 5988,
+        "FollowedID": 23
+      },
+      {
+        "characterType": 3,
+        "actorDataId": "militarymacaw_r",
+        "serializeId": 26,
+        "name": "Military Macaw",
+        "canCollect": false,
+        "willGoToWasteland": false,
+        "equipment": {
+          "storage": {
+            "resources": {
+              "Nuka": 0,
+              "Food": 0,
+              "Energy": 0,
+              "Water": 0,
+              "StimPack": 0,
+              "RadAway": 0,
+              "Lunchbox": 0,
+              "MrHandy": 0,
+              "PetCarrier": 0,
+              "CraftedOutfit": 0,
+              "CraftedWeapon": 0,
+              "NukaColaQuantum": 0,
+              "CraftedTheme": 0
+            },
+            "bonus": {
+              "Nuka": 0,
+              "Food": 0,
+              "Energy": 0,
+              "Water": 0,
+              "StimPack": 0,
+              "RadAway": 0,
+              "Lunchbox": 0,
+              "MrHandy": 0,
+              "PetCarrier": 0,
+              "CraftedOutfit": 0,
+              "CraftedWeapon": 0,
+              "NukaColaQuantum": 0,
+              "CraftedTheme": 0
+            }
+          },
+          "inventory": {
+            "items": []
+          },
+          "dwellers": [],
+          "mrHandyList": [],
+          "questClues": [],
+          "collectedThemes": {
+            "themeList": []
+          }
+        },
+        "health": 5000,
+        "death": false,
+        "savedRoom": 2,
+        "FollowedID": 24
       }
     ],
     "id": 0,
-    "mrhId": 20,
+    "mrhId": 27,
     "min_happiness": 0
   },
   "constructMgr": {
-    "roomDeserializeID": 3828
+    "roomDeserializeID": 5988
   },
   "vault": {
     "rocks": [
-      {
-        "r": 12,
-        "c": 2
-      },
       {
         "r": 12,
         "c": 17
@@ -6155,10 +8770,6 @@ const exampleSaveJson = {
       {
         "r": 14,
         "c": 6
-      },
-      {
-        "r": 14,
-        "c": 21
       },
       {
         "r": 15,
@@ -6185,10 +8796,6 @@ const exampleSaveJson = {
         "c": 14
       },
       {
-        "r": 16,
-        "c": 24
-      },
-      {
         "r": 17,
         "c": 2
       },
@@ -6205,20 +8812,8 @@ const exampleSaveJson = {
         "c": 9
       },
       {
-        "r": 17,
-        "c": 23
-      },
-      {
-        "r": 18,
-        "c": 18
-      },
-      {
         "r": 18,
         "c": 15
-      },
-      {
-        "r": 18,
-        "c": 23
       },
       {
         "r": 18,
@@ -6356,7 +8951,7 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 200,
-          "initialValue": 104.36
+          "initialValue": 109.57
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -6380,8 +8975,8 @@ const exampleSaveJson = {
         "col": 0,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 73.59
+          "damageValue": 200,
+          "initialValue": 107.38
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -6471,7 +9066,7 @@ const exampleSaveJson = {
         "withHole": false
       },
       {
-        "emergencyDone": false,
+        "emergencyDone": true,
         "type": "Geothermal",
         "class": "Production",
         "mergeLevel": 3,
@@ -6480,19 +9075,23 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 0,
-          "initialValue": 1041.58
+          "initialValue": 686
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          13,
-          21
+          12,
+          20,
+          5,
+          1,
+          21,
+          17
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
         "currentState": {
-          "taskId": 39146,
+          "taskId": 61472,
           "notificationId": "-1"
         },
         "deserializeID": 31,
@@ -6503,7 +9102,7 @@ const exampleSaveJson = {
           "resources": {
             "Nuka": 10,
             "Food": 0,
-            "Energy": 17.32,
+            "Energy": 7.55,
             "Water": 0,
             "StimPack": 0,
             "RadAway": 0,
@@ -6531,7 +9130,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 319,
+        "numberOfProductionCycle": 440,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -6575,14 +9174,14 @@ const exampleSaveJson = {
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          14,
           3,
-          15
+          10,
+          14
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
         "currentState": {
-          "taskId": 39147,
+          "taskId": 61470,
           "notificationId": "-1"
         },
         "deserializeID": 44,
@@ -6592,7 +9191,7 @@ const exampleSaveJson = {
         "storage": {
           "resources": {
             "Nuka": 10,
-            "Food": 20.8,
+            "Food": 6.4,
             "Energy": 0,
             "Water": 0,
             "StimPack": 0,
@@ -6621,7 +9220,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 609,
+        "numberOfProductionCycle": 845,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -6634,7 +9233,7 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 1000,
-          "initialValue": 533.41
+          "initialValue": 354.89
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -6653,7 +9252,7 @@ const exampleSaveJson = {
             "Food": 0,
             "Energy": 0,
             "Water": 0,
-            "StimPack": 0.05,
+            "StimPack": 0.27,
             "RadAway": 0,
             "Lunchbox": 0,
             "MrHandy": 0,
@@ -6679,7 +9278,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 45,
+        "numberOfProductionCycle": 56,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -6692,7 +9291,7 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 2000,
-          "initialValue": 784.22
+          "initialValue": 686.75
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -6767,20 +9366,21 @@ const exampleSaveJson = {
         "col": 0,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 1149.73
+          "damageValue": 2000,
+          "initialValue": 512.37
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
           4,
+          19,
           6
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
         "currentState": {
-          "taskId": 39150,
+          "taskId": 61468,
           "notificationId": "-1"
         },
         "deserializeID": 77,
@@ -6789,10 +9389,10 @@ const exampleSaveJson = {
         "roomOutline": false,
         "storage": {
           "resources": {
-            "Nuka": 5.67,
+            "Nuka": 8.48,
             "Food": 0,
             "Energy": 0,
-            "Water": 2.82,
+            "Water": 4.22,
             "StimPack": 0,
             "RadAway": 0,
             "Lunchbox": 0,
@@ -6819,7 +9419,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 424,
+        "numberOfProductionCycle": 574,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -6857,7 +9457,7 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 1000,
-          "initialValue": 543.54
+          "initialValue": 514.05
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -6877,7 +9477,7 @@ const exampleSaveJson = {
             "Energy": 0,
             "Water": 0,
             "StimPack": 0,
-            "RadAway": 0.07,
+            "RadAway": 0.54,
             "Lunchbox": 0,
             "MrHandy": 0,
             "PetCarrier": 0,
@@ -6902,7 +9502,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 28,
+        "numberOfProductionCycle": 32,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -6915,7 +9515,7 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 2000,
-          "initialValue": 607.61
+          "initialValue": 684.76
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -6938,31 +9538,25 @@ const exampleSaveJson = {
         "col": 0,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 1037.26
+          "damageValue": 2000,
+          "initialValue": 1176.43
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
-        "dwellers": [
-          17,
-          16
-        ],
+        "dwellers": [],
         "deadDwellers": [],
-        "currentStateName": "Working",
-        "currentState": {
-          "taskId": 39151,
-          "notificationId": "-1"
-        },
+        "currentStateName": "Idle",
+        "currentState": {},
         "deserializeID": 245,
         "assignedDecoration": "",
         "roomVisibility": false,
         "roomOutline": false,
         "storage": {
           "resources": {
-            "Nuka": 7.87,
+            "Nuka": 10,
             "Food": 0,
-            "Energy": 4.49,
+            "Energy": 53.78,
             "Water": 0,
             "StimPack": 0,
             "RadAway": 0,
@@ -6990,7 +9584,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 230,
+        "numberOfProductionCycle": 343,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -7077,38 +9671,23 @@ const exampleSaveJson = {
         "col": 10,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 498.15
+          "damageValue": 1000,
+          "initialValue": 517.71
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 2,
-        "dwellers": [
-          19
-        ],
+        "dwellers": [],
         "deadDwellers": [],
-        "currentStateName": "Working",
-        "currentState": {
-          "taskId": 38896,
-          "notificationId": 39222
-        },
+        "currentStateName": "Idle",
+        "currentState": {},
         "deserializeID": 314,
         "assignedDecoration": "",
         "roomVisibility": false,
         "roomOutline": false,
-        "IngredientItemIds": [
-          "AlarmClock",
-          "AlarmClock",
-          "AlarmClock",
-          "Globe",
-          "Globe",
-          "Globe",
-          "Microscope",
-          "Microscope",
-          "Microscope"
-        ],
-        "CraftingItemId": "PlasmaRifle_Rusty",
-        "CompletedTime": 31441.24
+        "IngredientItemIds": [],
+        "CraftingItemId": "",
+        "CompletedTime": 0
       },
       {
         "emergencyDone": false,
@@ -7120,7 +9699,7 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 200,
-          "initialValue": 83.24
+          "initialValue": 79.67
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -7184,12 +9763,10 @@ const exampleSaveJson = {
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          1,
-          12,
-          7,
-          5,
-          28,
-          37
+          58,
+          55,
+          57,
+          33
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
@@ -7201,33 +9778,23 @@ const exampleSaveJson = {
         "slots": [
           {
             "needLvUp": false,
-            "dwellerID": 1,
-            "taskID": 30417
+            "dwellerID": 58,
+            "taskID": 45177
           },
           {
             "needLvUp": false,
-            "dwellerID": 12,
-            "taskID": 32574
+            "dwellerID": 55,
+            "taskID": 45189
           },
           {
             "needLvUp": false,
-            "dwellerID": 7,
-            "taskID": 34408
+            "dwellerID": 57,
+            "taskID": 45297
           },
           {
             "needLvUp": false,
-            "dwellerID": 5,
-            "taskID": 36215
-          },
-          {
-            "needLvUp": false,
-            "dwellerID": 28,
-            "taskID": 38870
-          },
-          {
-            "needLvUp": false,
-            "dwellerID": 37,
-            "taskID": 38931
+            "dwellerID": 33,
+            "taskID": 60956
           }
         ],
         "dwellerWithPendingCompleteTraining": []
@@ -7266,21 +9833,16 @@ const exampleSaveJson = {
         "col": 0,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 798.07
+          "damageValue": 2000,
+          "initialValue": 728.87
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
-        "dwellers": [
-          11
-        ],
+        "dwellers": [],
         "deadDwellers": [],
-        "currentStateName": "Working",
-        "currentState": {
-          "taskId": 39106,
-          "notificationId": "-1"
-        },
+        "currentStateName": "Idle",
+        "currentState": {},
         "deserializeID": 382,
         "assignedDecoration": "",
         "roomVisibility": false,
@@ -7289,7 +9851,7 @@ const exampleSaveJson = {
           "resources": {
             "Nuka": 10,
             "Food": 0,
-            "Energy": 60.08,
+            "Energy": 42.05,
             "Water": 0,
             "StimPack": 0,
             "RadAway": 0,
@@ -7317,11 +9879,11 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 185,
+        "numberOfProductionCycle": 289,
         "ExperienceRewardIsDirty": false
       },
       {
-        "emergencyDone": false,
+        "emergencyDone": true,
         "type": "Dojo",
         "class": "Training",
         "mergeLevel": 2,
@@ -7330,15 +9892,15 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 0,
-          "initialValue": 553.75
+          "initialValue": 315.65
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          25,
-          10,
-          22
+          34,
+          49,
+          9
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
@@ -7350,18 +9912,18 @@ const exampleSaveJson = {
         "slots": [
           {
             "needLvUp": false,
-            "dwellerID": 10,
-            "taskID": 33524
+            "dwellerID": 34,
+            "taskID": 41586
           },
           {
             "needLvUp": false,
-            "dwellerID": 25,
-            "taskID": 33527
+            "dwellerID": 49,
+            "taskID": 60957
           },
           {
             "needLvUp": false,
-            "dwellerID": 22,
-            "taskID": 38997
+            "dwellerID": 9,
+            "taskID": 61448
           }
         ],
         "dwellerWithPendingCompleteTraining": []
@@ -7375,12 +9937,12 @@ const exampleSaveJson = {
         "col": 20,
         "power": true,
         "roomHealth": {
-          "damageValue": 200,
-          "initialValue": 95.55
+          "damageValue": 1000,
+          "initialValue": 367.66
         },
         "mrHandyList": [],
         "rushTask": -1,
-        "level": 1,
+        "level": 3,
         "dwellers": [],
         "deadDwellers": [],
         "currentStateName": "Idle",
@@ -7395,7 +9957,7 @@ const exampleSaveJson = {
             "Food": 0,
             "Energy": 0,
             "Water": 0,
-            "StimPack": 0,
+            "StimPack": 8.41,
             "RadAway": 0,
             "Lunchbox": 0,
             "MrHandy": 0,
@@ -7421,7 +9983,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 0,
+        "numberOfProductionCycle": 3,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -7458,17 +10020,17 @@ const exampleSaveJson = {
         "col": 20,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 342.19
+          "damageValue": 129.67,
+          "initialValue": 485.06
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          23,
-          31,
-          35,
-          8
+          53,
+          63,
+          52,
+          51
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
@@ -7480,23 +10042,23 @@ const exampleSaveJson = {
         "slots": [
           {
             "needLvUp": false,
-            "dwellerID": 23,
-            "taskID": 33532
+            "dwellerID": 53,
+            "taskID": 45157
           },
           {
             "needLvUp": false,
-            "dwellerID": 31,
-            "taskID": 39006
+            "dwellerID": 63,
+            "taskID": 45164
           },
           {
             "needLvUp": false,
-            "dwellerID": 35,
-            "taskID": 39009
+            "dwellerID": 52,
+            "taskID": 60959
           },
           {
             "needLvUp": false,
-            "dwellerID": 8,
-            "taskID": 39018
+            "dwellerID": 51,
+            "taskID": 60961
           }
         ],
         "dwellerWithPendingCompleteTraining": []
@@ -7535,12 +10097,12 @@ const exampleSaveJson = {
         "col": 20,
         "power": true,
         "roomHealth": {
-          "damageValue": 200,
-          "initialValue": 113.22
+          "damageValue": 1000,
+          "initialValue": 419.67
         },
         "mrHandyList": [],
         "rushTask": -1,
-        "level": 1,
+        "level": 3,
         "dwellers": [],
         "deadDwellers": [],
         "currentStateName": "Idle",
@@ -7556,7 +10118,7 @@ const exampleSaveJson = {
             "Energy": 0,
             "Water": 0,
             "StimPack": 0,
-            "RadAway": 0,
+            "RadAway": 2.09,
             "Lunchbox": 0,
             "MrHandy": 0,
             "PetCarrier": 0,
@@ -7581,7 +10143,7 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 0,
+        "numberOfProductionCycle": 4,
         "ExperienceRewardIsDirty": false
       },
       {
@@ -7593,12 +10155,12 @@ const exampleSaveJson = {
         "col": 10,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 198.2
+          "damageValue": 1000,
+          "initialValue": 518.82
         },
         "mrHandyList": [],
         "rushTask": -1,
-        "level": 1,
+        "level": 2,
         "dwellers": [],
         "deadDwellers": [],
         "currentStateName": "Idle",
@@ -7645,21 +10207,16 @@ const exampleSaveJson = {
         "col": 0,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 1019.26
+          "damageValue": 2000,
+          "initialValue": 924.25
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
-        "dwellers": [
-          20
-        ],
+        "dwellers": [],
         "deadDwellers": [],
-        "currentStateName": "Working",
-        "currentState": {
-          "taskId": 39113,
-          "notificationId": "-1"
-        },
+        "currentStateName": "Idle",
+        "currentState": {},
         "deserializeID": 874,
         "assignedDecoration": "",
         "roomVisibility": false,
@@ -7668,7 +10225,7 @@ const exampleSaveJson = {
           "resources": {
             "Nuka": 10,
             "Food": 0,
-            "Energy": 51.68,
+            "Energy": 36.87,
             "Water": 0,
             "StimPack": 0,
             "RadAway": 0,
@@ -7696,8 +10253,8 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 142,
-        "ExperienceRewardIsDirty": false
+        "numberOfProductionCycle": 221,
+        "ExperienceRewardIsDirty": true
       },
       {
         "emergencyDone": false,
@@ -7725,7 +10282,7 @@ const exampleSaveJson = {
         "withHole": false
       },
       {
-        "emergencyDone": true,
+        "emergencyDone": false,
         "type": "WaterPlant",
         "class": "Production",
         "mergeLevel": 3,
@@ -7733,19 +10290,21 @@ const exampleSaveJson = {
         "col": 0,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 628.37
+          "damageValue": 2000,
+          "initialValue": 884.34
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
+          35,
+          8,
           2
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
         "currentState": {
-          "taskId": 39152,
+          "taskId": 61469,
           "notificationId": "-1"
         },
         "deserializeID": 916,
@@ -7754,10 +10313,10 @@ const exampleSaveJson = {
         "roomOutline": false,
         "storage": {
           "resources": {
-            "Nuka": 0.95,
+            "Nuka": 10,
             "Food": 0,
             "Energy": 0,
-            "Water": 0.48,
+            "Water": 5.26,
             "StimPack": 0,
             "RadAway": 0,
             "Lunchbox": 0,
@@ -7784,11 +10343,11 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 228,
-        "ExperienceRewardIsDirty": true
+        "numberOfProductionCycle": 397,
+        "ExperienceRewardIsDirty": false
       },
       {
-        "emergencyDone": false,
+        "emergencyDone": true,
         "type": "Storage",
         "class": "Facility",
         "mergeLevel": 3,
@@ -7797,7 +10356,7 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 0,
-          "initialValue": 899.92
+          "initialValue": 1031.85
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -7852,10 +10411,10 @@ const exampleSaveJson = {
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          42,
-          40,
-          44,
-          41
+          60,
+          65,
+          46,
+          70
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
@@ -7867,23 +10426,23 @@ const exampleSaveJson = {
         "slots": [
           {
             "needLvUp": false,
-            "dwellerID": 42,
-            "taskID": 36241
+            "dwellerID": 60,
+            "taskID": 55558
           },
           {
             "needLvUp": false,
-            "dwellerID": 40,
-            "taskID": 36244
+            "dwellerID": 65,
+            "taskID": 55577
           },
           {
             "needLvUp": false,
-            "dwellerID": 44,
-            "taskID": 36256
+            "dwellerID": 46,
+            "taskID": 57148
           },
           {
             "needLvUp": false,
-            "dwellerID": 41,
-            "taskID": 39015
+            "dwellerID": 70,
+            "taskID": 58929
           }
         ],
         "dwellerWithPendingCompleteTraining": []
@@ -7971,17 +10530,17 @@ const exampleSaveJson = {
         "col": 20,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 438.63
+          "damageValue": 1000,
+          "initialValue": 511
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          29,
-          39,
-          45,
-          43
+          66,
+          69,
+          50,
+          47
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
@@ -7993,23 +10552,23 @@ const exampleSaveJson = {
         "slots": [
           {
             "needLvUp": false,
-            "dwellerID": 29,
-            "taskID": 34511
+            "dwellerID": 66,
+            "taskID": 58944
           },
           {
             "needLvUp": false,
-            "dwellerID": 39,
-            "taskID": 34944
+            "dwellerID": 69,
+            "taskID": 58952
           },
           {
             "needLvUp": false,
-            "dwellerID": 45,
-            "taskID": 36230
+            "dwellerID": 50,
+            "taskID": 60936
           },
           {
             "needLvUp": false,
-            "dwellerID": 43,
-            "taskID": 36252
+            "dwellerID": 47,
+            "taskID": 60949
           }
         ],
         "dwellerWithPendingCompleteTraining": []
@@ -8023,21 +10582,16 @@ const exampleSaveJson = {
         "col": 0,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 723.51
+          "damageValue": 2000,
+          "initialValue": 866.22
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
-        "dwellers": [
-          27
-        ],
+        "dwellers": [],
         "deadDwellers": [],
-        "currentStateName": "Working",
-        "currentState": {
-          "taskId": 39124,
-          "notificationId": "-1"
-        },
+        "currentStateName": "Idle",
+        "currentState": {},
         "deserializeID": 1474,
         "assignedDecoration": "",
         "roomVisibility": false,
@@ -8046,7 +10600,7 @@ const exampleSaveJson = {
           "resources": {
             "Nuka": 10,
             "Food": 0,
-            "Energy": 33.54,
+            "Energy": 48.55,
             "Water": 0,
             "StimPack": 0,
             "RadAway": 0,
@@ -8074,8 +10628,8 @@ const exampleSaveJson = {
             "CraftedTheme": 0
           }
         },
-        "numberOfProductionCycle": 134,
-        "ExperienceRewardIsDirty": false
+        "numberOfProductionCycle": 209,
+        "ExperienceRewardIsDirty": true
       },
       {
         "emergencyDone": false,
@@ -8261,17 +10815,16 @@ const exampleSaveJson = {
         "col": 20,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 365.77
+          "damageValue": 1000,
+          "initialValue": 494.26
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          32,
-          34,
-          33,
-          30
+          68,
+          67,
+          48
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
@@ -8283,89 +10836,21 @@ const exampleSaveJson = {
         "slots": [
           {
             "needLvUp": false,
-            "dwellerID": 32,
-            "taskID": 29753
+            "dwellerID": 68,
+            "taskID": 58930
           },
           {
             "needLvUp": false,
-            "dwellerID": 34,
-            "taskID": 30703
+            "dwellerID": 67,
+            "taskID": 58936
           },
           {
             "needLvUp": false,
-            "dwellerID": 33,
-            "taskID": 34509
-          },
-          {
-            "needLvUp": false,
-            "dwellerID": 30,
-            "taskID": 37517
+            "dwellerID": 48,
+            "taskID": 60960
           }
         ],
         "dwellerWithPendingCompleteTraining": []
-      },
-      {
-        "emergencyDone": false,
-        "type": "Geothermal",
-        "class": "Production",
-        "mergeLevel": 3,
-        "row": 7,
-        "col": 0,
-        "power": true,
-        "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 0
-        },
-        "mrHandyList": [],
-        "rushTask": -1,
-        "level": 3,
-        "dwellers": [
-          18
-        ],
-        "deadDwellers": [],
-        "currentStateName": "Working",
-        "currentState": {
-          "taskId": 39123,
-          "notificationId": "-1"
-        },
-        "deserializeID": 2259,
-        "assignedDecoration": "",
-        "roomVisibility": false,
-        "roomOutline": false,
-        "storage": {
-          "resources": {
-            "Nuka": 10,
-            "Food": 0,
-            "Energy": 33.56,
-            "Water": 0,
-            "StimPack": 0,
-            "RadAway": 0,
-            "Lunchbox": 0,
-            "MrHandy": 0,
-            "PetCarrier": 0,
-            "CraftedOutfit": 0,
-            "CraftedWeapon": 0,
-            "NukaColaQuantum": 0,
-            "CraftedTheme": 0
-          },
-          "bonus": {
-            "Nuka": 0,
-            "Food": 0,
-            "Energy": 0,
-            "Water": 0,
-            "StimPack": 0,
-            "RadAway": 0,
-            "Lunchbox": 0,
-            "MrHandy": 0,
-            "PetCarrier": 0,
-            "CraftedOutfit": 0,
-            "CraftedWeapon": 0,
-            "NukaColaQuantum": 0,
-            "CraftedTheme": 0
-          }
-        },
-        "numberOfProductionCycle": 70,
-        "ExperienceRewardIsDirty": false
       },
       {
         "emergencyDone": false,
@@ -8376,196 +10861,25 @@ const exampleSaveJson = {
         "col": 10,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 1125.03
+          "damageValue": 2000,
+          "initialValue": 952.05
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [],
         "deadDwellers": [],
-        "currentStateName": "Working",
-        "currentState": {
-          "breedingTaskId": 38957
-        },
+        "currentStateName": "Idle",
+        "currentState": {},
         "deserializeID": 2320,
         "assignedDecoration": "",
         "roomVisibility": false,
         "roomOutline": false,
         "children": [],
-        "partners": [
-          {
-            "m": 21,
-            "f": 9,
-            "s": "RaisingBaby",
-            "ascendants": [
-              21,
-              9,
-              3,
-              4,
-              -1,
-              -1
-            ],
-            "maleName": "Old",
-            "maleLast": "",
-            "femaleName": "Old",
-            "femaleLast": "Explorer",
-            "childColor": 4285552709,
-            "childHairColor": 4284959268,
-            "childRarity": 1,
-            "childStat": [
-              5
-            ],
-            "notificationID": 606804,
-            "fatherId": 21,
-            "pendingChildren": 0,
-            "templateID": -1,
-            "t": 38854
-          },
-          {
-            "m": 21,
-            "f": 37,
-            "s": "RaisingBaby",
-            "ascendants": [
-              21,
-              37,
-              3,
-              4,
-              10,
-              11
-            ],
-            "maleName": "Old",
-            "maleLast": "",
-            "femaleName": "Trainee",
-            "femaleLast": "Explorer",
-            "childColor": 4285552709,
-            "childHairColor": 4283848802,
-            "childRarity": 1,
-            "childStat": [
-              3
-            ],
-            "notificationID": -1,
-            "fatherId": 21,
-            "pendingChildren": 0,
-            "templateID": -1,
-            "t": 38929
-          },
-          {
-            "m": 21,
-            "f": 22,
-            "s": "RaisingBaby",
-            "ascendants": [
-              21,
-              22,
-              3,
-              4,
-              14,
-              5
-            ],
-            "maleName": "Old",
-            "maleLast": "",
-            "femaleName": "Trainee",
-            "femaleLast": "Explorer",
-            "childColor": 4285552709,
-            "childHairColor": 4283119906,
-            "childRarity": 1,
-            "childStat": [
-              1
-            ],
-            "notificationID": -1,
-            "fatherId": 21,
-            "pendingChildren": 0,
-            "templateID": -1,
-            "t": 38992
-          },
-          {
-            "m": 21,
-            "f": 38,
-            "s": "RaisingBaby",
-            "ascendants": [
-              21,
-              38,
-              3,
-              4,
-              17,
-              25
-            ],
-            "maleName": "Old",
-            "maleLast": "",
-            "femaleName": "Trainee",
-            "femaleLast": "Worker",
-            "childColor": 4285552709,
-            "childHairColor": 4284959268,
-            "childRarity": 1,
-            "childStat": [
-              3
-            ],
-            "notificationID": -1,
-            "fatherId": 21,
-            "pendingChildren": 0,
-            "templateID": -1,
-            "t": 39042
-          },
-          {
-            "m": 21,
-            "f": 46,
-            "s": "RaisingBaby",
-            "ascendants": [
-              21,
-              46,
-              3,
-              4,
-              -1,
-              -1
-            ],
-            "maleName": "Old",
-            "maleLast": "",
-            "femaleName": "Trainee?",
-            "femaleLast": "",
-            "childColor": 4294963954,
-            "childHairColor": 4286991144,
-            "childRarity": 1,
-            "childStat": [
-              1
-            ],
-            "notificationID": -1,
-            "fatherId": 21,
-            "pendingChildren": 0,
-            "templateID": -1,
-            "t": 39082
-          },
-          {
-            "m": 21,
-            "f": 24,
-            "s": "RaisingBaby",
-            "ascendants": [
-              21,
-              24,
-              3,
-              4,
-              6,
-              11
-            ],
-            "maleName": "Old",
-            "maleLast": "",
-            "femaleName": "Trainee",
-            "femaleLast": "Explorer",
-            "childColor": 4290291612,
-            "childHairColor": 4288314926,
-            "childRarity": 1,
-            "childStat": [
-              3
-            ],
-            "notificationID": -1,
-            "fatherId": 21,
-            "pendingChildren": 0,
-            "templateID": -1,
-            "t": 39116
-          }
-        ]
+        "partners": []
       },
       {
-        "emergencyDone": false,
+        "emergencyDone": true,
         "type": "Overseer",
         "class": "Quest",
         "mergeLevel": 2,
@@ -8573,12 +10887,12 @@ const exampleSaveJson = {
         "col": 3,
         "power": true,
         "roomHealth": {
-          "damageValue": 182.53,
-          "initialValue": 163.78
+          "damageValue": 0,
+          "initialValue": 485.38
         },
         "mrHandyList": [],
         "rushTask": -1,
-        "level": 2,
+        "level": 3,
         "dwellers": [],
         "deadDwellers": [],
         "currentStateName": "Idle",
@@ -8623,16 +10937,14 @@ const exampleSaveJson = {
         "power": true,
         "roomHealth": {
           "damageValue": 0,
-          "initialValue": 0
+          "initialValue": 17.83
         },
         "mrHandyList": [],
         "rushTask": -1,
         "level": 3,
         "dwellers": [
-          9,
-          38,
-          46,
-          24
+          56,
+          61
         ],
         "deadDwellers": [],
         "currentStateName": "Working",
@@ -8644,23 +10956,13 @@ const exampleSaveJson = {
         "slots": [
           {
             "needLvUp": false,
-            "dwellerID": 9,
-            "taskID": 38864
+            "dwellerID": 56,
+            "taskID": 45175
           },
           {
             "needLvUp": false,
-            "dwellerID": 38,
-            "taskID": 39046
-          },
-          {
-            "needLvUp": false,
-            "dwellerID": 46,
-            "taskID": 39085
-          },
-          {
-            "needLvUp": false,
-            "dwellerID": 24,
-            "taskID": 39117
+            "dwellerID": 61,
+            "taskID": 45326
           }
         ],
         "dwellerWithPendingCompleteTraining": []
@@ -8674,8 +10976,8 @@ const exampleSaveJson = {
         "col": 10,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 0
+          "damageValue": 2000,
+          "initialValue": 1038.37
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -8698,8 +11000,8 @@ const exampleSaveJson = {
         "col": 20,
         "power": true,
         "roomHealth": {
-          "damageValue": 0,
-          "initialValue": 0
+          "damageValue": 200,
+          "initialValue": 86.55
         },
         "mrHandyList": [],
         "rushTask": -1,
@@ -8746,22 +11048,712 @@ const exampleSaveJson = {
         },
         "numberOfProductionCycle": 0,
         "ExperienceRewardIsDirty": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Energy2",
+        "class": "Production",
+        "mergeLevel": 3,
+        "row": 8,
+        "col": 0,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 2000,
+          "initialValue": 628.85
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          18,
+          7,
+          27,
+          13,
+          16,
+          30
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {
+          "taskId": 61467,
+          "notificationId": "-1"
+        },
+        "deserializeID": 4187,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "storage": {
+          "resources": {
+            "Nuka": 10,
+            "Food": 0,
+            "Energy": 16.3,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          },
+          "bonus": {
+            "Nuka": 0,
+            "Food": 0,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          }
+        },
+        "numberOfProductionCycle": 107,
+        "ExperienceRewardIsDirty": true
+      },
+      {
+        "emergencyDone": false,
+        "type": "Elevator",
+        "class": "Utility",
+        "mergeLevel": 1,
+        "row": 12,
+        "col": 9,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 4368,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "withHole": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Cafeteria",
+        "class": "Production",
+        "mergeLevel": 3,
+        "row": 12,
+        "col": 0,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 2000,
+          "initialValue": 462.02
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          15,
+          28,
+          25
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {
+          "taskId": 61471,
+          "notificationId": "-1"
+        },
+        "deserializeID": 4373,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "storage": {
+          "resources": {
+            "Nuka": 9.86,
+            "Food": 4.91,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          },
+          "bonus": {
+            "Nuka": 0,
+            "Food": 0,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          }
+        },
+        "numberOfProductionCycle": 125,
+        "ExperienceRewardIsDirty": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Elevator",
+        "class": "Utility",
+        "mergeLevel": 1,
+        "row": 14,
+        "col": 19,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 4374,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "withHole": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Casino",
+        "class": "Training",
+        "mergeLevel": 2,
+        "row": 14,
+        "col": 20,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 1000,
+          "initialValue": 448.49
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          62,
+          59,
+          36,
+          54
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {},
+        "deserializeID": 4377,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "slots": [
+          {
+            "needLvUp": false,
+            "dwellerID": 62,
+            "taskID": 45360
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 59,
+            "taskID": 45361
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 36,
+            "taskID": 46996
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 54,
+            "taskID": 60926
+          }
+        ],
+        "dwellerWithPendingCompleteTraining": []
+      },
+      {
+        "emergencyDone": false,
+        "type": "ScienceLab",
+        "class": "Consumable",
+        "mergeLevel": 2,
+        "row": 7,
+        "col": 20,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 200,
+          "initialValue": 74.02
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 4636,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "storage": {
+          "resources": {
+            "Nuka": 0,
+            "Food": 0,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          },
+          "bonus": {
+            "Nuka": 0,
+            "Food": 0,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          }
+        },
+        "numberOfProductionCycle": 0,
+        "ExperienceRewardIsDirty": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "MedBay",
+        "class": "Consumable",
+        "mergeLevel": 2,
+        "row": 3,
+        "col": 20,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 200,
+          "initialValue": 84.17
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 4639,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "storage": {
+          "resources": {
+            "Nuka": 0,
+            "Food": 0,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          },
+          "bonus": {
+            "Nuka": 0,
+            "Food": 0,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          }
+        },
+        "numberOfProductionCycle": 0,
+        "ExperienceRewardIsDirty": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Elevator",
+        "class": "Utility",
+        "mergeLevel": 1,
+        "row": 15,
+        "col": 19,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 4640,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "withHole": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Bar",
+        "class": "Training",
+        "mergeLevel": 2,
+        "row": 15,
+        "col": 20,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 145.5,
+          "initialValue": 510.62
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          29,
+          39,
+          40,
+          38
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {},
+        "deserializeID": 4643,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "slots": [
+          {
+            "needLvUp": false,
+            "dwellerID": 29,
+            "taskID": 48601
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 39,
+            "taskID": 51771
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 40,
+            "taskID": 55322
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 38,
+            "taskID": 60924
+          }
+        ],
+        "dwellerWithPendingCompleteTraining": []
+      },
+      {
+        "emergencyDone": false,
+        "type": "Elevator",
+        "class": "Utility",
+        "mergeLevel": 1,
+        "row": 16,
+        "col": 19,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 5256,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "withHole": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Dojo",
+        "class": "Training",
+        "mergeLevel": 2,
+        "row": 16,
+        "col": 20,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          43,
+          44,
+          42,
+          41
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {},
+        "deserializeID": 5259,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "slots": [
+          {
+            "needLvUp": false,
+            "dwellerID": 43,
+            "taskID": 55360
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 44,
+            "taskID": 55370
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 42,
+            "taskID": 55374
+          },
+          {
+            "needLvUp": false,
+            "dwellerID": 41,
+            "taskID": 55442
+          }
+        ],
+        "dwellerWithPendingCompleteTraining": []
+      },
+      {
+        "emergencyDone": false,
+        "type": "Elevator",
+        "class": "Utility",
+        "mergeLevel": 1,
+        "row": 17,
+        "col": 19,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 5540,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "withHole": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Classroom",
+        "class": "Training",
+        "mergeLevel": 2,
+        "row": 17,
+        "col": 20,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          31
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {},
+        "deserializeID": 5543,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "slots": [
+          {
+            "needLvUp": false,
+            "dwellerID": 31,
+            "taskID": 57166
+          }
+        ],
+        "dwellerWithPendingCompleteTraining": []
+      },
+      {
+        "emergencyDone": false,
+        "type": "Elevator",
+        "class": "Utility",
+        "mergeLevel": 1,
+        "row": 18,
+        "col": 19,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 1,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Idle",
+        "currentState": {},
+        "deserializeID": 5832,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "withHole": false
+      },
+      {
+        "emergencyDone": false,
+        "type": "Dojo",
+        "class": "Training",
+        "mergeLevel": 2,
+        "row": 18,
+        "col": 20,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 1000,
+          "initialValue": 327.18
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          32
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {},
+        "deserializeID": 5835,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "slots": [
+          {
+            "needLvUp": false,
+            "dwellerID": 32,
+            "taskID": 60935
+          }
+        ],
+        "dwellerWithPendingCompleteTraining": []
+      },
+      {
+        "emergencyDone": true,
+        "type": "Energy2",
+        "class": "Production",
+        "mergeLevel": 3,
+        "row": 7,
+        "col": 0,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 729.23
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [
+          11,
+          22,
+          45,
+          64,
+          23
+        ],
+        "deadDwellers": [],
+        "currentStateName": "Working",
+        "currentState": {
+          "taskId": 61473,
+          "notificationId": "-1"
+        },
+        "deserializeID": 5988,
+        "assignedDecoration": "",
+        "roomVisibility": false,
+        "roomOutline": false,
+        "storage": {
+          "resources": {
+            "Nuka": 5.67,
+            "Food": 0,
+            "Energy": 3.55,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          },
+          "bonus": {
+            "Nuka": 0,
+            "Food": 0,
+            "Energy": 0,
+            "Water": 0,
+            "StimPack": 0,
+            "RadAway": 0,
+            "Lunchbox": 0,
+            "MrHandy": 0,
+            "PetCarrier": 0,
+            "CraftedOutfit": 0,
+            "CraftedWeapon": 0,
+            "NukaColaQuantum": 0,
+            "CraftedTheme": 0
+          }
+        },
+        "numberOfProductionCycle": 3,
+        "ExperienceRewardIsDirty": false
       }
     ],
     "storage": {
       "resources": {
-        "Nuka": 120072.2,
-        "Food": 289.44,
-        "Energy": 1376.63,
-        "Water": 457.96,
-        "StimPack": 61,
-        "RadAway": 65,
+        "Nuka": 56055.9,
+        "Food": 595.98,
+        "Energy": 1681.23,
+        "Water": 595.98,
+        "StimPack": 67,
+        "RadAway": 73,
         "Lunchbox": 0,
         "MrHandy": 0,
         "PetCarrier": 0,
         "CraftedOutfit": 0,
         "CraftedWeapon": 0,
-        "NukaColaQuantum": 57,
+        "NukaColaQuantum": 73,
         "CraftedTheme": 0
       },
       "bonus": {
@@ -8783,13 +11775,132 @@ const exampleSaveJson = {
     "inventory": {
       "items": [
         {
+          "id": "LabCoat_Advanced",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RaiderArmor_Sturdy",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "CombatShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
           "id": "BishopSpecial",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "LabCoat_Advanced",
+          "id": "HandymanJumpsuit_Advanced",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RiotGear_Sturdy",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RadiationSuit_Advanced",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RadiationSuit_Advanced",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RadiationSuit_Advanced",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "WastelandSurgeon_Doctor",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RobCoRdSuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "cattledog_c",
+          "type": "Pet",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false,
+          "extraData": {
+            "uniqueName": "Пастушья собака",
+            "bonus": "WastelandCapsBoost",
+            "bonusValue": 15
+          }
+        },
+        {
+          "id": "ComedianSpecial",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "SleazySuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -8807,38 +11918,8 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "RadiationSuit_Advanced",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "SawedOffShotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "SawedOffShotgun",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "SawedOffShotgun_Enhanced",
-          "type": "Weapon",
-          "hasBeenAssigned": true,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "SawedOffShotgun_Enhanced",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "SawedOffShotgun_Enhanced",
-          "type": "Weapon",
+          "id": "GoldWatch",
+          "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
@@ -8849,14 +11930,8 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "LaserPistol_Rusty",
-          "type": "Weapon",
+          "id": "MilitaryJumpsuit",
+          "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
@@ -8902,12 +11977,6 @@ const exampleSaveJson = {
           }
         },
         {
-          "id": "SleazySuit",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
           "id": "WrestlerSpecial",
           "type": "Outfit",
           "hasBeenAssigned": false,
@@ -8934,42 +12003,6 @@ const exampleSaveJson = {
         {
           "id": "MayorSpecial",
           "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "TeddyBear",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "TeddyBear",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "TeddyBear",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "TeddyBear",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "TeddyBear",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "TeddyBear",
-          "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
@@ -9040,7 +12073,19 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "HazmatSuit",
+          "id": "CombatArmor",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "CombatArmor",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "CombatArmor",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9094,13 +12139,19 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "HazmatSuit",
+          "id": "BattleArmor",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "HazmatSuit",
+          "id": "BattleArmor",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BattleArmor",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9178,7 +12229,19 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "WandererArmor",
+          "id": "HandymanJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "HandymanJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "HandymanJumpsuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9238,13 +12301,7 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "WastelandSurgeon_Settler",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "WastelandSurgeon_Settler",
+          "id": "WandererArmor",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9262,42 +12319,6 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "RiotGear",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "ComedianSpecial",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "AllNightware",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "AllNightware",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "RaiderArmor",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "RaiderArmor",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
           "id": "RaiderArmor",
           "type": "Outfit",
           "hasBeenAssigned": false,
@@ -9310,18 +12331,6 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "ScribeRobe_Initiate",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "ScribeRobe_Initiate",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
           "id": "DeskFan",
           "type": "Junk",
           "hasBeenAssigned": false,
@@ -9413,18 +12422,6 @@ const exampleSaveJson = {
         },
         {
           "id": "DeskFan",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "ToyCar",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "ToyCar",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9688,7 +12685,7 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "LabCoat",
+          "id": "LibrarianSpecial",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9713,6 +12710,30 @@ const exampleSaveJson = {
         },
         {
           "id": "LabCoat",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "LabCoat",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RadiationSuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RadiationSuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "RadiationSuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9784,7 +12805,13 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "ScientistScrubs",
+          "id": "UtilityJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "UtilityJumpsuit",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -9808,12 +12835,6 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "ScientistScrubs",
-          "type": "Outfit",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
           "id": "BaseballGlove",
           "type": "Junk",
           "hasBeenAssigned": false,
@@ -9929,6 +12950,108 @@ const exampleSaveJson = {
         },
         {
           "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "BaseballGlove",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "DuctTape",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "DuctTape",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "DuctTape",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "DuctTape",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "DuctTape",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -10174,25 +13297,85 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "MagnifyingGlass",
+          "id": "Yarn",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "MagnifyingGlass",
+          "id": "Yarn",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "MagnifyingGlass",
+          "id": "Yarn",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "MagnifyingGlass",
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
+          "type": "Junk",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        {
+          "id": "Yarn",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -10462,19 +13645,13 @@ const exampleSaveJson = {
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "Wonderglue",
+          "id": "AlarmClock",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         {
-          "id": "Wonderglue",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "Wonderglue",
+          "id": "AlarmClock",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -10499,30 +13676,6 @@ const exampleSaveJson = {
         },
         {
           "id": "GiddyupButtercup",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "Globe",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "Globe",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "Globe",
-          "type": "Junk",
-          "hasBeenAssigned": false,
-          "hasRandonWeaponBeenAssigned": false
-        },
-        {
-          "id": "Globe",
           "type": "Junk",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
@@ -10555,7 +13708,7 @@ const exampleSaveJson = {
     "dwellerFoodConsumption": {
       "taskIdOnline": 5
     },
-    "lunchboxRandomGenerator": "0001000000FFFFFFFF01000000000000000C0200000046417373656D626C792D4353686172702C2056657273696F6E3D302E302E302E302C2043756C747572653D6E65757472616C2C205075626C69634B6579546F6B656E3D6E756C6C05010000001253657269616C697A61626C6552616E646F6D0300000005696E65787406696E657874700953656564417272617900000708080802000000350000001300000009030000000F03000000380000000800000000F738C87AC38E78459C599779077BDC45FFCD591F439EAB28AE81263A75EF2A2ED12C1E17636E201811D29935034D985CAD6E7259B7663033EE97490181184B2E6A5E035070B47E03E5D3DA4D93EC8E20D95144310577A632F616DE2C83F569349C49BB2DF21309296ACF3561A55BF65417008125A6E5BE32B166C57BEACBAB690E1D9B1885EB785B2515075841AE535E98E3B07A79FADE20B344B4277EE7937B25188C65A7593857316AC83F4C40424E39CADF3EBC18A93A8587BC03A2F8D654E5F3B7313491A302BB610228EA495E174464C6535B4965183D30145A0B",
+    "lunchboxRandomGenerator": "0001000000FFFFFFFF01000000000000000C0200000046417373656D626C792D4353686172702C2056657273696F6E3D302E302E302E302C2043756C747572653D6E65757472616C2C205075626C69634B6579546F6B656E3D6E756C6C05010000001253657269616C697A61626C6552616E646F6D0300000005696E65787406696E657874700953656564417272617900000708080802000000340000001200000009030000000F03000000380000000800000000B3CCE42EC2DC27792F80921127547C64397F24708E999629009A0D648AE129576B2AC23FF42FEE7E8D87F704A751DB3E8005BD284BAFEB0EFF2FB63EBA276E620B94E44F64D685638B169D420A5D9E1F1BF28F1D0A074651FDB3805F6944EB245E36223E865DA87D941FD301F05F6506185FC56F82928E22F17F73240C7DDA32F08A812FC16488087A04BD741AC27845A7B79752AC7A9617BAF95B4FE2E37C477E203E2A66B0D61BCF6DBE31765C474B0002AA23C5D9DB4DD7D8237B9A4654637ADF8B2A9610C31B4C84B2565ACCD027F2DADC4614D7002DB6E4883A0B",
     "LunchBoxesByType": [],
     "LunchBoxesCount": 0,
     "VaultName": "34",
@@ -10569,7 +13722,7 @@ const exampleSaveJson = {
             {
               "requirementID": "rush_success_01",
               "satisfied": false,
-              "rushCount": 20
+              "rushCount": 35
             }
           ],
           "completed": false,
@@ -10629,7 +13782,7 @@ const exampleSaveJson = {
             {
               "requirementID": "make_baby_01",
               "satisfied": false,
-              "currentBabies": 0
+              "currentBabies": 22
             }
           ],
           "completed": false,
@@ -10641,7 +13794,7 @@ const exampleSaveJson = {
             {
               "requirementID": "upgrade_room_01",
               "satisfied": false,
-              "acceptedRoom": 0
+              "acceptedRoom": 10
             }
           ],
           "completed": false,
@@ -10660,12 +13813,24 @@ const exampleSaveJson = {
           "incrementLevel": 0
         },
         {
+          "objectiveID": "levelup_dweller_02",
+          "requirements": [
+            {
+              "requirementID": "levelup_dweller_02",
+              "satisfied": true,
+              "dweller": 9
+            }
+          ],
+          "completed": true,
+          "incrementLevel": 0
+        },
+        {
           "objectiveID": "build_rooms_01",
           "requirements": [
             {
               "requirementID": "build_rooms_01",
               "satisfied": false,
-              "acceptedRoom": 22
+              "acceptedRoom": 15
             }
           ],
           "completed": false,
@@ -10689,7 +13854,7 @@ const exampleSaveJson = {
             {
               "requirementID": "build_rooms_02",
               "satisfied": false,
-              "acceptedRoom": 22
+              "acceptedRoom": 45
             }
           ],
           "completed": false,
@@ -10701,7 +13866,7 @@ const exampleSaveJson = {
             {
               "requirementID": "stop_raider_01",
               "satisfied": false,
-              "currentInvasions": 25
+              "currentInvasions": 27
             }
           ],
           "completed": false,
@@ -10712,8 +13877,8 @@ const exampleSaveJson = {
           "requirements": [
             {
               "requirementID": "build_each_rooms_01_casino",
-              "satisfied": false,
-              "acceptedRoom": 0
+              "satisfied": true,
+              "acceptedRoom": 2
             },
             {
               "requirementID": "build_each_rooms_01_storage",
@@ -10738,17 +13903,17 @@ const exampleSaveJson = {
             {
               "requirementID": "build_each_rooms_01_scienceLab",
               "satisfied": true,
-              "acceptedRoom": 6
+              "acceptedRoom": 8
             },
             {
               "requirementID": "build_each_rooms_01_medBay",
               "satisfied": true,
-              "acceptedRoom": 7
+              "acceptedRoom": 9
             },
             {
               "requirementID": "build_each_rooms_01_classroom",
               "satisfied": true,
-              "acceptedRoom": 2
+              "acceptedRoom": 4
             },
             {
               "requirementID": "build_each_rooms_01_armory",
@@ -10767,8 +13932,8 @@ const exampleSaveJson = {
             },
             {
               "requirementID": "build_each_rooms_01_energy2",
-              "satisfied": false,
-              "acceptedRoom": 0
+              "satisfied": true,
+              "acceptedRoom": 6
             },
             {
               "requirementID": "build_each_rooms_01_gym",
@@ -10777,13 +13942,13 @@ const exampleSaveJson = {
             },
             {
               "requirementID": "build_each_rooms_01_bar",
-              "satisfied": false,
-              "acceptedRoom": 0
+              "satisfied": true,
+              "acceptedRoom": 2
             },
             {
               "requirementID": "build_each_rooms_01_dojo",
               "satisfied": true,
-              "acceptedRoom": 2
+              "acceptedRoom": 6
             },
             {
               "requirementID": "build_each_rooms_01_livingquarters",
@@ -10798,7 +13963,7 @@ const exampleSaveJson = {
             {
               "requirementID": "build_each_rooms_01_cafeteria",
               "satisfied": true,
-              "acceptedRoom": 3
+              "acceptedRoom": 6
             },
             {
               "requirementID": "build_each_rooms_01_waterplant",
@@ -10840,7 +14005,7 @@ const exampleSaveJson = {
             {
               "requirementID": "completed_objectives_01",
               "satisfied": false,
-              "numberOfObjectivesCompleted": 34
+              "numberOfObjectivesCompleted": 39
             }
           ],
           "completed": false,
@@ -10852,7 +14017,7 @@ const exampleSaveJson = {
             {
               "requirementID": "collect_legendary_dwellers_01",
               "satisfied": false,
-              "currentLegendaryDwellers": 0
+              "currentLegendaryDwellers": 1
             }
           ],
           "completed": false,
@@ -10876,7 +14041,7 @@ const exampleSaveJson = {
             {
               "requirementID": "collect_legendary_weapons_01",
               "satisfied": false,
-              "currentLegendaryWeapons": 1
+              "currentLegendaryWeapons": 2
             }
           ],
           "completed": false,
@@ -10961,7 +14126,7 @@ const exampleSaveJson = {
             {
               "requirementID": "craft_10_weapons",
               "satisfied": false,
-              "currentNumberItems": 8
+              "currentNumberItems": 0
             }
           ],
           "completed": false,
@@ -10973,7 +14138,7 @@ const exampleSaveJson = {
             {
               "requirementID": "craft_10_outfits",
               "satisfied": false,
-              "currentNumberItems": 5
+              "currentNumberItems": 8
             }
           ],
           "completed": false,
@@ -10985,12 +14150,12 @@ const exampleSaveJson = {
             {
               "requirementID": "craft_outfit",
               "satisfied": true,
-              "currentNumberItems": 5
+              "currentNumberItems": 8
             },
             {
               "requirementID": "craft_weapon",
               "satisfied": true,
-              "currentNumberItems": 8
+              "currentNumberItems": 11
             },
             {
               "requirementID": "craft_theme",
@@ -11007,7 +14172,7 @@ const exampleSaveJson = {
             {
               "requirementID": "scrap_items_500",
               "satisfied": false,
-              "currentNumberItems": 210
+              "currentNumberItems": 265
             }
           ],
           "completed": false,
@@ -11043,7 +14208,7 @@ const exampleSaveJson = {
             {
               "requirementID": "quest_dialog_choices_01",
               "satisfied": false,
-              "currentNumberQuestDialogChoicesMade": 6
+              "currentNumberQuestDialogChoicesMade": 12
             }
           ],
           "completed": false,
@@ -11067,7 +14232,7 @@ const exampleSaveJson = {
             {
               "requirementID": "kill_on_quests_500",
               "satisfied": false,
-              "currentNumberQuestEnemiesToKill": 69
+              "currentNumberQuestEnemiesToKill": 82
             }
           ],
           "completed": false,
@@ -11079,12 +14244,12 @@ const exampleSaveJson = {
             {
               "requirementID": "stimpack_100",
               "satisfied": false,
-              "currentNumberLoot": 43
+              "currentNumberLoot": 55
             },
             {
               "requirementID": "radaway_100",
               "satisfied": false,
-              "currentNumberLoot": 9
+              "currentNumberLoot": 15
             }
           ],
           "completed": false,
@@ -11096,10 +14261,10 @@ const exampleSaveJson = {
             {
               "requirementID": "boss_kill_10",
               "satisfied": false,
-              "currentNumberQuestEnemiesToKill": 8
+              "currentNumberQuestEnemiesToKill": 10
             }
           ],
-          "completed": false,
+          "completed": true,
           "incrementLevel": 0
         },
         {
@@ -11108,7 +14273,7 @@ const exampleSaveJson = {
             {
               "requirementID": "build_rooms_stat",
               "satisfied": false,
-              "acceptedRoom": 80
+              "acceptedRoom": 103
             }
           ],
           "completed": false,
@@ -11120,7 +14285,7 @@ const exampleSaveJson = {
             {
               "requirementID": "collect_caps_stat",
               "satisfied": false,
-              "nukaCount": 235636,
+              "nukaCount": 308995,
               "isAchievement": true
             }
           ],
@@ -11129,7 +14294,6 @@ const exampleSaveJson = {
         }
       ],
       "completed": [
-        "levelup_dweller_02",
         "levelup_dweller_03",
         "collect_caps_01"
       ]
@@ -11141,169 +14305,1047 @@ const exampleSaveJson = {
       "teams": [
         {
           "dwellers": [
-            36
+            26
           ],
-          "returnTripDuration": 0,
-          "elapsedTimeAliveExploring": 155837,
-          "elapsedReturningTime": 0,
+          "returnTripDuration": 126440.5,
+          "elapsedTimeAliveExploring": 252881,
+          "elapsedReturningTime": 103528,
           "teamIndex": 0,
           "teamType": "Explore",
-          "status": "Exploring",
+          "status": "ReturningToVault",
           "logs": [
-            "1830@l37",
-            "1830@l26",
-            "1830@l2e#s1@l2a#s405",
-            "1830@l6F",
-            "1830@l57",
-            "1830@l6Y",
-            "1831@l2c#r02",
-            "1831@l6M",
-            "1831@l1X#l5f",
-            "1831@l3N",
-            "1831@l5e",
-            "1831@l2e#s8@l2a#s0",
-            "1831@l6k",
-            "1832@l8q",
-            "1832@l9C",
-            "1832@l4l",
-            "1833@l8n",
-            "1833@l60",
-            "1834@l6P",
-            "1834@l1b#l28",
-            "1834@l38",
-            "1834@l2A",
-            "1834@l2e#s1@l2a#s455",
-            "1834@l2Y",
-            "1834@l6B",
-            "1834@l4k",
-            "1835@l6a",
-            "1835@l6f",
-            "1836@l6l",
-            "1836@l8m",
-            "1837@l65",
-            "1837@l6v",
-            "1837@l6W",
-            "1838@l6s",
-            "1838@l71",
-            "1839@l8l",
-            "1839@l1a#l2C",
-            "1839@l39",
-            "1839@l2B",
-            "1839@l2e#s7@l2a#s0",
-            "1839@l4E",
-            "1839@l72",
-            "1840@l4n",
-            "1840@l1c#l5E",
-            "1840@l2r",
-            "1840@l5D",
-            "1840@l2e#s7@l2a#s0",
-            "1840@l6U",
-            "1841@l58",
-            "1841@l8R",
-            "1841@l1Y#l5f",
-            "1841@l3N",
-            "1841@l5e",
-            "1841@l2e#s8@l2a#s0",
-            "1841@l4T",
-            "1842@l5v",
-            "1842@l8e",
-            "1843@l4c",
-            "1843@l1X#l2S",
-            "1843@l2q",
-            "1843@l2U",
-            "1843@l2e#s2@l2a#s815",
-            "1843@l4X",
-            "1844@l7N",
-            "1844@l68",
-            "1844@l1Z#l2G",
-            "1844@l2n",
-            "1844@l2I",
-            "1844@l2e#s1@l2a#s575",
-            "1844@l67",
-            "1845@l63",
-            "1845@l6V",
-            "1845@l2c#r02",
-            "1845@l1b#l5H",
-            "1845@l2s",
-            "1845@l5G",
-            "1845@l2e#s5@l2a#s103",
-            "1845@l2k#iw99",
-            "1845@lm#lBO",
-            "1845@lBP",
-            "1845@lBN",
-            "1845@l2e#s8@l2a#s12",
-            "1848@l2k#io13",
-            "1850@l1Z#l2G",
-            "1850@l2n",
-            "1850@l2I",
-            "1850@l2e#s1@l2a#s575",
-            "1851@l1X#l5K",
-            "1851@l2t",
-            "1851@l5J",
-            "1851@l2e#s6@l2a#s116",
-            "1853@l1b#l5E",
-            "1853@l2r",
-            "1853@l5D",
-            "1853@l2e#s7@l2a#s0",
-            "1855@l1Y#l24",
-            "1855@l37",
-            "1855@l26",
-            "1855@l2e#s1@l2a#s405",
-            "1857@l2c#r06",
-            "1857@l1Z#l2S",
-            "1857@l2q",
-            "1857@l2R",
-            "1857@l2e#s6@l2a#s82",
-            "1859@l1b#l24",
-            "1859@l37",
-            "1859@l26",
-            "1859@l2e#s1@l2a#s405",
-            "1901@l1Z#l2K",
-            "1901@l3B",
-            "1901@l2J",
-            "1901@l2e#s4@l2a#s0",
-            "1902@l1X#l5K",
-            "1902@l3G",
-            "1902@l5J",
-            "1902@l2e#s6@l2a#s0",
-            "1904@l1c#l2G",
-            "1904@l2n",
-            "1904@l2I",
-            "1904@l2e#s1@l2a#s575",
-            "1905@l1Y#l5K",
-            "1905@l2t",
-            "1905@l5J",
-            "1905@l2e#s6@l2a#s116",
-            "1908@l1a#l2S",
-            "1908@l2q",
-            "1908@l2U",
-            "1908@l2e#s2@l2a#s815",
-            "1909@l1a#l5Q",
-            "1909@l3I",
-            "1909@l5P",
-            "1909@l2e#s6@l2a#s0",
-            "1910@l1b#l2S",
-            "1910@l2q",
-            "1910@l2R",
-            "1910@l2e#s6@l2a#s82",
-            "1911@l1Z#l5H",
-            "1911@l2s",
-            "1911@l5G",
-            "1911@l2e#s5@l2a#s103",
-            "1912@l0#s0",
-            "1912@l2c#r04",
-            "1912@l1Z#l2S",
-            "1912@l2q",
-            "1912@l2R",
-            "1912@l2e#s6@l2a#s82",
-            "1914@l1a#l5o",
-            "1914@l35",
-            "1914@l5p",
-            "1914@l2e#s2@l2a#s3685"
+            "2118@l5I",
+            "2118@l2e#s1@l2a#s1030",
+            "2121@l1a#l2C",
+            "2121@l39",
+            "2121@l2E",
+            "2121@l2e#s1@l2a#s815",
+            "2122@l1Y#l2K",
+            "2122@l3B",
+            "2122@l2M",
+            "2122@l2e#s1@l2a#s645",
+            "2123@l1Z#l5Q",
+            "2123@l3I",
+            "2123@l5R",
+            "2123@l2e#s2@l2a#s2920",
+            "2124@l1c#l2S",
+            "2124@l3D",
+            "2124@l2U",
+            "2124@l2e#s1@l2a#s815",
+            "2127@l1a#l5K",
+            "2127@l2t",
+            "2127@l5L",
+            "2127@l2e#s2@l2a#s1635",
+            "2128@l1c#l2O",
+            "2128@l2p",
+            "2128@l2Q",
+            "2128@l2e#s1@l2a#s405",
+            "2129@l2c#r03",
+            "2129@l1X#l5r",
+            "2129@l36",
+            "2129@l5s",
+            "2129@l2e#s2@l2a#s4000",
+            "2132@l1b#l5N",
+            "2132@l2u",
+            "2132@l5M",
+            "2132@l2e#s8@l2a#s130",
+            "2133@l1a#l2S",
+            "2133@l2q",
+            "2133@l2U",
+            "2133@l2e#s2@l2a#s815",
+            "2136@l1Z#l2O",
+            "2136@l2p",
+            "2136@l2Q",
+            "2136@l2e#s1@l2a#s405",
+            "2137@l1Y#l5Q",
+            "2137@l3I",
+            "2137@l5R",
+            "2137@l2e#s2@l2a#s2920",
+            "2137@l2Y",
+            "2138@l1Z#l2O",
+            "2138@l3C",
+            "2138@l2N",
+            "2138@l2e#s6@l2a#s0",
+            "2141@l1Z#l5o",
+            "2141@l3Q",
+            "2141@l5n",
+            "2141@l2e#s9@l2a#s0",
+            "2142@l1b#l5N",
+            "2142@l3H",
+            "2142@l5O",
+            "2142@l2e#s2@l2a#s1295",
+            "2144@l0#s8",
+            "2144@l2c#r09",
+            "2144@l1Y#l5o",
+            "2144@l3Q",
+            "2144@l5n",
+            "2144@l2e#s9@l2a#s0",
+            "2145@l1b#l5H",
+            "2145@l2s",
+            "2145@l5I",
+            "2145@l2e#s1@l2a#s1030",
+            "2147@l1a#l5E",
+            "2147@l2r",
+            "2147@l5F",
+            "2147@l2e#s1@l2a#s510",
+            "2148@l1Z#l2G",
+            "2148@l3A",
+            "2148@l2I",
+            "2148@l2e#s2@l2a#s1835",
+            "2149@l2k#iro105",
+            "2149@l1a#l5Q",
+            "2149@l2v",
+            "2149@l5R",
+            "2149@l2e#s2@l2a#s1455",
+            "2150@l1X#l2S",
+            "2150@l2q",
+            "2150@l2U",
+            "2150@l2e#s2@l2a#s815",
+            "2152@l1a#l5Q",
+            "2152@l2v",
+            "2152@l5R",
+            "2152@l2e#s2@l2a#s1455",
+            "2155@l1c#l5K",
+            "2155@l3G",
+            "2155@l5L",
+            "2155@l2e#s2@l2a#s1155",
+            "2156@l1Y#l5N",
+            "2156@l3H",
+            "2156@l5O",
+            "2156@l2e#s2@l2a#s1295",
+            "2158@l1Y#l5r",
+            "2158@l36",
+            "2158@l5s",
+            "2158@l2e#s2@l2a#s4000",
+            "2159@l2c#r09",
+            "2159@l1b#l5E",
+            "2159@l3E",
+            "2159@l5D",
+            "2159@l2e#s7@l2a#s0",
+            "2202@l1X#l5o",
+            "2202@l35",
+            "2202@l5p",
+            "2202@l2e#s2@l2a#s3685",
+            "2205@l1Z#l5l",
+            "2205@l3P",
+            "2205@l5m",
+            "2205@l2e#s2@l2a#s3280",
+            "2206@l1X#l5N",
+            "2206@l3H",
+            "2206@l5O",
+            "2206@l2e#s2@l2a#s1295",
+            "2207@l1Y#l5i",
+            "2207@l3O",
+            "2207@l5h",
+            "2207@l2e#s8@l2a#s0",
+            "2209@l1Z#l5f",
+            "2209@l3N",
+            "2209@l5e",
+            "2209@l2e#s8@l2a#s0",
+            "2210@l1X#l5T",
+            "2210@l3J",
+            "2210@l5U",
+            "2210@l2e#s2@l2a#s3280",
+            "2211@l1c#l28",
+            "2211@l38",
+            "2211@l2A",
+            "2211@l2e#s1@l2a#s455",
+            "2212@l1Z#l5N",
+            "2212@l3H",
+            "2212@l5O",
+            "2212@l2e#s2@l2a#s1295",
+            "2213@l1b#l2C",
+            "2213@l39",
+            "2213@l2E",
+            "2213@l2e#s1@l2a#s815",
+            "2214@l2c#r03",
+            "2214@lm#lBG",
+            "2214@lBH",
+            "2214@lBI",
+            "2214@l2a#s190@l2b#ijWonderglue",
+            "2214@fWasteland_Inventory_Full"
           ],
           "missedEncounters": 0,
           "introMessages": 1,
-          "notificationID": 704913,
+          "notificationID": 507823,
+          "notificationQuestArrivalID": -1,
+          "isForceReturningToVault": true,
+          "isSkippingTime": false,
+          "isDoingQuest": false,
+          "questSucceeded": true,
+          "questDone": true,
+          "teamEquipment": {
+            "storage": {
+              "resources": {
+                "Nuka": 7030,
+                "Food": 0,
+                "Energy": 0,
+                "Water": 0,
+                "StimPack": 2,
+                "RadAway": 24,
+                "Lunchbox": 0,
+                "MrHandy": 0,
+                "PetCarrier": 0,
+                "CraftedOutfit": 0,
+                "CraftedWeapon": 0,
+                "NukaColaQuantum": 2,
+                "CraftedTheme": 0
+              },
+              "bonus": {
+                "Nuka": 0,
+                "Food": 0,
+                "Energy": 0,
+                "Water": 0,
+                "StimPack": 0,
+                "RadAway": 0,
+                "Lunchbox": 0,
+                "MrHandy": 0,
+                "PetCarrier": 0,
+                "CraftedOutfit": 0,
+                "CraftedWeapon": 0,
+                "NukaColaQuantum": 0,
+                "CraftedTheme": 0
+              }
+            },
+            "inventory": {
+              "items": [
+                {
+                  "id": "Wonderglue",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "UtilityJumpsuit_Sturdy",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "Magnum",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "GiddyupButtercup",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "PrewarCowboy",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "Rifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle_Hardened",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LabCoat",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LaserPistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Shovel",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "FormalWear",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RaiderArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RiotGear",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "CombatArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Yarn",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RadiationSuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "DeskFan",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WastelandSurgeon_Settler",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "CombatArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "DeskFan",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "MilitaryJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Magnum_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "MagnifyingGlass",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SlasherSpecial",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Camera",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Magnum_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "ScientistScrubs",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BattleArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "GoldWatch",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "MaresLeg",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "SurgeonSpecial",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "UtilityJumpsuit_Sturdy",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HazmatSuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HandymanJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HandymanJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RiotGear",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RaiderArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BattleArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BattleArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "UtilityJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RadiationSuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RadiationSuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RadiationSuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "FormalWear",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "FormalWear",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "FormalWear",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LabCoat",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LabCoat",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LabCoat",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "CombatArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "ScientistScrubs",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "ScientistScrubs",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Flamer_Hardened",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LaserPistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SawedOffShotgun_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Magnum_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Magnum_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Magnum_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SawedOffShotgun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Wonderglue",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "MilitaryDuctTape",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Microscope",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BrahminHide",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BrahminHide",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Wonderglue",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Microscope",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Camera",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Shovel",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "MagnifyingGlass",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Globe",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BrahminHide",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "DeskFan",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "AlarmClock",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BaseballGlove",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BaseballGlove",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "GoldWatch",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                }
+              ]
+            },
+            "dwellers": [],
+            "mrHandyList": [],
+            "questClues": [],
+            "collectedThemes": {
+              "themeList": []
+            }
+          },
+          "questteamQuestSeed": -1,
+          "retryCount": 0,
+          "questOverallPerformance": {
+            "numberCombatsWon": 2,
+            "numberCriticalHitsPerformed": 1,
+            "numberPerfectCriticalHitsPerformed": 0,
+            "numberContainersCollected": 7,
+            "numberCapsCollected": 3648,
+            "numberLevelsGained": 0,
+            "numberLevelsGainedWithBonus": 0
+          },
+          "questName": "RedRocket_09_Diff_37",
+          "questteamRandomIdentifier": 8203365,
+          "actors": [],
+          "initialItems": [
+            {
+              "initWeapon": "Flamer_Hardened",
+              "initOutfit": "RottedDuster",
+              "initPet": "pitbullterrier_l2"
+            }
+          ],
+          "postQuestStimpakDifference": 0,
+          "postQuestRadawayDifference": 0,
+          "initialRadDamage": [
+            75.05
+          ]
+        },
+        {
+          "dwellers": [
+            37
+          ],
+          "returnTripDuration": 78551.5,
+          "elapsedTimeAliveExploring": 157103,
+          "elapsedReturningTime": 46461,
+          "teamIndex": 1,
+          "teamType": "Explore",
+          "status": "ReturningToVault",
+          "logs": [
+            "1908@l4c",
+            "1908@l8S",
+            "1909@l4Q",
+            "1909@l6l",
+            "1910@l62",
+            "1910@l1Z#l5E",
+            "1910@l2r",
+            "1910@l5D",
+            "1910@l2e#s7@l2a#s0",
+            "1910@l90",
+            "1910@l9X",
+            "1911@l4h",
+            "1911@l7D",
+            "1911@l1c#l5N",
+            "1911@l2u",
+            "1911@l5M",
+            "1911@l2e#s8@l2a#s130",
+            "1911@l9D",
+            "1912@l69",
+            "1912@l4L",
+            "1912@l7I",
+            "1913@l8W",
+            "1913@l1Y#l5o",
+            "1913@l35",
+            "1913@l5p",
+            "1913@l2e#s2@l2a#s3685",
+            "1913@l8s",
+            "1913@l9K",
+            "1913@l5A",
+            "1914@l6A",
+            "1914@l8T",
+            "1914@l7K",
+            "1915@l9L",
+            "1915@l6O",
+            "1915@l7E",
+            "1915@l1b#l2O",
+            "1915@l3C",
+            "1915@l2N",
+            "1915@l2e#s6@l2a#s0",
+            "1915@l2Y",
+            "1915@l7P",
+            "1916@l5x",
+            "1916@l6V",
+            "1916@l6X",
+            "1917@l9U",
+            "1917@l1a#l5Q",
+            "1919@l1Z#l5E",
+            "1919@l2r",
+            "1919@l5D",
+            "1919@l2e#s7@l2a#s0",
+            "1919@l8e",
+            "1919@l6h",
+            "1920@l8k",
+            "1920@l5u",
+            "1920@l4X",
+            "1921@l6Y",
+            "1921@l6I",
+            "1921@l4m",
+            "1922@l4P",
+            "1922@l1c#l2O",
+            "1922@l2p",
+            "1922@l2N",
+            "1922@l2e#s5@l2a#s73",
+            "1922@l60",
+            "1922@l4o",
+            "1923@l2c#r02",
+            "1923@l6N",
+            "1923@l1b#l5K",
+            "1923@l2t",
+            "1923@l5J",
+            "1923@l2e#s6@l2a#s116",
+            "1923@l8a",
+            "1923@l8i",
+            "1924@l54",
+            "1924@l4I",
+            "1924@l6r",
+            "1925@l4G",
+            "1925@l6T",
+            "1925@l4g",
+            "1925@l4a",
+            "1926@l8l",
+            "1926@l98",
+            "1926@l92",
+            "1927@l4i",
+            "1927@l4b",
+            "1927@l9W",
+            "1927@l6i",
+            "1928@l8c",
+            "1928@l51",
+            "1928@l9S",
+            "1929@l76",
+            "1929@l58",
+            "1929@l4T",
+            "1930@l1X#l2K",
+            "1930@l2o",
+            "1930@l2M",
+            "1930@l2e#s1@l2a#s510",
+            "1930@l4v",
+            "1930@l9T",
+            "1930@l4J",
+            "1931@l4H",
+            "1931@l1Y#l2O",
+            "1931@l3C",
+            "1931@l2N",
+            "1931@l2e#s6@l2a#s0",
+            "1931@l7H",
+            "1931@l8g",
+            "1931@l4x",
+            "1932@l6a",
+            "1932@l9Q",
+            "1932@l1Z#l5H",
+            "1932@l2s",
+            "1932@l5G",
+            "1932@l2e#s5@l2a#s103",
+            "1932@l7C",
+            "1933@l9Y",
+            "1933@l4q",
+            "1933@l6u",
+            "1934@l1a#l5K",
+            "1934@l2t",
+            "1934@l5J",
+            "1934@l2e#s6@l2a#s116",
+            "1934@l7N",
+            "1934@l95",
+            "1934@l9A",
+            "1935@l9M",
+            "1935@l1Y#l2O",
+            "1935@l2p",
+            "1935@l2N",
+            "1935@l2e#s5@l2a#s73",
+            "1935@l4u",
+            "1935@l78",
+            "1936@l50",
+            "1936@l6m",
+            "1936@l99",
+            "1937@l8d",
+            "1937@l4s",
+            "1937@l4V",
+            "1937@l72",
+            "1937@l0#s0",
+            "1937@l2c#r06",
+            "1937@l2k#io84",
+            "1937@li#lBC",
+            "1937@lBD",
+            "1937@lBB",
+            "1937@l2e#s5@l2a#s9",
+            "1937@l3I",
+            "1938@l5P",
+            "1938@l2e#s6@l2a#s0",
+            "1938@l8f"
+          ],
+          "missedEncounters": 0,
+          "introMessages": 1,
+          "notificationID": -1,
           "notificationQuestArrivalID": -1,
           "isForceReturningToVault": false,
           "isSkippingTime": false,
@@ -11313,11 +15355,577 @@ const exampleSaveJson = {
           "teamEquipment": {
             "storage": {
               "resources": {
-                "Nuka": 2986,
+                "Nuka": 2701,
                 "Food": 0,
                 "Energy": 0,
                 "Water": 0,
-                "StimPack": 10,
+                "StimPack": 5,
+                "RadAway": 25,
+                "Lunchbox": 0,
+                "MrHandy": 0,
+                "PetCarrier": 1,
+                "CraftedOutfit": 0,
+                "CraftedWeapon": 0,
+                "NukaColaQuantum": 0,
+                "CraftedTheme": 0
+              },
+              "bonus": {
+                "Nuka": 0,
+                "Food": 0,
+                "Energy": 0,
+                "Water": 0,
+                "StimPack": 0,
+                "RadAway": 0,
+                "Lunchbox": 0,
+                "MrHandy": 0,
+                "PetCarrier": 0,
+                "CraftedOutfit": 0,
+                "CraftedWeapon": 0,
+                "NukaColaQuantum": 0,
+                "CraftedTheme": 0
+              }
+            },
+            "inventory": {
+              "items": [
+                {
+                  "id": "RiotGear",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "AllNightware",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "MilitaryJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "ScientistScrubs",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol_Hardened",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "MayorSpecial",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SleazySuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "Pistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "UtilityJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HandymanJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "UtilityJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BrahminHide",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SniperRifle_Hardened",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "PowerArmor_T60d",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "SoldierSpecial",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LabCoat",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "AllNightware",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RaiderArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HandymanJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HandymanJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "MilitaryJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "UtilityJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "CombatArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "CombatArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "ScientistScrubs",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "ScientistScrubs",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HazmatSuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LaserRifle_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Magnum",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SawedOffShotgun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SawedOffShotgun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SawedOffShotgun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "LaserPistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                }
+              ]
+            },
+            "dwellers": [],
+            "mrHandyList": [],
+            "questClues": [],
+            "collectedThemes": {
+              "themeList": []
+            }
+          },
+          "questteamQuestSeed": -1,
+          "retryCount": 0,
+          "questOverallPerformance": {
+            "numberCombatsWon": 2,
+            "numberCriticalHitsPerformed": 1,
+            "numberPerfectCriticalHitsPerformed": 1,
+            "numberContainersCollected": 4,
+            "numberCapsCollected": 212,
+            "numberLevelsGained": 0,
+            "numberLevelsGainedWithBonus": 1
+          },
+          "questName": "AbandonedCabin_03_Diff_30",
+          "questteamRandomIdentifier": 8097830,
+          "actors": [],
+          "initialItems": [
+            {
+              "initWeapon": "LaserRifle",
+              "initOutfit": "RadiationSuit_Advanced",
+              "initPet": ""
+            }
+          ],
+          "postQuestStimpakDifference": 0,
+          "postQuestRadawayDifference": 0,
+          "initialRadDamage": [
+            0
+          ]
+        },
+        {
+          "dwellers": [
+            24
+          ],
+          "returnTripDuration": 0,
+          "elapsedTimeAliveExploring": 133036,
+          "elapsedReturningTime": 0,
+          "teamIndex": 2,
+          "teamType": "Explore",
+          "status": "Exploring",
+          "logs": [
+            "1221@l5J",
+            "1221@l2e#s6@l2a#s116",
+            "1221@l8s",
+            "1221@l7M",
+            "1222@l8d",
+            "1222@l5C",
+            "1222@l1b#l5f",
+            "1222@l3N",
+            "1222@l5e",
+            "1222@l2e#s8@l2a#s0",
+            "1223@l6E",
+            "1223@l9R",
+            "1223@l8R",
+            "1224@l4P",
+            "1224@l6a",
+            "1224@l8X",
+            "1224@l2c#r02",
+            "1224@l59",
+            "1225@l63",
+            "1225@l1c#l2S",
+            "1225@l2q",
+            "1225@l2U",
+            "1225@l2e#s2@l2a#s815",
+            "1225@l5w",
+            "1225@l5t",
+            "1226@l6c",
+            "1226@l6n",
+            "1226@l66",
+            "1226@l1X#l2K",
+            "1226@l2o",
+            "1226@l2M",
+            "1226@l2e#s1@l2a#s510",
+            "1226@l2Y",
+            "1226@l4w",
+            "1227@l4K",
+            "1227@l8v",
+            "1227@l4Y",
+            "1228@l4E",
+            "1228@l7F",
+            "1229@l4m",
+            "1229@l1Y#l24",
+            "1229@l37",
+            "1229@l26",
+            "1229@l2e#s1@l2a#s405",
+            "1229@l4q",
+            "1230@l4i",
+            "1230@l61",
+            "1230@l5B",
+            "1230@l1Z#l5K",
+            "1230@l2t",
+            "1230@l5J",
+            "1230@l2e#s6@l2a#s116",
+            "1230@l4r",
+            "1231@l4U",
+            "1231@l9B",
+            "1231@l4c",
+            "1232@l6A",
+            "1232@l8m",
+            "1232@l9Q",
+            "1233@l1c#l5N",
+            "1233@l3H",
+            "1233@l5M",
+            "1233@l2e#s8@l2a#s0",
+            "1233@l8l",
+            "1233@l8f",
+            "1233@l73",
+            "1234@l4l",
+            "1234@l1Z#l2C",
+            "1234@l2m",
+            "1234@l2E",
+            "1234@l2e#s1@l2a#s510",
+            "1234@l6W",
+            "1234@l6h",
+            "1235@l97",
+            "1235@l65",
+            "1235@l9V",
+            "1236@l4h",
+            "1236@l8b",
+            "1236@l72",
+            "1236@l6C",
+            "1237@l6D",
+            "1237@l4Z",
+            "1237@l6x",
+            "1238@l9X",
+            "1238@l9W",
+            "1238@l1X#l2K",
+            "1238@l3B",
+            "1238@l2J",
+            "1238@l2e#s4@l2a#s0",
+            "1238@l7P",
+            "1238@l4t",
+            "1239@l9I",
+            "1239@l6u",
+            "1239@l2c#r06",
+            "1239@l2k#iw96",
+            "1239@lh#lAu",
+            "1239@lAv",
+            "1239@lAw",
+            "1239@l2a#s90@l2b#ijGlobe",
+            "1240@l1b#l5K",
+            "1240@l3G",
+            "1240@l5J",
+            "1240@l2e#s6@l2a#s0",
+            "1241@l0#s0",
+            "1241@l2c#r06",
+            "1241@l1Y#l2O",
+            "1241@l2p",
+            "1241@l2Q",
+            "1241@l2e#s1@l2a#s405",
+            "1242@l1a#l5E",
+            "1242@l2r",
+            "1242@l5F",
+            "1242@l2e#s1@l2a#s510",
+            "1244@l1X#l5c",
+            "1244@l3M",
+            "1244@l5b",
+            "1244@l2e#s8@l2a#s0",
+            "1247@l1b#l2G",
+            "1247@l2n",
+            "1247@l2I",
+            "1247@l2e#s1@l2a#s575",
+            "1250@l1a#l5o",
+            "1250@l35",
+            "1250@l5p",
+            "1250@l2e#s2@l2a#s3685",
+            "1250@lk#lBC",
+            "1250@lBD",
+            "1250@lBE",
+            "1251@l2a#s170@l2b#ijMagnifyingGlass",
+            "1251@l1Z#l5r",
+            "1251@l36",
+            "1251@l5s",
+            "1251@l2e#s2@l2a#s4000",
+            "1252@l1Y#l28",
+            "1252@l38",
+            "1252@l2A",
+            "1252@l2e#s1@l2a#s455",
+            "1253@l1c#l2G",
+            "1253@l3A",
+            "1253@l2I",
+            "1253@l2e#s2@l2a#s1835",
+            "1254@l1Y#l5K",
+            "1254@l2t",
+            "1254@l5J",
+            "1254@l2e#s6@l2a#s116",
+            "1255@l1a#l5H",
+            "1255@l2s",
+            "1255@l5I",
+            "1255@l2e#s1@l2a#s1030",
+            "1256@l2c#r06"
+          ],
+          "missedEncounters": 0,
+          "introMessages": 1,
+          "notificationID": -1,
+          "notificationQuestArrivalID": -1,
+          "isForceReturningToVault": false,
+          "isSkippingTime": false,
+          "isDoingQuest": false,
+          "questSucceeded": true,
+          "questDone": true,
+          "teamEquipment": {
+            "storage": {
+              "resources": {
+                "Nuka": 3996,
+                "Food": 0,
+                "Energy": 0,
+                "Water": 0,
+                "StimPack": 22,
                 "RadAway": 25,
                 "Lunchbox": 0,
                 "MrHandy": 0,
@@ -11346,91 +15954,25 @@ const exampleSaveJson = {
             "inventory": {
               "items": [
                 {
+                  "id": "MagnifyingGlass",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Globe",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Pistol_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
                   "id": "CombatArmor",
-                  "type": "Outfit",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Pistol_Rusty",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "HazmatSuit",
-                  "type": "Outfit",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "SawedOffShotgun_Enhanced",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "BBGun",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "RiotGear",
-                  "type": "Outfit",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "032Pistol",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Pistol",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "ScientistScrubs",
-                  "type": "Outfit",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Magnum_Enhanced",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Rifle_Enhanced",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Pistol",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Globe",
-                  "type": "Junk",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Globe",
-                  "type": "Junk",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "ComedianSpecial",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
@@ -11442,37 +15984,58 @@ const exampleSaveJson = {
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "UtilityJumpsuit",
+                  "id": "AlienDisintegrator_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "isRecipe": true
+                  }
+                },
+                {
+                  "id": "RiotGear_Sturdy",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "UtilityJumpsuit",
+                  "id": "WeddingDress",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "BattleArmor",
+                  "id": "WastelandSurgeon_Settler",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "AllNightware",
+                  "id": "WastelandSurgeon_Settler",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "RadiationSuit",
+                  "id": "CombatArmor",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "HandymanJumpsuit",
+                  "id": "ScribeRobe_Initiate",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "RaiderArmor",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "WandererArmor",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
@@ -11484,103 +16047,121 @@ const exampleSaveJson = {
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "CombatArmor",
+                  "id": "LabCoat",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "CombatArmor",
+                  "id": "BattleArmor",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "CombatArmor",
+                  "id": "RiotGear",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "ScientistScrubs",
+                  "id": "RiotGear",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "HazmatSuit",
+                  "id": "RiotGear",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "MilitaryJumpsuit",
+                  "id": "LabCoat_Advanced",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "MilitaryJumpsuit",
+                  "id": "HandymanJumpsuit_Advanced",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "MilitaryJumpsuit",
+                  "id": "AllNightware",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "ScribeRobe_Initiate",
+                  "id": "AllNightware",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "ScribeRobe_Initiate",
+                  "id": "FormalWear",
                   "type": "Outfit",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "NCR_Ranger",
+                  "id": "FormalWear",
                   "type": "Outfit",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false,
-                  "extraData": {
-                    "isRecipe": true
-                  }
-                },
-                {
-                  "id": "Rifle_ArmorPiercing",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false,
-                  "extraData": {
-                    "isRecipe": true
-                  }
-                },
-                {
-                  "id": "032Pistol_Rusty",
-                  "type": "Weapon",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "SawedOffShotgun_Enhanced",
+                  "id": "HandymanJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HandymanJumpsuit",
+                  "type": "Outfit",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Magnum",
                   "type": "Weapon",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "SawedOffShotgun_Enhanced",
+                  "id": "Magnum_Rusty",
                   "type": "Weapon",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "032Pistol_Enhanced",
+                  "id": "BBGun_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "HuntingRifle_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Rifle_Rusty",
                   "type": "Weapon",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
@@ -11592,31 +16173,43 @@ const exampleSaveJson = {
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "Pistol_Rusty",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Pistol",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Magnum",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
                   "id": "Rifle_Enhanced",
                   "type": "Weapon",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "HuntingRifle_Rusty",
+                  "id": "Pistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "BBGun_Enhanced",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "032Pistol_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SawedOffShotgun_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "SawedOffShotgun_Rusty",
+                  "type": "Weapon",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Ripper_Hardened",
                   "type": "Weapon",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
@@ -11634,32 +16227,38 @@ const exampleSaveJson = {
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "SawedOffShotgun_DoubleBarrelled",
+                  "id": "Magnum_Enhanced",
                   "type": "Weapon",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "BBGun_Rusty",
-                  "type": "Weapon",
+                  "id": "Wonderglue",
+                  "type": "Junk",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "BBGun_Rusty",
-                  "type": "Weapon",
+                  "id": "BrahminHide",
+                  "type": "Junk",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "HuntingRifle",
-                  "type": "Weapon",
+                  "id": "Yarn",
+                  "type": "Junk",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 },
                 {
-                  "id": "HuntingRifle",
-                  "type": "Weapon",
+                  "id": "DeskFan",
+                  "type": "Junk",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false
+                },
+                {
+                  "id": "Yarn",
+                  "type": "Junk",
                   "hasBeenAssigned": false,
                   "hasRandonWeaponBeenAssigned": false
                 }
@@ -11669,28 +16268,43 @@ const exampleSaveJson = {
             "mrHandyList": [],
             "questClues": [],
             "collectedThemes": {
-              "themeList": []
+              "themeList": [
+                {
+                  "id": "CafeteriaMinutemen",
+                  "type": "Theme",
+                  "hasBeenAssigned": false,
+                  "hasRandonWeaponBeenAssigned": false,
+                  "extraData": {
+                    "partsCollectedCount": 1,
+                    "IsCraftingInProgress": false,
+                    "IsCrafted": false,
+                    "IsClaimed": false,
+                    "IsClaimedInCraftingRoom": false,
+                    "IsNew": false
+                  }
+                }
+              ]
             }
           },
           "questteamQuestSeed": -1,
           "retryCount": 0,
           "questOverallPerformance": {
-            "numberCombatsWon": 3,
-            "numberCriticalHitsPerformed": 2,
-            "numberPerfectCriticalHitsPerformed": 2,
-            "numberContainersCollected": 5,
-            "numberCapsCollected": 1038,
+            "numberCombatsWon": 1,
+            "numberCriticalHitsPerformed": 0,
+            "numberPerfectCriticalHitsPerformed": 0,
+            "numberContainersCollected": 6,
+            "numberCapsCollected": 1825,
             "numberLevelsGained": 0,
-            "numberLevelsGainedWithBonus": 0
+            "numberLevelsGainedWithBonus": 1
           },
-          "questName": "SuperMart_01_Diff_25",
-          "questteamRandomIdentifier": 2421284,
+          "questName": "SuperMart_09_Diff_27",
+          "questteamRandomIdentifier": 3558817,
           "actors": [],
           "initialItems": [
             {
-              "initWeapon": "Flamer_Enhanced",
+              "initWeapon": "PowerFistEd",
               "initOutfit": "WandererArmor_Sturdy",
-              "initPet": "cattledog_c"
+              "initPet": "militarymacaw_r"
             }
           ],
           "postQuestStimpakDifference": 0,
@@ -11702,54 +16316,110 @@ const exampleSaveJson = {
         {
           "dwellers": [],
           "returnTripDuration": 0,
-          "elapsedTimeAliveExploring": 33028,
+          "elapsedTimeAliveExploring": 80376,
           "elapsedReturningTime": 0,
-          "teamIndex": 1,
+          "teamIndex": 3,
           "teamType": "Explore",
           "status": "Exploring",
           "logs": [
             "0000@l2W",
-            "0005@l2c#r02",
-            "0027@l9m",
-            "0027@l2c#r02",
-            "0049@l2c#r01",
-            "0110@lA2",
-            "0110@l2c#r01",
-            "0132@l2c#r02",
-            "0153@l2c#r02",
-            "0215@l9w",
-            "0215@l2c#r03",
-            "0236@l2c#r02",
-            "0258@l8D",
-            "0258@l2c#r01",
-            "0319@l2c#r01",
-            "0341@l7W",
-            "0341@l2c#r02",
-            "0402@l2c#r04",
-            "0424@lA9",
-            "0424@l2c#r04",
-            "0445@l2c#r02",
-            "0507@l2c#r05",
-            "0529@l2c#r01",
-            "0550@lAC",
-            "0550@l2c#r05",
-            "0612@l2c#r03",
-            "0633@l83",
-            "0633@l2c#r01",
-            "0655@lAG",
-            "0655@l2c#r01",
-            "0716@l2c#r01",
-            "0738@l2c#r01",
-            "0759@l2c#r03",
-            "0821@l2c#r06",
-            "0842@l86",
-            "0842@l2c#r03",
-            "0904@l2c#r060",
-            "0904@lA9"
+            "0018@l2c#r01",
+            "0040@l7S",
+            "0040@l2c#r01",
+            "0101@l2c#r01",
+            "0123@lA9",
+            "0123@l2c#r01",
+            "0144@l2c#r02",
+            "0206@l7r",
+            "0206@l2c#r03",
+            "0227@l2c#r02",
+            "0249@l7x",
+            "0249@l2c#r02",
+            "0311@l2c#r04",
+            "0332@l7u",
+            "0332@l2c#r01",
+            "0354@l2c#r02",
+            "0415@l9c",
+            "0415@l2c#r02",
+            "0437@l2c#r01",
+            "0458@lAA",
+            "0458@l2c#r05",
+            "0520@l2c#r01",
+            "0541@l7p",
+            "0541@l2c#r03",
+            "0603@l2c#r05",
+            "0624@l8F",
+            "0624@l2c#r01",
+            "0646@l2c#r05",
+            "0708@l2c#r01",
+            "0729@l7v",
+            "0729@l2c#r01",
+            "0751@l2c#r01",
+            "0812@l9p",
+            "0812@l2c#r06",
+            "0834@l2c#r06",
+            "0855@l9x",
+            "0855@l2c#r03",
+            "0917@l2c#r060",
+            "0938@l2c#r06",
+            "1000@l7n",
+            "1000@l2c#r03",
+            "1021@l2c#r01",
+            "1043@l9t",
+            "1043@l2c#r07",
+            "1104@l2c#r062",
+            "1126@l9s",
+            "1126@l2c#r07",
+            "1148@l2c#r04",
+            "1209@l7a",
+            "1209@l2c#r01",
+            "1231@l2c#r02",
+            "1252@l8F",
+            "1252@l2c#r02",
+            "1314@l2c#r04",
+            "1335@l7W",
+            "1335@l2c#r02",
+            "1357@l2c#r02",
+            "1418@l7d",
+            "1418@l2c#r02",
+            "1440@l2c#r08",
+            "1501@l8I",
+            "1501@l2c#r08",
+            "1523@l2c#r09",
+            "1544@l9g",
+            "1544@l2c#r067",
+            "1606@l2c#r04",
+            "1628@lA5",
+            "1628@l2c#r09",
+            "1649@l2c#r068",
+            "1711@l7q",
+            "1711@l2c#r02",
+            "1732@l2c#r04",
+            "1754@lAC",
+            "1754@l2c#r02",
+            "1815@l2c#r02",
+            "1837@l9j",
+            "1837@l2c#r05",
+            "1858@l2c#r05",
+            "1920@lAD",
+            "1920@l2c#r010",
+            "1941@l2c#r02",
+            "2003@l7Z",
+            "2003@l2c#r010",
+            "2024@l2c#r05",
+            "2024@l82",
+            "2046@l2c#r02",
+            "2108@l89",
+            "2108@l2c#r02",
+            "2129@l2c#r05",
+            "2151@l8N",
+            "2151@l2c#r011",
+            "2212@l7d",
+            "2212@l2c#r05"
           ],
           "missedEncounters": 0,
           "introMessages": 0,
-          "notificationID": 381317,
+          "notificationID": 424701,
           "notificationQuestArrivalID": -1,
           "isForceReturningToVault": false,
           "isSkippingTime": false,
@@ -11817,284 +16487,6 @@ const exampleSaveJson = {
           "postQuestStimpakDifference": 0,
           "postQuestRadawayDifference": 0,
           "initialRadDamage": []
-        },
-        {
-          "dwellers": [
-            26
-          ],
-          "returnTripDuration": 0,
-          "elapsedTimeAliveExploring": 13935,
-          "elapsedReturningTime": 0,
-          "teamIndex": 2,
-          "teamType": "Explore",
-          "status": "Exploring",
-          "logs": [
-            "0257@l31",
-            "0257@l5d",
-            "0257@l2e#s2@l2a#s2315",
-            "0258@l1X#l1e",
-            "0258@l1f",
-            "0258@l1g",
-            "0258@l2a#s200",
-            "0301@l1Z#l1i",
-            "0301@l1r",
-            "0301@l1k",
-            "0301@l2a#s225",
-            "0304@l1c#l1u",
-            "0304@l2D",
-            "0304@l1w",
-            "0304@l2e#s1@l2a#s915",
-            "0306@l1c#l5o",
-            "0306@l35",
-            "0306@l5p",
-            "0306@l2e#s2@l2a#s3685",
-            "0307@l2c#r024",
-            "0308@l1Y#l1i",
-            "0308@l1r",
-            "0308@l1k",
-            "0308@l2a#s225",
-            "0309@l1a#l1u",
-            "0309@l2D",
-            "0309@l1w",
-            "0309@l2e#s1@l2a#s915",
-            "0310@l1X#l1m",
-            "0310@l21",
-            "0310@l1o",
-            "0310@l2a#s255",
-            "0311@l1Y#l24",
-            "0311@l2T",
-            "0311@l26",
-            "0311@l2e#s1@l2a#s575",
-            "0312@l1a#l5f",
-            "0312@l32",
-            "0312@l5g",
-            "0312@l2e#s2@l2a#s4000",
-            "0315@l1X#l1u",
-            "0315@l2D",
-            "0315@l1w",
-            "0315@l2e#s1@l2a#s915",
-            "0317@l1X#l5f",
-            "0317@l32",
-            "0317@l5g",
-            "0317@l2e#s2@l2a#s4000",
-            "0319@l1Y#l5l",
-            "0319@l34",
-            "0319@l5m",
-            "0319@l2e#s2@l2a#s3280",
-            "0320@l1a#l20",
-            "0320@l2L",
-            "0320@l22",
-            "0320@l2e#s1@l2a#s360",
-            "0322@l2c#r015",
-            "0322@l1Z#l5f",
-            "0322@l32",
-            "0322@l5g",
-            "0322@l2e#s2@l2a#s4000",
-            "0323@l1c#l20",
-            "0323@l2L",
-            "0323@l22",
-            "0323@l2e#s1@l2a#s360",
-            "0324@l1Y#l1i",
-            "0324@l1n",
-            "0324@l1k",
-            "0324@l2a#s225",
-            "0326@l1a#l1q",
-            "0326@l25",
-            "0326@l1s",
-            "0326@l2a#s285",
-            "0327@l2k#io6",
-            "0328@l1c#l1m",
-            "0328@l21",
-            "0328@l1o",
-            "0328@l2a#s255",
-            "0329@lBZ",
-            "0329@l1a#l1m",
-            "0329@l1v",
-            "0329@l1o",
-            "0329@l2a#s255",
-            "0330@l1c#l1q",
-            "0330@l29",
-            "0330@l1s",
-            "0330@l2a#s285",
-            "0331@l1X#l5f",
-            "0331@l32",
-            "0331@l5g",
-            "0331@l2e#s2@l2a#s4000",
-            "0332@l2c#r024",
-            "0332@l1Y#l5l",
-            "0332@l34",
-            "0332@l5m",
-            "0332@l2e#s2@l2a#s3280",
-            "0333@l1c#l1i",
-            "0333@l1n",
-            "0333@l1k",
-            "0333@l2a#s225",
-            "0334@l1a#l5i",
-            "0334@l33",
-            "0334@l5j",
-            "0334@l2e#s2@l2a#s2920",
-            "0338@lm#l1I",
-            "0338@l1J",
-            "0338@l1K",
-            "0338@l2a#s95",
-            "0341@l1b#l1i",
-            "0341@l1r",
-            "0341@l1k",
-            "0341@l2a#s225",
-            "0343@l1X#l1q",
-            "0343@l29",
-            "0343@l1s",
-            "0343@l2a#s285",
-            "0344@l1c#l1m",
-            "0344@l1v",
-            "0344@l1o",
-            "0344@l2a#s255",
-            "0345@l1Y#l20",
-            "0345@l2L",
-            "0345@l22",
-            "0345@l2e#s1@l2a#s360",
-            "0346@lh#l16",
-            "0346@l17",
-            "0346@l18",
-            "0346@l2a#s65",
-            "0347@l0#s12",
-            "0347@l2c#r015",
-            "0347@l1Y#l5i",
-            "0347@l33",
-            "0347@l5j",
-            "0347@l2e#s2@l2a#s2920",
-            "0348@l1b#l5l",
-            "0348@l34",
-            "0348@l5m",
-            "0348@l2e#s2@l2a#s3280",
-            "0349@l1X#l1m",
-            "0349@l21",
-            "0349@l1o",
-            "0349@l2a#s255",
-            "0350@l1c#l20",
-            "0350@l2L",
-            "0350@l22",
-            "0350@l2e#s1@l2a#s360",
-            "0351@l1b#l1m",
-            "0351@l1v",
-            "0351@l1o",
-            "0351@l2a#s255"
-          ],
-          "missedEncounters": 0,
-          "introMessages": 1,
-          "notificationID": -1,
-          "notificationQuestArrivalID": -1,
-          "isForceReturningToVault": false,
-          "isSkippingTime": false,
-          "isDoingQuest": false,
-          "questSucceeded": true,
-          "questDone": true,
-          "teamEquipment": {
-            "storage": {
-              "resources": {
-                "Nuka": 2396,
-                "Food": 0,
-                "Energy": 0,
-                "Water": 0,
-                "StimPack": 25,
-                "RadAway": 25,
-                "Lunchbox": 0,
-                "MrHandy": 0,
-                "PetCarrier": 0,
-                "CraftedOutfit": 0,
-                "CraftedWeapon": 0,
-                "NukaColaQuantum": 2,
-                "CraftedTheme": 0
-              },
-              "bonus": {
-                "Nuka": 0,
-                "Food": 0,
-                "Energy": 0,
-                "Water": 0,
-                "StimPack": 0,
-                "RadAway": 0,
-                "Lunchbox": 0,
-                "MrHandy": 0,
-                "PetCarrier": 0,
-                "CraftedOutfit": 0,
-                "CraftedWeapon": 0,
-                "NukaColaQuantum": 0,
-                "CraftedTheme": 0
-              }
-            },
-            "inventory": {
-              "items": [
-                {
-                  "id": "GoldWatch",
-                  "type": "Junk",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "Pistol_Enhanced",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "LaserPistol_Rusty",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "HuntingRifle_Rusty",
-                  "type": "Weapon",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "UtilityJumpsuit_Sturdy",
-                  "type": "Outfit",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                },
-                {
-                  "id": "BattleArmor",
-                  "type": "Outfit",
-                  "hasBeenAssigned": false,
-                  "hasRandonWeaponBeenAssigned": false
-                }
-              ]
-            },
-            "dwellers": [],
-            "mrHandyList": [],
-            "questClues": [],
-            "collectedThemes": {
-              "themeList": []
-            }
-          },
-          "questteamQuestSeed": -1,
-          "retryCount": 0,
-          "questOverallPerformance": {
-            "numberCombatsWon": 2,
-            "numberCriticalHitsPerformed": 1,
-            "numberPerfectCriticalHitsPerformed": 0,
-            "numberContainersCollected": 4,
-            "numberCapsCollected": 2048,
-            "numberLevelsGained": 0,
-            "numberLevelsGainedWithBonus": 0
-          },
-          "questName": "AbandonedCabin_08_Diff_36",
-          "questteamRandomIdentifier": 7787267,
-          "actors": [],
-          "initialItems": [
-            {
-              "initWeapon": "Flamer_Hardened",
-              "initOutfit": "RottedDuster",
-              "initPet": "pitbullterrier_l2"
-            }
-          ],
-          "postQuestStimpakDifference": 0,
-          "postQuestRadawayDifference": 0,
-          "initialRadDamage": [
-            23.21
-          ]
         }
       ],
       "cycles": [
@@ -12129,6 +16521,51 @@ const exampleSaveJson = {
                     "Location2",
                     "Location4",
                     "Location_Junk2",
+                    "Location8",
+                    "Location5",
+                    "Location_Junk3",
+                    "Location_Junk4",
+                    "Location3",
+                    "Location9",
+                    "Location_Junk5",
+                    "Location10",
+                    "Location_Junk6",
+                    "Location6",
+                    "Location11"
+                  ],
+                  "poolType": "Location"
+                },
+                {
+                  "nonRepeatable": [
+                    "NPC1",
+                    "NPC3",
+                    "NPC4",
+                    "NPC5",
+                    "NPC2",
+                    "NPC6",
+                    "NPC7",
+                    "NPC8",
+                    "NPC9"
+                  ],
+                  "poolType": "NPC"
+                }
+              ],
+              "teamID": 26
+            },
+            {
+              "teamEncounters": [
+                {
+                  "nonRepeatable": [],
+                  "poolType": "Creatures"
+                },
+                {
+                  "nonRepeatable": [
+                    "Location1",
+                    "Location7",
+                    "Location4",
+                    "Location2",
+                    "Location_Junk1",
+                    "Location_Junk2",
                     "Location_Junk3",
                     "Location8",
                     "Location5",
@@ -12142,12 +16579,12 @@ const exampleSaveJson = {
                 },
                 {
                   "nonRepeatable": [
-                    "NPC1",
                     "NPC3",
+                    "NPC1",
                     "NPC4",
                     "NPC5",
-                    "NPC6",
                     "NPC2",
+                    "NPC6",
                     "NPC7",
                     "NPC8",
                     "NPC9"
@@ -12155,7 +16592,7 @@ const exampleSaveJson = {
                   "poolType": "NPC"
                 }
               ],
-              "teamID": 36
+              "teamID": 37
             },
             {
               "teamEncounters": [
@@ -12167,26 +16604,36 @@ const exampleSaveJson = {
                   "nonRepeatable": [
                     "Location1",
                     "Location7",
-                    "Location_Junk1",
                     "Location2",
+                    "Location_Junk1",
                     "Location4",
                     "Location_Junk2",
                     "Location8",
-                    "Location5"
+                    "Location_Junk3",
+                    "Location5",
+                    "Location_Junk4",
+                    "Location3",
+                    "Location9",
+                    "Location_Junk5",
+                    "Location10"
                   ],
                   "poolType": "Location"
                 },
                 {
                   "nonRepeatable": [
-                    "NPC1",
                     "NPC3",
+                    "NPC1",
                     "NPC4",
-                    "NPC5"
+                    "NPC5",
+                    "NPC2",
+                    "NPC6",
+                    "NPC7",
+                    "NPC8"
                   ],
                   "poolType": "NPC"
                 }
               ],
-              "teamID": 26
+              "teamID": 24
             }
           ],
           "inProgress": []
@@ -12212,7 +16659,7 @@ const exampleSaveJson = {
                   "poolType": "JunkCycle_Location"
                 }
               ],
-              "teamID": 36
+              "teamID": 26
             },
             {
               "teamEncounters": [
@@ -12221,7 +16668,16 @@ const exampleSaveJson = {
                   "poolType": "JunkCycle_Location"
                 }
               ],
-              "teamID": 26
+              "teamID": 37
+            },
+            {
+              "teamEncounters": [
+                {
+                  "nonRepeatable": [],
+                  "poolType": "JunkCycle_Location"
+                }
+              ],
+              "teamID": 24
             }
           ],
           "inProgress": []
@@ -12238,13 +16694,9 @@ const exampleSaveJson = {
         }
       ],
       "questCycles": [],
-      "allTimeTeamsCounter": 14,
-      "lastSurpriseQuest": "AbandonedCabin_08_Diff_36",
-      "lastSurprisePopupTime": 66144.66,
-      "notification": [
-        30837,
-        441043
-      ]
+      "allTimeTeamsCounter": 18,
+      "lastSurpriseQuest": "SuperMart_09_Diff_27",
+      "lastSurprisePopupTime": 81960.21
     }
   },
   "dwellerSpawner": {
@@ -12317,8 +16769,8 @@ const exampleSaveJson = {
   },
   "objectiveMgr": {
     "taskID": 8,
-    "canDiscard": false,
-    "nukaQuantumIncrement": 1,
+    "canDiscard": true,
+    "nukaQuantumIncrement": 0,
     "shuffleBags": [
       [
         "SurviveRadscorpionNoCasualties1",
@@ -12416,8 +16868,6 @@ const exampleSaveJson = {
       [
         "SurviveDeathclawNoCasualties2",
         "SurviveRadscorpionNoCasualties2",
-        "CollectWaterWithinOneMin2",
-        "CollectRareWeapons2",
         "KillRandomEnemyUnarmedHardcore2",
         "Outfits2",
         "CraftWeapons2",
@@ -12512,7 +16962,6 @@ const exampleSaveJson = {
       ],
       [
         "SurviveGhoulNoCasualties3",
-        "RandomEnemyKilledUnarmed3",
         "CraftRareWeapons3",
         "SurviveRadscorpionNoCasualties3_Survival",
         "SurviveRadscorpionNoCasualties3",
@@ -12697,9 +17146,6 @@ const exampleSaveJson = {
         "ExploreWastelandHoursWithoutRadaway4"
       ],
       [
-        "SurviveMoleratNoCasualties5",
-        "KillCreature5",
-        "CraftOutfits5",
         "StopIncidentsHardcore5",
         "ExploreLocation5",
         "Wasteland5",
@@ -12798,16 +17244,39 @@ const exampleSaveJson = {
     "slotArray": [
       {
         "objective": {
-          "objectiveID": "CollectJunk4",
+          "objectiveID": "CollectRareWeapons2",
           "requirements": [
             {
               "requirementID": "r1",
               "satisfied": false,
-              "currentNumberItems": 0
+              "currentNumberItems": 2
             }
           ],
           "completed": false,
-          "incrementLevel": 1
+          "incrementLevel": 2
+        },
+        "incLevel": 2,
+        "lottery": [
+          true,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "objective": {
+          "objectiveID": "SurviveMoleratNoCasualties5",
+          "requirements": [
+            {
+              "requirementID": "r1",
+              "satisfied": false,
+              "currentEmergency": 2,
+              "failedRequirement": false
+            }
+          ],
+          "completed": false,
+          "incrementLevel": 0
         },
         "incLevel": 1,
         "lottery": [
@@ -12815,60 +17284,17 @@ const exampleSaveJson = {
           false,
           false,
           false,
-          true
+          false
         ]
       },
       {
         "objective": {
-          "objectiveID": "WeaponsHardcore4",
+          "objectiveID": "CraftOutfits5",
           "requirements": [
             {
               "requirementID": "r1",
               "satisfied": false,
-              "lastOutfits": 0,
-              "lastWeapons": 18,
-              "allDwellers": [
-                7,
-                21,
-                5,
-                13,
-                39,
-                17,
-                45,
-                41,
-                42,
-                40,
-                43,
-                44,
-                18,
-                26,
-                11,
-                20,
-                6,
-                46
-              ]
-            }
-          ],
-          "completed": false,
-          "incrementLevel": 1
-        },
-        "incLevel": 1,
-        "lottery": [
-          false,
-          false,
-          false,
-          false,
-          true
-        ]
-      },
-      {
-        "objective": {
-          "objectiveID": "QuestWinBattles3",
-          "requirements": [
-            {
-              "requirementID": "r1",
-              "satisfied": false,
-              "currentNumberPerformed": 2
+              "currentNumberItems": 3
             }
           ],
           "completed": false,
@@ -12880,7 +17306,7 @@ const exampleSaveJson = {
           true,
           false,
           false,
-          true
+          false
         ]
       }
     ]
@@ -12893,19 +17319,7 @@ const exampleSaveJson = {
           {
             "requirementID": "unlock15",
             "satisfied": false,
-            "currentCount": 46
-          }
-        ],
-        "completed": false,
-        "incrementLevel": 0
-      },
-      {
-        "objectiveID": "PowerPlantUnlock",
-        "requirements": [
-          {
-            "requirementID": "unlock12",
-            "satisfied": false,
-            "currentCount": 46
+            "currentCount": 70
           }
         ],
         "completed": false,
@@ -12917,31 +17331,7 @@ const exampleSaveJson = {
           {
             "requirementID": "unlock13",
             "satisfied": false,
-            "currentCount": 46
-          }
-        ],
-        "completed": false,
-        "incrementLevel": 0
-      },
-      {
-        "objectiveID": "HydroponicUnlock",
-        "requirements": [
-          {
-            "requirementID": "unlock14",
-            "satisfied": false,
-            "currentCount": 46
-          }
-        ],
-        "completed": false,
-        "incrementLevel": 0
-      },
-      {
-        "objectiveID": "BarberShopUnlock",
-        "requirements": [
-          {
-            "requirementID": "unlock18",
-            "satisfied": false,
-            "currentCount": 46
+            "currentCount": 70
           }
         ],
         "completed": false,
@@ -12964,7 +17354,10 @@ const exampleSaveJson = {
       "CardioUnlock",
       "BarUnlock",
       "DesignFactoryUnlock",
-      "GameRoomUnlock"
+      "GameRoomUnlock",
+      "BarberShopUnlock",
+      "PowerPlantUnlock",
+      "HydroponicUnlock"
     ]
   },
   "survivalW": {
@@ -12993,18 +17386,23 @@ const exampleSaveJson = {
       "O127",
       "N180",
       "N120",
+      "N126",
       "N217",
       "O131",
       "N141",
+      "N132",
       "N222",
       "N70",
       "O223",
       "N118",
+      "N29",
       "N30",
       "N41",
       "N51",
       "O42",
-      "O5"
+      "N110",
+      "O5",
+      "N195"
     ],
     "outfits": [
       "N78",
@@ -13039,15 +17437,22 @@ const exampleSaveJson = {
       "N100",
       "N57",
       "N108",
+      "N83",
+      "N86",
       "N79",
+      "N38",
       "O50",
+      "N164",
       "O171"
     ],
-    "dwellers": [],
+    "dwellers": [
+      "NL_Ed"
+    ],
     "pets": [
       "N117"
     ],
     "breeds": [
+      "N41",
       "O34",
       "N21",
       "O2",
@@ -13176,7 +17581,16 @@ const exampleSaveJson = {
       "PrinceSpecial",
       "LabCoat_Advanced",
       "Ripper_Enhanced",
-      "MilitaryJumpsuit_Officer"
+      "MilitaryJumpsuit_Officer",
+      "LifeguardOutfit",
+      "InstitutePistol_Scoped",
+      "DooWopOutfit",
+      "SniperRifle_VictoryRifle",
+      "NCR_Ranger",
+      "Rifle_ArmorPiercing",
+      "ProfessorSpecial",
+      "TranqPistol_Enhanced",
+      "SoldierSpecial"
     ],
     "claimedRecipes": [
       "PipeRifle",
@@ -13188,7 +17602,19 @@ const exampleSaveJson = {
       "LaserPistol_Focused",
       "AssaultRifle_Enhanced",
       "GaussRifle",
-      "Ripper_Enhanced"
+      "Ripper_Enhanced",
+      "PrinceSpecial",
+      "ProfessorSpecial",
+      "LifeguardOutfit",
+      "Vault33Suit",
+      "MilitaryJumpsuit_Officer",
+      "DooWopOutfit",
+      "NCR_Ranger",
+      "LabCoat_Advanced",
+      "Rifle_ArmorPiercing",
+      "InstitutePistol_Scoped",
+      "TranqPistol_Enhanced",
+      "SoldierSpecial"
     ],
     "collectedThemes": {
       "themeList": []
@@ -13199,86 +17625,12 @@ const exampleSaveJson = {
     "hasStarterPackPopupShown": false
   },
   "happinessManager": {
-    "room382": [
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 11
-      }
-    ],
-    "room245": [
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 17
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 16
-      }
-    ],
-    "room375": [
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 1
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 12
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 7
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 5
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 37
-      }
-    ],
     "room44": [
       {
         "type": 3,
         "rh": 0,
         "in": true,
-        "dc": 14
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
         "dc": 3
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 15
-      }
-    ],
-    "room413": [
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 25
       },
       {
         "type": 3,
@@ -13290,15 +17642,87 @@ const exampleSaveJson = {
         "type": 3,
         "rh": 0,
         "in": true,
-        "dc": 22
+        "dc": 14
       }
     ],
-    "room2259": [
+    "room916": [
       {
         "type": 3,
         "rh": 0,
         "in": true,
-        "dc": 18
+        "dc": 35
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 8
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 2
+      }
+    ],
+    "room4373": [
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 15
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 25
+      }
+    ],
+    "room5259": [
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 44
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 41
+      }
+    ],
+    "room4187": [
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 7
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 27
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 13
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 16
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 30
       }
     ],
     "room77": [
@@ -13312,58 +17736,16 @@ const exampleSaveJson = {
         "type": 3,
         "rh": 0,
         "in": true,
+        "dc": 19
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
         "dc": 6
       }
     ],
-    "room31": [
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 13
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 21
-      }
-    ],
-    "room535": [
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 23
-      }
-    ],
-    "room2657": [
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 9
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 38
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 46
-      },
-      {
-        "type": 3,
-        "rh": 0,
-        "in": true,
-        "dc": 24
-      }
-    ],
-    "room1469": [
+    "room4643": [
       {
         "type": 3,
         "rh": 0,
@@ -13371,36 +17753,70 @@ const exampleSaveJson = {
         "dc": 29
       }
     ],
-    "room916": [
+    "room1154": [
       {
         "type": 3,
         "rh": 0,
         "in": true,
-        "dc": 2
+        "dc": 65
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 46
+      }
+    ],
+    "room413": [
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 9
+      }
+    ],
+    "room5988": [
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 11
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 22
+      },
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 23
+      }
+    ],
+    "room31": [
+      {
+        "type": 3,
+        "rh": 0,
+        "in": true,
+        "dc": 12
       }
     ],
     "rooms": [
-      382,
-      245,
-      375,
       44,
-      413,
-      2259,
+      916,
+      4373,
+      5259,
+      4187,
       77,
-      31,
-      535,
-      2657,
-      1469,
-      916
+      4643,
+      1154,
+      413,
+      5988,
+      31
     ],
-    "dweller1": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller19": [
+    "dweller8": [
       {
         "type": 2,
         "rh": 0,
@@ -13421,13 +17837,6 @@ const exampleSaveJson = {
         "in": true
       }
     ],
-    "dweller18": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
     "dweller10": [
       {
         "type": 2,
@@ -13442,63 +17851,14 @@ const exampleSaveJson = {
         "in": true
       }
     ],
-    "dweller13": [
+    "dweller16": [
       {
         "type": 2,
         "rh": 0,
         "in": true
       }
     ],
-    "dweller6": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller4": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller2": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller5": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller27": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller41": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller25": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller17": [
+    "dweller1": [
       {
         "type": 2,
         "rh": 0,
@@ -13512,6 +17872,48 @@ const exampleSaveJson = {
         "in": true
       }
     ],
+    "dweller19": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller13": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller5": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller6": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller55": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller57": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
     "dweller20": [
       {
         "type": 2,
@@ -13519,54 +17921,21 @@ const exampleSaveJson = {
         "in": true
       }
     ],
-    "dweller7": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      },
+    "dweller4": [
       {
         "type": 2,
         "rh": 0,
         "in": true
       }
     ],
-    "dweller39": [
+    "dweller64": [
       {
         "type": 2,
         "rh": 0,
         "in": true
       }
     ],
-    "dweller45": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller8": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller9": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller11": [
-      {
-        "type": 2,
-        "rh": 0,
-        "in": true
-      }
-    ],
-    "dweller16": [
+    "dweller25": [
       {
         "type": 2,
         "rh": 0,
@@ -13580,33 +17949,90 @@ const exampleSaveJson = {
         "in": true
       }
     ],
+    "dweller22": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller54": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller2": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller18": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller17": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller11": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller7": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
+    "dweller27": [
+      {
+        "type": 2,
+        "rh": 0,
+        "in": true
+      }
+    ],
     "dwellers": [
-      1,
-      19,
+      8,
       14,
       15,
-      18,
       10,
       3,
-      13,
-      6,
-      4,
-      2,
-      5,
-      27,
-      41,
-      25,
-      17,
-      12,
-      20,
-      7,
-      39,
-      45,
-      8,
-      9,
-      11,
       16,
-      21
+      1,
+      12,
+      19,
+      13,
+      5,
+      6,
+      55,
+      57,
+      20,
+      4,
+      64,
+      25,
+      21,
+      22,
+      54,
+      2,
+      18,
+      17,
+      11,
+      7,
+      27
     ]
   },
   "refugeeSpawner": {
@@ -13617,7 +18043,7 @@ const exampleSaveJson = {
   },
   "LunchBoxCollectWindow": null,
   "DeathclawManager": {
-    "deathclawTotalExtraChance": 0,
+    "deathclawTotalExtraChance": 0.3,
     "canDeathclawEmergencyOccurs": true,
     "deathclawCooldownID": -1
   },
@@ -13626,16 +18052,16 @@ const exampleSaveJson = {
   "MysteriousStranger": {
     "currentState": "Hiding",
     "canAppear": true,
-    "timeToAppear": 180.04,
-    "remainingTimeToAppear": 120
+    "timeToAppear": 180.06,
+    "remainingTimeToAppear": 160
   },
   "StatsWindow": {
     "vaultData": {
       "collectedRes": {
-        "Nuka": 319731,
-        "Food": 19530.72,
-        "Energy": 69297.47,
-        "Water": 20842.51,
+        "Nuka": 424790,
+        "Food": 29980.15,
+        "Energy": 116080.2,
+        "Water": 31116.65,
         "StimPack": 0,
         "RadAway": 0,
         "Lunchbox": 0,
@@ -13646,57 +18072,57 @@ const exampleSaveJson = {
         "NukaColaQuantum": 0,
         "CraftedTheme": 0
       },
-      "collectedOutfits": 184,
-      "collectedWeapons": 196,
+      "collectedOutfits": 232,
+      "collectedWeapons": 238,
       "collectedDecorations": 0,
-      "collectedPets": 6,
+      "collectedPets": 7,
       "raidersKilled": 0,
-      "elevatorRides": 2547,
-      "lunchBoxesOpened": 9,
-      "petCarriersOpened": 6,
-      "totalLifetimeDwellers": 46,
-      "babiesBorn": 28,
-      "dwellersRevived": 0,
-      "levelsGained": 616,
-      "specialStatTrained": 408,
-      "takenStimpack": 172,
-      "takenRadaway": 25,
+      "elevatorRides": 3924,
+      "lunchBoxesOpened": 11,
+      "petCarriersOpened": 7,
+      "totalLifetimeDwellers": 70,
+      "babiesBorn": 50,
+      "dwellersRevived": 1,
+      "levelsGained": 823,
+      "specialStatTrained": 759,
+      "takenStimpack": 293,
+      "takenRadaway": 64,
       "deadDwellers": 0,
       "evictedDwellers": 0,
-      "highestDwellerCount": 46,
+      "highestDwellerCount": 70,
       "soldWeapons": 3,
       "soldOutfits": 0,
       "soldDecorations": 0,
       "soldPets": 0,
-      "scrappedOutfits": 67,
-      "scrappedWeapons": 143,
-      "craftedWeapons": 8,
-      "craftedOutfits": 5,
+      "scrappedOutfits": 96,
+      "scrappedWeapons": 169,
+      "craftedWeapons": 11,
+      "craftedOutfits": 8,
       "craftedDecorations": 0,
       "craftedThemes": 0,
-      "collectedJunk": 243,
+      "collectedJunk": 301,
       "soldJunk": 0,
-      "successfulRushes": 70,
-      "failRushes": 29,
-      "firesExtinguised": 49,
-      "emergencyStopRaider": 25,
-      "emergencyStopDeathClaw": 0,
-      "emergencyStopGhoul": 0,
-      "emergencyStopRadroach": 44,
-      "emergencyStopRadscorpion": 0,
-      "emergencyStopMolerat": 17,
-      "emergencyStopAlien": 16,
-      "dwellersSentWasteland": 12,
-      "wastelandTotalTime": 981307,
-      "wastelandCreaturesKilled": 9075,
+      "successfulRushes": 85,
+      "failRushes": 30,
+      "firesExtinguised": 56,
+      "emergencyStopRaider": 27,
+      "emergencyStopDeathClaw": 3,
+      "emergencyStopGhoul": 4,
+      "emergencyStopRadroach": 46,
+      "emergencyStopRadscorpion": 4,
+      "emergencyStopMolerat": 19,
+      "emergencyStopAlien": 19,
+      "dwellersSentWasteland": 15,
+      "wastelandTotalTime": 1240535,
+      "wastelandCreaturesKilled": 13811,
       "vaultCreatedBeforeUpdate": false,
       "dwellersCustomized": 0,
       "measuringSince": 638506744886462200,
       "previousVResources": {
-        "Nuka": 120072.2,
-        "Food": 289.44,
-        "Energy": 1376.63,
-        "Water": 457.96,
+        "Nuka": 56055.9,
+        "Food": 595.98,
+        "Energy": 1681.23,
+        "Water": 595.98,
         "StimPack": 0,
         "RadAway": 0,
         "Lunchbox": 0,
@@ -13733,52 +18159,52 @@ const exampleSaveJson = {
     "dailyQuestPicker": {
       "currentDailies": [
         {
-          "startDate": "15.05.2024 10:40:08",
-          "endDate": "16.05.2024 0:00:00",
-          "officialStartDate": "15.05.2024 0:00:00",
-          "questName": "Daily_15_Diff_28_C"
+          "startDate": "19.05.2024 11:48:00",
+          "endDate": "20.05.2024 0:00:00",
+          "officialStartDate": "19.05.2024 0:00:00",
+          "questName": "Daily_06_Diff_30_B"
         }
       ],
       "historyDailies": [
-        {
-          "startDate": "10.05.2024 12:11:09",
-          "endDate": "11.05.2024 0:00:00",
-          "officialStartDate": "10.05.2024 0:00:00",
-          "questName": "Daily_07_Diff_20_C"
-        },
-        {
-          "startDate": "11.05.2024 11:27:30",
-          "endDate": "12.05.2024 0:00:00",
-          "officialStartDate": "11.05.2024 0:00:00",
-          "questName": "Daily_14_Diff_20_A"
-        },
-        {
-          "startDate": "12.05.2024 16:33:50",
-          "endDate": "13.05.2024 0:00:00",
-          "officialStartDate": "12.05.2024 0:00:00",
-          "questName": "Daily_03_Diff_20_A"
-        },
-        {
-          "startDate": "13.05.2024 7:54:40",
-          "endDate": "14.05.2024 0:00:00",
-          "officialStartDate": "13.05.2024 0:00:00",
-          "questName": "Daily_14_Diff_20_C"
-        },
         {
           "startDate": "14.05.2024 23:21:49",
           "endDate": "15.05.2024 0:00:00",
           "officialStartDate": "14.05.2024 0:00:00",
           "questName": "Daily_29_Diff_Low"
+        },
+        {
+          "startDate": "15.05.2024 10:40:08",
+          "endDate": "16.05.2024 0:00:00",
+          "officialStartDate": "15.05.2024 0:00:00",
+          "questName": "Daily_15_Diff_28_C"
+        },
+        {
+          "startDate": "16.05.2024 13:16:43",
+          "endDate": "17.05.2024 0:00:00",
+          "officialStartDate": "16.05.2024 0:00:00",
+          "questName": "Daily_07_Diff_30_A"
+        },
+        {
+          "startDate": "17.05.2024 12:19:08",
+          "endDate": "18.05.2024 0:00:00",
+          "officialStartDate": "17.05.2024 0:00:00",
+          "questName": "Daily_15_Diff_27_B"
+        },
+        {
+          "startDate": "18.05.2024 10:43:13",
+          "endDate": "19.05.2024 0:00:00",
+          "officialStartDate": "18.05.2024 0:00:00",
+          "questName": "Daily_13_Diff_30_C"
         }
       ]
     },
     "weeklyQuestPicker": {
       "currentWeeklies": [
         {
-          "startDate": "10.05.2024 12:11:09",
-          "endDate": "17.05.2024 12:00:00",
-          "officialStartDate": "10.05.2024 12:00:00",
-          "questName": "Weekly_01_Diff_26"
+          "startDate": "17.05.2024 12:19:08",
+          "endDate": "24.05.2024 12:00:00",
+          "officialStartDate": "17.05.2024 12:00:00",
+          "questName": "Weekly_06_Diff_26"
         }
       ],
       "historyWeeklies": [
@@ -13787,6 +18213,12 @@ const exampleSaveJson = {
           "endDate": "10.05.2024 12:00:00",
           "officialStartDate": "03.05.2024 12:00:00",
           "questName": "Weekly_08_Diff_09"
+        },
+        {
+          "startDate": "10.05.2024 12:11:09",
+          "endDate": "17.05.2024 12:00:00",
+          "officialStartDate": "10.05.2024 12:00:00",
+          "questName": "Weekly_01_Diff_26"
         }
       ]
     },
@@ -13806,25 +18238,25 @@ const exampleSaveJson = {
     }
   },
   "cameraPosition": [
-    -24.71,
-    16.2,
-    -22.2
+    -20.69,
+    21.14,
+    -34.57
   ],
   "questSetup": {
-    "buildingLenght": 7,
+    "buildingLenght": 10,
     "buildingHeight": 1,
     "buildingUnderground": 1,
-    "seed": 392569,
+    "seed": 103192,
     "entry": 0,
     "questConstructionMgr": {
-      "roomDeserializeID": 5
+      "roomDeserializeID": 6
     },
     "roomList": [
       {
         "emergencyDone": false,
-        "type": "QuestStandard",
+        "type": "QuestIndustrial",
         "class": "Quest",
-        "mergeLevel": 2,
+        "mergeLevel": 3,
         "row": 0,
         "col": 0,
         "power": true,
@@ -13843,29 +18275,72 @@ const exampleSaveJson = {
         "assignedDecoration": "",
         "roomVisibility": true,
         "roomOutline": false,
-        "questRoomType": "QuestStandard",
+        "questRoomType": "QuestIndustrial",
         "roomClearOutResult": "Succeeded",
         "roomPickUpResult": "Succeeded",
-        "roomName": "QuestStandardRoom",
-        "enteringLeft": true,
+        "roomName": "QuestIndustrialRoom",
+        "enteringLeft": false,
         "primaryObjective": "None",
         "secondaryObjective": "None",
         "thirdObjective": "None",
         "objectiveTextOverride": "",
-        "combatParameters": {
-          "difficulty": -16,
-          "enemyType": "Deathclaw",
-          "enemyCount": 1,
-          "boss": false,
-          "loot": {
-            "LootType": 0,
-            "LootID": "",
-            "LootQuantity": 0,
-            "FromVaultQuantity": 0,
-            "InitialEquippedQuantity": 0,
-            "CurrentlyEquippedQuantity": 0
+        "conversationParameters": {
+          "dialog": {
+            "eventType": "Quest",
+            "dialogId": [
+              "QuestLoc_SuperDuperTrooper_Conversation_1_NPCStart_1",
+              "QuestLoc_SuperDuperTrooper_Conversation_1_NPCStart_2",
+              "QuestLoc_SuperDuperTrooper_Conversation_1_NPCStart_3"
+            ],
+            "results": [
+              {
+                "reponse": "QuestLoc_SuperDuperTrooper_Conversation_1_Team_1",
+                "followup": "QuestLoc_SuperDuperTrooper_Conversation_1_NPCEnd_1",
+                "type": "Combat",
+                "first": "RandomRareWeaponRecipe",
+                "second": "",
+                "third": "1",
+                "fourth": "-4",
+                "fifth": ""
+              },
+              {
+                "reponse": "QuestLoc_SuperDuperTrooper_Conversation_1_Team_2",
+                "followup": "QuestLoc_SuperDuperTrooper_Conversation_1_NPCEnd_2",
+                "type": "None",
+                "first": "",
+                "second": "",
+                "third": "",
+                "fourth": "",
+                "fifth": ""
+              },
+              {
+                "reponse": "QuestLoc_SuperDuperTrooper_Conversation_1_Team_3",
+                "followup": "QuestLoc_SuperDuperTrooper_Conversation_1_NPCEnd_3",
+                "type": "Loot",
+                "first": "RandomRareJunk",
+                "second": "",
+                "third": "1",
+                "fourth": "",
+                "fifth": ""
+              }
+            ]
           },
-          "dialogue": ""
+          "npcs": [
+            {
+              "type": 2,
+              "parameter": "",
+              "name": "",
+              "weapon": "",
+              "outfit": "PowerArmor_T60a"
+            },
+            {
+              "type": 2,
+              "parameter": "",
+              "name": "",
+              "weapon": "",
+              "outfit": "PowerArmor_51a"
+            }
+          ]
         },
         "completionLoot": {
           "LootType": 0,
@@ -13885,7 +18360,7 @@ const exampleSaveJson = {
         "class": "Utility",
         "mergeLevel": 1,
         "row": 1,
-        "col": 6,
+        "col": 9,
         "power": true,
         "roomHealth": {
           "damageValue": 0,
@@ -13910,7 +18385,7 @@ const exampleSaveJson = {
         "class": "Utility",
         "mergeLevel": 1,
         "row": 0,
-        "col": 6,
+        "col": 9,
         "power": true,
         "roomHealth": {
           "damageValue": 0,
@@ -13931,8 +18406,52 @@ const exampleSaveJson = {
       },
       {
         "emergencyDone": false,
-        "type": "QuestVault",
-        "class": "None",
+        "type": "QuestStandard",
+        "class": "Quest",
+        "mergeLevel": 1,
+        "row": 1,
+        "col": 6,
+        "power": true,
+        "roomHealth": {
+          "damageValue": 0,
+          "initialValue": 0
+        },
+        "mrHandyList": [],
+        "rushTask": -1,
+        "level": 3,
+        "dwellers": [],
+        "deadDwellers": [],
+        "currentStateName": "Visible",
+        "currentState": {},
+        "deserializeID": 4,
+        "assignedDecoration": "",
+        "roomVisibility": true,
+        "roomOutline": false,
+        "questRoomType": "QuestStandard",
+        "roomClearOutResult": "Succeeded",
+        "roomPickUpResult": "Succeeded",
+        "roomName": "QuestStandardRoom",
+        "enteringLeft": true,
+        "primaryObjective": "None",
+        "secondaryObjective": "None",
+        "thirdObjective": "None",
+        "objectiveTextOverride": "",
+        "completionLoot": {
+          "LootType": 0,
+          "LootID": "",
+          "LootQuantity": 0,
+          "FromVaultQuantity": 0,
+          "InitialEquippedQuantity": 0,
+          "CurrentlyEquippedQuantity": 0
+        },
+        "debugRoomId": "Room4",
+        "xp": 0,
+        "mainPath": true
+      },
+      {
+        "emergencyDone": false,
+        "type": "QuestStandard",
+        "class": "Quest",
         "mergeLevel": 2,
         "row": 1,
         "col": 0,
@@ -13943,32 +18462,32 @@ const exampleSaveJson = {
         },
         "mrHandyList": [],
         "rushTask": -1,
-        "level": 1,
+        "level": 2,
         "dwellers": [],
         "deadDwellers": [],
         "currentStateName": "Visible",
         "currentState": {},
-        "deserializeID": 4,
+        "deserializeID": 5,
         "assignedDecoration": "",
         "roomVisibility": true,
         "roomOutline": false,
-        "questRoomType": "QuestVault",
+        "questRoomType": "QuestStandard",
         "roomClearOutResult": "Succeeded",
         "roomPickUpResult": "Succeeded",
-        "roomName": "QuestVaultRoom",
+        "roomName": "QuestStandardRoom",
         "enteringLeft": false,
         "primaryObjective": "ClearOut",
         "secondaryObjective": "None",
         "thirdObjective": "None",
-        "objectiveTextOverride": "QuestLoc_CabinFever_QuestObjective_1",
+        "objectiveTextOverride": "QuestLoc_SuperDuperTrooper_QuestObjective_1",
         "combatParameters": {
-          "difficulty": -8,
+          "difficulty": -2,
           "enemyType": "Raider",
           "enemyCount": 2,
           "boss": false,
           "loot": {
             "LootType": 2,
-            "LootID": "UtilityJumpsuit_Sturdy",
+            "LootID": "RiotGear_Sturdy",
             "LootQuantity": 1,
             "FromVaultQuantity": 0,
             "InitialEquippedQuantity": 0,
@@ -13984,7 +18503,7 @@ const exampleSaveJson = {
           "InitialEquippedQuantity": 0,
           "CurrentlyEquippedQuantity": 0
         },
-        "debugRoomId": "Room4",
+        "debugRoomId": "Room5",
         "xp": 0,
         "mainPath": true
       }
@@ -14008,7 +18527,7 @@ const exampleSaveJson = {
       "deadDwellers": [],
       "currentStateName": "Idle",
       "currentState": {},
-      "deserializeID": 5,
+      "deserializeID": 6,
       "assignedDecoration": "",
       "roomVisibility": false,
       "roomOutline": false
@@ -14020,28 +18539,28 @@ const exampleSaveJson = {
     "cancelled": false,
     "questSucceeded": true,
     "entranceFlow": true,
-    "questDifficulty": 36,
+    "questDifficulty": 27,
     "questTeam": {
-      "CurrentQuestID": "AbandonedCabin_08_Diff_36",
-      "randomIdentifier": 7787267,
+      "CurrentQuestID": "SuperMart_09_Diff_27",
+      "randomIdentifier": 3558817,
       "DwellersDictionary": [
-        26
+        24
       ],
       "QuestLootObtained": {
         "Loots": [
           {
             "LootType": 5,
             "LootID": "",
-            "LootQuantity": 2357,
-            "FromVaultQuantity": 309,
+            "LootQuantity": 3944,
+            "FromVaultQuantity": 2081,
             "InitialEquippedQuantity": 0,
             "CurrentlyEquippedQuantity": 0
           },
           {
             "LootType": 3,
             "LootID": "",
-            "LootQuantity": 25,
-            "FromVaultQuantity": 25,
+            "LootQuantity": 23,
+            "FromVaultQuantity": 23,
             "InitialEquippedQuantity": 0,
             "CurrentlyEquippedQuantity": 0
           },
@@ -14050,6 +18569,166 @@ const exampleSaveJson = {
             "LootID": "",
             "LootQuantity": 25,
             "FromVaultQuantity": 25,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Magnum_Enhanced",
+            "LootQuantity": 3,
+            "FromVaultQuantity": 3,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Ripper_Hardened",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "SawedOffShotgun_Rusty",
+            "LootQuantity": 2,
+            "FromVaultQuantity": 2,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "032Pistol_Rusty",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "BBGun_Enhanced",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Pistol_Rusty",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Rifle_Enhanced",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Rifle",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Rifle_Rusty",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "032Pistol",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "HuntingRifle_Enhanced",
+            "LootQuantity": 2,
+            "FromVaultQuantity": 2,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "BBGun_Rusty",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Magnum_Rusty",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 1,
+            "LootID": "Magnum",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "HandymanJumpsuit",
+            "LootQuantity": 2,
+            "FromVaultQuantity": 2,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "FormalWear",
+            "LootQuantity": 2,
+            "FromVaultQuantity": 2,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "AllNightware",
+            "LootQuantity": 2,
+            "FromVaultQuantity": 2,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "HandymanJumpsuit_Advanced",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "LabCoat_Advanced",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "RiotGear",
+            "LootQuantity": 3,
+            "FromVaultQuantity": 3,
             "InitialEquippedQuantity": 0,
             "CurrentlyEquippedQuantity": 0
           },
@@ -14063,39 +18742,79 @@ const exampleSaveJson = {
           },
           {
             "LootType": 2,
-            "LootID": "UtilityJumpsuit_Sturdy",
+            "LootID": "LabCoat",
+            "LootQuantity": 2,
+            "FromVaultQuantity": 2,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "WandererArmor",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "RaiderArmor",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "ScribeRobe_Initiate",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "CombatArmor",
+            "LootQuantity": 1,
+            "FromVaultQuantity": 1,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "WastelandSurgeon_Settler",
+            "LootQuantity": 2,
+            "FromVaultQuantity": 2,
+            "InitialEquippedQuantity": 0,
+            "CurrentlyEquippedQuantity": 0
+          },
+          {
+            "LootType": 2,
+            "LootID": "WeddingDress",
             "LootQuantity": 1,
             "FromVaultQuantity": 0,
             "InitialEquippedQuantity": 0,
             "CurrentlyEquippedQuantity": 0
           },
           {
-            "LootType": 1,
-            "LootID": "HuntingRifle_Rusty",
+            "LootType": 2,
+            "LootID": "RiotGear_Sturdy",
             "LootQuantity": 1,
-            "FromVaultQuantity": 1,
+            "FromVaultQuantity": 0,
             "InitialEquippedQuantity": 0,
             "CurrentlyEquippedQuantity": 0
           },
           {
-            "LootType": 1,
-            "LootID": "LaserPistol_Rusty",
+            "LootType": 10,
+            "LootID": "CafeteriaMinutemen",
             "LootQuantity": 1,
-            "FromVaultQuantity": 1,
+            "FromVaultQuantity": 0,
             "InitialEquippedQuantity": 0,
             "CurrentlyEquippedQuantity": 0
           },
           {
-            "LootType": 1,
-            "LootID": "Pistol_Enhanced",
-            "LootQuantity": 1,
-            "FromVaultQuantity": 1,
-            "InitialEquippedQuantity": 0,
-            "CurrentlyEquippedQuantity": 0
-          },
-          {
-            "LootType": 11,
-            "LootID": "GoldWatch",
+            "LootType": 9,
+            "LootID": "AlienDisintegrator_Enhanced",
             "LootQuantity": 1,
             "FromVaultQuantity": 0,
             "InitialEquippedQuantity": 0,
@@ -14113,74 +18832,74 @@ const exampleSaveJson = {
       },
       "InitialEquipment": [
         {
-          "dweller": 26,
+          "dweller": 24,
           "weapon": {
-            "id": "Flamer_Hardened",
+            "id": "PowerFistEd",
             "type": "Weapon",
             "hasBeenAssigned": false,
             "hasRandonWeaponBeenAssigned": false
           },
           "outfit": {
-            "id": "RottedDuster",
+            "id": "WandererArmor_Sturdy",
             "type": "Outfit",
             "hasBeenAssigned": false,
             "hasRandonWeaponBeenAssigned": false
           },
           "pet": {
-            "id": "pitbullterrier_l2",
+            "id": "militarymacaw_r",
             "type": "Pet",
             "hasBeenAssigned": false,
             "hasRandonWeaponBeenAssigned": false,
             "extraData": {
-              "uniqueName": "Ranger",
+              "uniqueName": "Pepper",
               "bonus": "DamageBoost",
               "bonusValue": 2
             }
           }
         }
       ],
-      "initialStimpakCount": 25,
+      "initialStimpakCount": 23,
       "initialRadawayCount": 25,
-      "currentStimpakCount": 25,
+      "currentStimpakCount": 23,
       "currentRadawayCount": 25,
-      "estimatedDwellerReviveCost": 1000,
+      "estimatedDwellerReviveCost": 820,
       "questCurrentPerfomance": {
-        "numberCombatsWon": 2,
-        "numberCriticalHitsPerformed": 1,
+        "numberCombatsWon": 1,
+        "numberCriticalHitsPerformed": 0,
         "numberPerfectCriticalHitsPerformed": 0,
-        "numberContainersCollected": 4,
-        "numberCapsCollected": 2048,
-        "numberLevelsGained": 0,
-        "numberLevelsGainedWithBonus": 0
+        "numberContainersCollected": 6,
+        "numberCapsCollected": 1825,
+        "numberLevelsGained": 1,
+        "numberLevelsGainedWithBonus": 1
       },
-      "questSpentTime": 223.43
+      "questSpentTime": 211.57
     },
     "accumulatedRetryCost": 0,
     "retryCount": 0,
     "incrementedRetryCount": 1,
-    "vaultCaps": 116563,
-    "vaultQuantum": 57,
-    "uniqueID": 7787267
+    "vaultCaps": 78027,
+    "vaultQuantum": 79,
+    "uniqueID": 3558817
   },
   "questDwellers": {
     "dwellers": [
       {
-        "serializeId": 26,
-        "name": "Old",
+        "serializeId": 24,
+        "name": "Trainee",
         "lastName": "Explorer",
         "happiness": {
           "happinessValue": 100
         },
         "health": {
-          "healthValue": 294.35,
-          "radiationValue": 22.91,
+          "healthValue": 438,
+          "radiationValue": 0,
           "permaDeath": false,
-          "lastLevelUpdated": 50,
-          "maxHealth": 394
+          "lastLevelUpdated": 38,
+          "maxHealth": 438
         },
         "experience": {
-          "experienceValue": 1,
-          "currentLevel": 50,
+          "experienceValue": 1377001,
+          "currentLevel": 38,
           "storage": 0,
           "accum": 0,
           "needLvUp": false,
@@ -14191,8 +18910,8 @@ const exampleSaveJson = {
           "partner": -1,
           "lastPartner": -1,
           "ascendants": [
-            -1,
-            -1,
+            6,
+            11,
             -1,
             -1,
             -1,
@@ -14209,38 +18928,38 @@ const exampleSaveJson = {
             },
             {
               "value": 3,
+              "mod": 2,
+              "exp": 14400
+            },
+            {
+              "value": 2,
               "mod": 0,
-              "exp": 15046.81
+              "exp": 3600
             },
             {
-              "value": 7,
-              "mod": 2,
-              "exp": 201600
-            },
-            {
-              "value": 5,
-              "mod": 2,
-              "exp": 72000
+              "value": 10,
+              "mod": 3,
+              "exp": 594861.8
             },
             {
               "value": 6,
-              "mod": 2,
-              "exp": 126000
-            },
-            {
-              "value": 3,
               "mod": 0,
-              "exp": 14400
+              "exp": 126129.4
             },
             {
-              "value": 3,
-              "mod": 2,
-              "exp": 14400
-            },
-            {
-              "value": 3,
+              "value": 10,
               "mod": 0,
-              "exp": 14400
+              "exp": 594619.6
+            },
+            {
+              "value": 10,
+              "mod": 0,
+              "exp": 594399.9
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
             }
           ]
         },
@@ -14251,55 +18970,54 @@ const exampleSaveJson = {
         "WillGoToWasteland": false,
         "WillBeEvicted": false,
         "IsEvictedWaitingForFollowers": false,
-        "skinColor": 4287918679,
-        "hairColor": 4284100898,
+        "skinColor": 4294964980,
+        "hairColor": 4291735864,
         "outfitColor": 4294967295,
         "pendingExperienceReward": 0,
-        "uniqueData": "LibrarianFemale",
         "hair": "20",
         "equipedOutfit": {
-          "id": "RottedDuster",
+          "id": "WandererArmor_Sturdy",
           "type": "Outfit",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         "equipedWeapon": {
-          "id": "Flamer_Hardened",
+          "id": "PowerFistEd",
           "type": "Weapon",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false
         },
         "equippedPet": {
-          "id": "pitbullterrier_l2",
+          "id": "militarymacaw_r",
           "type": "Pet",
           "hasBeenAssigned": false,
           "hasRandonWeaponBeenAssigned": false,
           "extraData": {
-            "uniqueName": "Ranger",
+            "uniqueName": "Pepper",
             "bonus": "DamageBoost",
             "bonusValue": 2
           }
         },
         "savedRoom": -1,
-        "lastChildBorn": 265403.42,
-        "rarity": "Rare",
+        "lastChildBorn": 740805.69,
+        "rarity": "Common",
         "deathTime": -1,
         "dwellerPosition": [
-          -28.78,
-          12.93,
-          2.06
+          -7.92,
+          20,
+          3.56
         ],
-        "dwellerRoom": 4,
-        "dwellerCriticalMeter": 1.08,
-        "dwellerCriticalFactor": 0.82
+        "dwellerRoom": 1,
+        "dwellerCriticalMeter": 53.33,
+        "dwellerCriticalFactor": 1.01
       }
     ],
     "actors": [
       {
         "characterType": 3,
-        "actorDataId": "pitbullterrier_l2",
+        "actorDataId": "militarymacaw_r",
         "serializeId": 1,
-        "name": "Ranger",
+        "name": "Military Macaw",
         "canCollect": false,
         "willGoToWasteland": false,
         "equipment": {
@@ -14348,7 +19066,7 @@ const exampleSaveJson = {
         "health": 5000,
         "death": false,
         "savedRoom": -1,
-        "FollowedID": 26
+        "FollowedID": 24
       }
     ],
     "id": 0,
@@ -14359,13 +19077,13 @@ const exampleSaveJson = {
     "dwellersWaiting": []
   },
   "task": {
-    "id": 4,
-    "time": 225.81,
+    "id": 7,
+    "time": 211.31,
     "tasks": [
       {
-        "startTime": 210.77,
-        "endTime": 240.77,
-        "id": 4,
+        "startTime": 199.94,
+        "endTime": 229.94,
+        "id": 7,
         "paused": false,
         "rescheduleToOldest": true
       }
@@ -14373,14 +19091,14 @@ const exampleSaveJson = {
     "pausedTasks": []
   },
   "time": {
-    "gameTime": 223.43,
+    "gameTime": 211.57,
     "questTime": 0,
-    "time": 225.81,
-    "timeSaveDate": 638514032802304600,
-    "timeGameBegin": 638514030544149900
+    "time": 211.31,
+    "timeSaveDate": 638517167883237800,
+    "timeGameBegin": 638517165770084400
   },
   "viewManager": {
-    "currentRoom": 4
+    "currentRoom": 1
   },
-  "versionCount": 2058
+  "versionCount": 2570
 };

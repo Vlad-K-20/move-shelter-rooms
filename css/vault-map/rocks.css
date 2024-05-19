@@ -1,0 +1,21 @@
+.vault-map-col.rock {
+    background-size: 100% 100%, auto;
+    background-repeat: no-repeat;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.vault-map-col.rock.rock-1 {
+    background-image: url("../../assets/objects/rock_1.png");
+}
+.vault-map-col.rock.rock-2 {
+    background-image: url("../../assets/objects/rock_2.png");
+}
+.vault-map-col.rock.rock-3 {
+    background-image: url("../../assets/objects/rock_3.png");
+}
+.vault-map-col.rock.rock-4 {
+    background-image: url("../../assets/objects/rock_4.png");
+}
+.vault-map-col.rock.rock-5 {
+    background-image: url("../../assets/objects/rock_5.png");
+}

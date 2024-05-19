@@ -45,7 +45,7 @@ const VAULT_MAX_COL = 25;
 
 const VAULT_ROOMS_TYPE_TO_ON_MAP_LABEL = {
     [vaultRoomsTypes.ELEVATOR]: {
-        1: "E"
+        1: ""
     },
     [vaultRoomsTypes.ENTRANCE]: {
         1: "Vault Door",
