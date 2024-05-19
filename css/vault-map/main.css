@@ -1,0 +1,62 @@
+:root {
+    --vault-map-col-width: 40px;
+    --vault-map-col-height: calc(var(--vault-map-col-width) * 2.3);
+    --vault-map-border: calc(var(--vault-map-col-width) / 12);
+    --vault-map-border-selected: calc(var(--vault-map-col-width) / 8);
+    --fallout-shelter-border-green: #065407;
+    --fallout-shelter-background-green: #12fd15;
+}
+
+.vault-map-container {
+    display: flex;
+    flex-flow: column nowrap;
+    width: max-content;
+    border: var(--vault-map-border) solid black;
+    background-image: url("../../assets/background/map_empty_background.png");
+}
+
+.vault-map-row {
+    display: flex;
+    flex-flow: row nowrap;
+    width: calc(var(--vault-map-col-width) * 26);
+}
+
+.vault-map-col {
+    height: var(--vault-map-col-height);
+    width: var(--vault-map-col-width);
+    text-align: center;
+    align-content: center;
+    box-sizing: border-box;
+    border: var(--vault-map-border) solid black;
+}
+
+.col-1 {
+    flex-grow: 0;
+}
+.col-2 {
+    flex-grow: 1;
+}
+.col-3 {
+    flex-grow: 2;
+}
+.col-4 {
+    flex-grow: 3;
+}
+.col-5 {
+    flex-grow: 4;
+}
+.col-6 {
+    flex-grow: 5;
+}
+.col-7 {
+    flex-grow: 6;
+}
+.col-8 {
+    flex-grow: 7;
+}
+.col-9 {
+    flex-grow: 8;
+}
+.col-10 {
+    flex-grow: 9;
+}

@@ -1,0 +1,415 @@
+.vault-map-col.disabled {
+    background-color: black;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.vault-map-col.elevator {
+    background-color: chocolate;
+}
+
+.vault-map-col.empty {
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.vault-map-col:is(.room, .entrance) {
+    background-color: cadetblue;
+}
+
+.vault-map-col:is(.room, .elevator) {
+    cursor: pointer;
+}
+
+.vault-map-col:is(.room, .entrance, .elevator) {
+    background-size: 100% 100%, auto;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-weight: bold;
+    font-size: large;
+}
+
+.vault-map-col.room.armory.l1-s1 {
+    background-image: url("../../assets/rooms/armory/1-1.png");
+}
+.vault-map-col.room.armory.l1-s2 {
+    background-image: url("../../assets/rooms/armory/1-2.png");
+}
+.vault-map-col.room.armory.l1-s3 {
+    background-image: url("../../assets/rooms/armory/1-3.png");
+}
+.vault-map-col.room.armory.l2-s1 {
+    background-image: url("../../assets/rooms/armory/2-1.png");
+}
+.vault-map-col.room.armory.l2-s2 {
+    background-image: url("../../assets/rooms/armory/2-2.png");
+}
+.vault-map-col.room.armory.l2-s3 {
+    background-image: url("../../assets/rooms/armory/2-3.png");
+}
+.vault-map-col.room.armory.l3-s1 {
+    background-image: url("../../assets/rooms/armory/3-1.png");
+}
+.vault-map-col.room.armory.l3-s2 {
+    background-image: url("../../assets/rooms/armory/3-2.png");
+}
+.vault-map-col.room.armory.l3-s3 {
+    background-image: url("../../assets/rooms/armory/3-3.png");
+}
+
+.vault-map-col.room.cafeteria.l1-s1 {
+    background-image: url("../../assets/rooms/cafeteria/1-1.png");
+}
+.vault-map-col.room.cafeteria.l1-s2 {
+    background-image: url("../../assets/rooms/cafeteria/1-2.png");
+}
+.vault-map-col.room.cafeteria.l1-s3 {
+    background-image: url("../../assets/rooms/cafeteria/1-3.png");
+}
+.vault-map-col.room.cafeteria.l2-s1 {
+    background-image: url("../../assets/rooms/cafeteria/2-1.png");
+}
+.vault-map-col.room.cafeteria.l2-s2 {
+    background-image: url("../../assets/rooms/cafeteria/2-2.png");
+}
+.vault-map-col.room.cafeteria.l2-s3 {
+    background-image: url("../../assets/rooms/cafeteria/2-3.png");
+}
+.vault-map-col.room.cafeteria.l3-s1 {
+    background-image: url("../../assets/rooms/cafeteria/3-1.png");
+}
+.vault-map-col.room.cafeteria.l3-s2 {
+    background-image: url("../../assets/rooms/cafeteria/3-2.png");
+}
+.vault-map-col.room.cafeteria.l3-s3 {
+    background-image: url("../../assets/rooms/cafeteria/3-3.png");
+}
+
+.vault-map-col.room.classroom.l1-s1 {
+    background-image: url("../../assets/rooms/classroom/1-1.png");
+}
+.vault-map-col.room.classroom.l1-s2 {
+    background-image: url("../../assets/rooms/classroom/1-2.png");
+}
+.vault-map-col.room.classroom.l1-s3 {
+    background-image: url("../../assets/rooms/classroom/1-3.png");
+}
+.vault-map-col.room.classroom.l2-s1 {
+    background-image: url("../../assets/rooms/classroom/2-1.png");
+}
+.vault-map-col.room.classroom.l2-s2 {
+    background-image: url("../../assets/rooms/classroom/2-2.png");
+}
+.vault-map-col.room.classroom.l2-s3 {
+    background-image: url("../../assets/rooms/classroom/2-3.png");
+}
+.vault-map-col.room.classroom.l3-s1 {
+    background-image: url("../../assets/rooms/classroom/3-1.png");
+}
+.vault-map-col.room.classroom.l3-s2 {
+    background-image: url("../../assets/rooms/classroom/3-2.png");
+}
+.vault-map-col.room.classroom.l3-s3 {
+    background-image: url("../../assets/rooms/classroom/3-3.png");
+}
+
+.vault-map-col.room.dojo.l1-s1 {
+    background-image: url("../../assets/rooms/dojo/1-1.png");
+}
+.vault-map-col.room.dojo.l1-s2 {
+    background-image: url("../../assets/rooms/dojo/1-2.png");
+}
+.vault-map-col.room.dojo.l1-s3 {
+    background-image: url("../../assets/rooms/dojo/1-3.png");
+}
+.vault-map-col.room.dojo.l2-s1 {
+    background-image: url("../../assets/rooms/dojo/2-1.png");
+}
+.vault-map-col.room.dojo.l2-s2 {
+    background-image: url("../../assets/rooms/dojo/2-2.png");
+}
+.vault-map-col.room.dojo.l2-s3 {
+    background-image: url("../../assets/rooms/dojo/2-3.png");
+}
+.vault-map-col.room.dojo.l3-s1 {
+    background-image: url("../../assets/rooms/dojo/3-1.png");
+}
+.vault-map-col.room.dojo.l3-s2 {
+    background-image: url("../../assets/rooms/dojo/3-2.png");
+}
+.vault-map-col.room.dojo.l3-s3 {
+    background-image: url("../../assets/rooms/dojo/3-3.png");
+}
+
+.vault-map-col.elevator.l1-s1 {
+    background-image: url("../../assets/rooms/elevator/1-1.png");
+}
+
+.vault-map-col.entrance.l1-s2 {
+    background-image: url("../../assets/rooms/entrance/1-2.png");
+}
+.vault-map-col.entrance.l2-s2 {
+    background-image: url("../../assets/rooms/entrance/2-2.png");
+}
+.vault-map-col.entrance.l3-s2 {
+    background-image: url("../../assets/rooms/entrance/3-2.png");
+}
+
+.vault-map-col.room.geothermal.l1-s1 {
+    background-image: url("../../assets/rooms/geothermal/1-1.png");
+}
+.vault-map-col.room.geothermal.l1-s2 {
+    background-image: url("../../assets/rooms/geothermal/1-2.png");
+}
+.vault-map-col.room.geothermal.l1-s3 {
+    background-image: url("../../assets/rooms/geothermal/1-3.png");
+}
+.vault-map-col.room.geothermal.l2-s1 {
+    background-image: url("../../assets/rooms/geothermal/2-1.png");
+}
+.vault-map-col.room.geothermal.l2-s2 {
+    background-image: url("../../assets/rooms/geothermal/2-2.png");
+}
+.vault-map-col.room.geothermal.l2-s3 {
+    background-image: url("../../assets/rooms/geothermal/2-3.png");
+}
+.vault-map-col.room.geothermal.l3-s1 {
+    background-image: url("../../assets/rooms/geothermal/3-1.png");
+}
+.vault-map-col.room.geothermal.l3-s2 {
+    background-image: url("../../assets/rooms/geothermal/3-2.png");
+}
+.vault-map-col.room.geothermal.l3-s3 {
+    background-image: url("../../assets/rooms/geothermal/3-3.png");
+}
+
+.vault-map-col.room.gym.l1-s1 {
+    background-image: url("../../assets/rooms/gym/1-1.png");
+}
+.vault-map-col.room.gym.l1-s2 {
+    background-image: url("../../assets/rooms/gym/1-2.png");
+}
+.vault-map-col.room.gym.l1-s3 {
+    background-image: url("../../assets/rooms/gym/1-3.png");
+}
+.vault-map-col.room.gym.l2-s1 {
+    background-image: url("../../assets/rooms/gym/2-1.png");
+}
+.vault-map-col.room.gym.l2-s2 {
+    background-image: url("../../assets/rooms/gym/2-2.png");
+}
+.vault-map-col.room.gym.l2-s3 {
+    background-image: url("../../assets/rooms/gym/2-3.png");
+}
+.vault-map-col.room.gym.l3-s1 {
+    background-image: url("../../assets/rooms/gym/3-1.png");
+}
+.vault-map-col.room.gym.l3-s2 {
+    background-image: url("../../assets/rooms/gym/3-2.png");
+}
+.vault-map-col.room.gym.l3-s3 {
+    background-image: url("../../assets/rooms/gym/3-3.png");
+}
+
+.vault-map-col.room.livingquarters.l1-s1 {
+    background-image: url("../../assets/rooms/livingquarters/1-1.png");
+}
+.vault-map-col.room.livingquarters.l1-s2 {
+    background-image: url("../../assets/rooms/livingquarters/1-2.png");
+}
+.vault-map-col.room.livingquarters.l1-s3 {
+    background-image: url("../../assets/rooms/livingquarters/1-3.png");
+}
+.vault-map-col.room.livingquarters.l2-s1 {
+    background-image: url("../../assets/rooms/livingquarters/2-1.png");
+}
+.vault-map-col.room.livingquarters.l2-s2 {
+    background-image: url("../../assets/rooms/livingquarters/2-2.png");
+}
+.vault-map-col.room.livingquarters.l2-s3 {
+    background-image: url("../../assets/rooms/livingquarters/2-3.png");
+}
+.vault-map-col.room.livingquarters.l3-s1 {
+    background-image: url("../../assets/rooms/livingquarters/3-1.png");
+}
+.vault-map-col.room.livingquarters.l3-s2 {
+    background-image: url("../../assets/rooms/livingquarters/3-2.png");
+}
+.vault-map-col.room.livingquarters.l3-s3 {
+    background-image: url("../../assets/rooms/livingquarters/3-3.png");
+}
+
+.vault-map-col.room.medbay.l1-s1 {
+    background-image: url("../../assets/rooms/medbay/1-1.png");
+}
+.vault-map-col.room.medbay.l1-s2 {
+    background-image: url("../../assets/rooms/medbay/1-2.png");
+}
+.vault-map-col.room.medbay.l1-s3 {
+    background-image: url("../../assets/rooms/medbay/1-3.png");
+}
+.vault-map-col.room.medbay.l2-s1 {
+    background-image: url("../../assets/rooms/medbay/2-1.png");
+}
+.vault-map-col.room.medbay.l2-s2 {
+    background-image: url("../../assets/rooms/medbay/2-2.png");
+}
+.vault-map-col.room.medbay.l2-s3 {
+    background-image: url("../../assets/rooms/medbay/2-3.png");
+}
+.vault-map-col.room.medbay.l3-s1 {
+    background-image: url("../../assets/rooms/medbay/3-1.png");
+}
+.vault-map-col.room.medbay.l3-s2 {
+    background-image: url("../../assets/rooms/medbay/3-2.png");
+}
+.vault-map-col.room.medbay.l3-s3 {
+    background-image: url("../../assets/rooms/medbay/3-3.png");
+}
+
+.vault-map-col.room.outfitfactory.l1-s3 {
+    background-image: url("../../assets/rooms/outfitfactory/1-3.png");
+}
+.vault-map-col.room.outfitfactory.l2-s3 {
+    background-image: url("../../assets/rooms/outfitfactory/2-3.png");
+}
+.vault-map-col.room.outfitfactory.l3-s3 {
+    background-image: url("../../assets/rooms/outfitfactory/3-3.png");
+}
+
+.vault-map-col.room.overseer.l1-s2 {
+    background-image: url("../../assets/rooms/overseer/2-2.png");
+}
+.vault-map-col.room.overseer.l2-s2 {
+    background-image: url("../../assets/rooms/overseer/2-2.png");
+}
+.vault-map-col.room.overseer.l3-s2 {
+    background-image: url("../../assets/rooms/overseer/3-2.png");
+}
+
+.vault-map-col.room.radio.l1-s1 {
+    background-image: url("../../assets/rooms/radio/1-1.png");
+}
+.vault-map-col.room.radio.l1-s2 {
+    background-image: url("../../assets/rooms/radio/1-2.png");
+}
+.vault-map-col.room.radio.l1-s3 {
+    background-image: url("../../assets/rooms/radio/1-3.png");
+}
+.vault-map-col.room.radio.l2-s1 {
+    background-image: url("../../assets/rooms/radio/2-1.png");
+}
+.vault-map-col.room.radio.l2-s2 {
+    background-image: url("../../assets/rooms/radio/2-2.png");
+}
+.vault-map-col.room.radio.l2-s3 {
+    background-image: url("../../assets/rooms/radio/2-3.png");
+}
+.vault-map-col.room.radio.l3-s1 {
+    background-image: url("../../assets/rooms/radio/3-1.png");
+}
+.vault-map-col.room.radio.l3-s2 {
+    background-image: url("../../assets/rooms/radio/3-2.png");
+}
+.vault-map-col.room.radio.l3-s3 {
+    background-image: url("../../assets/rooms/radio/3-3.png");
+}
+
+.vault-map-col.room.sciencelab.l1-s1 {
+    background-image: url("../../assets/rooms/sciencelab/1-1.png");
+}
+.vault-map-col.room.sciencelab.l1-s2 {
+    background-image: url("../../assets/rooms/sciencelab/1-2.png");
+}
+.vault-map-col.room.sciencelab.l1-s3 {
+    background-image: url("../../assets/rooms/sciencelab/1-3.png");
+}
+.vault-map-col.room.sciencelab.l2-s1 {
+    background-image: url("../../assets/rooms/sciencelab/2-1.png");
+}
+.vault-map-col.room.sciencelab.l2-s2 {
+    background-image: url("../../assets/rooms/sciencelab/2-2.png");
+}
+.vault-map-col.room.sciencelab.l2-s3 {
+    background-image: url("../../assets/rooms/sciencelab/2-3.png");
+}
+.vault-map-col.room.sciencelab.l3-s1 {
+    background-image: url("../../assets/rooms/sciencelab/3-1.png");
+}
+.vault-map-col.room.sciencelab.l3-s2 {
+    background-image: url("../../assets/rooms/sciencelab/3-2.png");
+}
+.vault-map-col.room.sciencelab.l3-s3 {
+    background-image: url("../../assets/rooms/sciencelab/3-3.png");
+}
+
+.vault-map-col.room.storage.l1-s1 {
+    background-image: url("../../assets/rooms/storage/1-1.png");
+}
+.vault-map-col.room.storage.l1-s2 {
+    background-image: url("../../assets/rooms/storage/1-2.png");
+}
+.vault-map-col.room.storage.l1-s3 {
+    background-image: url("../../assets/rooms/storage/1-3.png");
+}
+.vault-map-col.room.storage.l2-s1 {
+    background-image: url("../../assets/rooms/storage/2-1.png");
+}
+.vault-map-col.room.storage.l2-s2 {
+    background-image: url("../../assets/rooms/storage/2-2.png");
+}
+.vault-map-col.room.storage.l2-s3 {
+    background-image: url("../../assets/rooms/storage/2-3.png");
+}
+.vault-map-col.room.storage.l3-s1 {
+    background-image: url("../../assets/rooms/storage/3-1.png");
+}
+.vault-map-col.room.storage.l3-s2 {
+    background-image: url("../../assets/rooms/storage/3-2.png");
+}
+.vault-map-col.room.storage.l3-s3 {
+    background-image: url("../../assets/rooms/storage/3-3.png");
+}
+
+.vault-map-col.room.waterplant.l1-s1 {
+    background-image: url("../../assets/rooms/waterplant/1-1.png");
+}
+.vault-map-col.room.waterplant.l1-s2 {
+    background-image: url("../../assets/rooms/waterplant/1-2.png");
+}
+.vault-map-col.room.waterplant.l1-s3 {
+    background-image: url("../../assets/rooms/waterplant/1-3.png");
+}
+.vault-map-col.room.waterplant.l2-s1 {
+    background-image: url("../../assets/rooms/waterplant/2-1.png");
+}
+.vault-map-col.room.waterplant.l2-s2 {
+    background-image: url("../../assets/rooms/waterplant/2-2.png");
+}
+.vault-map-col.room.waterplant.l2-s3 {
+    background-image: url("../../assets/rooms/waterplant/2-3.png");
+}
+.vault-map-col.room.waterplant.l3-s1 {
+    background-image: url("../../assets/rooms/waterplant/3-1.png");
+}
+.vault-map-col.room.waterplant.l3-s2 {
+    background-image: url("../../assets/rooms/waterplant/3-2.png");
+}
+.vault-map-col.room.waterplant.l3-s3 {
+    background-image: url("../../assets/rooms/waterplant/3-3.png");
+}
+
+.vault-map-col.room.weaponfactory.l1-s3 {
+    background-image: url("../../assets/rooms/weaponfactory/1-3.png");
+}
+.vault-map-col.room.weaponfactory.l2-s3 {
+    background-image: url("../../assets/rooms/weaponfactory/2-3.png");
+}
+.vault-map-col.room.weaponfactory.l3-s3 {
+    background-image: url("../../assets/rooms/weaponfactory/3-3.png");
+}
+
+.vault-map-col:is(.elevator, .room):is(.selected, :hover):not(.no-hover) {
+    background-image: none;
+    background-color: var(--fallout-shelter-background-green);
+    border: var(--vault-map-border-selected) solid var(--fallout-shelter-border-green);
+}
