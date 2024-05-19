@@ -82,6 +82,9 @@ function showVaultMap() {
                             mapCol.classList.add("room");
                         }
                     }
+                    for (const backgroundClass of getRoomBackgroundClasses(room)) {
+                        mapCol.classList.add(backgroundClass);
+                    }
                 } else {
                     if (coordinatesHaveRock(r, c)) {
                         mapCol.classList.add("rock", getRandomRock(), "col-2");
@@ -195,11 +198,18 @@ function getRoomType(room) {
     return undefined;
 }
 
+function getRoomMergeLevel(room) {
+    if (room !== undefined) {
+        return room[JSONConstants.VAULT_FIELDS.ROOMS_FIELDS.MERGE_LEVEL];
+    }
+    return undefined;
+}
+
 function getRoomLength(room) {
     if (room === undefined) {
         return -1;
     }
-    const merge = room[JSONConstants.VAULT_FIELDS.ROOMS_FIELDS.MERGE_LEVEL];
+    const merge = getRoomMergeLevel(room);
     if (merge === undefined) {
         return -1;
     }
@@ -209,6 +219,33 @@ function getRoomLength(room) {
         return 1;
     }
     return merge * 3;
+}
+
+function getRoomLevel(room) {
+    if (room !== undefined) {
+        return room[JSONConstants.VAULT_FIELDS.ROOMS_FIELDS.LEVEL];
+    }
+    return undefined;
+}
+
+function getRoomBackgroundClasses(room) {
+    if (room === undefined) {
+        return [];
+    }
+    const type = getRoomType(room);
+    if (type === undefined) {
+        return [];
+    }
+    const level = getRoomLevel(room);
+    if (level === undefined) {
+        return [];
+    }
+    const merge = getRoomMergeLevel(room);
+    if (merge === undefined) {
+        return [];
+    }
+
+    return [type.toLowerCase(), `l${level}-s${merge}`];
 }
 
 function getRoomOnMapLabel(room) {
